@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "stupid government theory"
+date:   2023-05-16 13:19:15 +0300
+categories: jekyll update
+---
