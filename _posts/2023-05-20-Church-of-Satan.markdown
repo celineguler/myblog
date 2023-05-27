@@ -8,7 +8,6 @@ excerpt_separator: <!--more-->
 
 
 I needed to come to know all these influential phrases by the Church of Satan. It's LaVeyan Satanism, which rejects the legitimacy of theistic Satanism and embraces a non-dramatic understanding of Satan. "A religious organization" is a jesting way of the devote it's entity but that's just what Wikipedia did.
-
 <br><br>
 
 ![LaVeyan Satanism](/myblog/images/churchofsatan.jpeg)
