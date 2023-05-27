@@ -17,6 +17,7 @@ I was listening to a podcast about the Corspwood Manor, which about a gay couple
 <br>
 
 To understand Satan from sight of Lavey, I read about Satan's (non-biblical) characteristic and designated views of Satan as I hoped. To be honest, I don't have the pivot to confirm whether the embodiment I'm looking for is entirely consistent with Lavenian satanism. But it's close.
+
 <br>
 
 {: .italic-gray.indented}
