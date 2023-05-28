@@ -6,8 +6,9 @@ categories: jekyll update
 ---
 
 <div style="font-size: 20px;">
-	Selin Güler
+	<strong>Selin Güler</strong>
 </div>
+
 Urla/İzmir
 
 +90 552 744 60 14
@@ -21,6 +22,10 @@ s.guler2022@gtu.edu.tr
 <div style="font-size: 20px;">
 	<p><center><strong>EDUCATION</strong></center></p>
 </div>
+
+2022-2026			<strong>Gebze Technical University,</strong> Faculty of Science, Physics, Freshman, GPA 3.17
+
+2018-2020			<strong>Izmir Cengiz Aytmatov Sosyal Bilimler High School,</strong> GPA 91.7
 <br><br>
 
 <!-- Add the excerpt separator to your post content -->
