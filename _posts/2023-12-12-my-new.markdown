@@ -5,15 +5,11 @@ date:   2023-05-16 13:19:15 +0300
 categories: jekyll update
 ---
 
-{% raw %}
-
 
 
 <!-- Add the excerpt separator to your post content -->
 ---
 
-
-{% endraw %}
 
 
 
