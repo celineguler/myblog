@@ -12,13 +12,7 @@ categories: jekyll update
 
 <!-- Add the excerpt separator to your post content -->
 ---
-excerpt_separator: <!--more-->
----
 
-<!-- Add your post content here -->
-
-<!--more-->
-Out-of-excerpt
 
 {% endraw %}
 
