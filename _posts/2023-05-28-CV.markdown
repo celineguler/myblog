@@ -8,7 +8,7 @@ categories: jekyll update
 <div style="font-size: 20px;">
 	<strong>Selin Güler</strong>
 </div>
-
+<br>
 Urla/İzmir
 
 +90 552 744 60 14
@@ -22,7 +22,7 @@ s.guler2022@gtu.edu.tr
 <div style="font-size: 20px;">
 	<p><center><strong>EDUCATION</strong></center></p>
 </div>
-
+<br>
 2022-2026			<strong>Gebze Technical University,</strong> Faculty of Science, Physics, Freshman, GPA 3.17
 
 2018-2020			<strong>Izmir Cengiz Aytmatov Sosyal Bilimler High School,</strong> GPA 91.7
@@ -44,7 +44,7 @@ Pazarlama ve Finans Zirvesi'22 / <strong> Istanbul Technical University, Yatır�
 <div style="font-size: 20px;">
 	<p><center><strong>ADDITIONAL EDUCATION / CERTIFICATES</strong></center></p>
 </div>
-
+<br>
 Quantum Computing & Programming / <strong>QBronze using Qiskit</strong> / <strong>QTurkey</strong>
 
 Finans ve Yatırım Akademisi / <strong>Boğaziçi University, Management & Economics Club</strong>
@@ -59,5 +59,6 @@ Analysis Summer Program / <strong>Nesin Matematik Köyü</strong>
 <div style="font-size: 20px;">
 	<p><center><strong>SKILLS</strong></center></p>
 </div>
+<br>
 <strong>Visual Studio, Git, Python, NetworkX, pandas, Matplotlib, Qiskit, Excel, CeDAR</strong>
 <br><br>
