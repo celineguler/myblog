@@ -10,10 +10,16 @@ Selin Güler
 Urla/İzmir
 +90 552 744 60 14
 s.guler2022@gtu.edu.tr
-{: .splitter}
+
+<!-- Add the excerpt separator to your post content -->
+---
 
 education
-{: .splitter}
+
+<!-- Add the excerpt separator to your post content -->
+---
 
 education
-{: .splitter}
+
+<!-- Add the excerpt separator to your post content -->
+---
