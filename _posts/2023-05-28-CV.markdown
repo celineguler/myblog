@@ -16,8 +16,9 @@ s.guler2022@gtu.edu.tr
 
 <!-- Add the excerpt separator to your post content -->
 ---
-<br><br>
-education
+
+
+<p><center>**EDUCATION**</center></p>
 <br><br>
 
 <!-- Add the excerpt separator to your post content -->
