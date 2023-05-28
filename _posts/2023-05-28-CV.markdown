@@ -5,8 +5,9 @@ date: 2023-05-21 13:19:15 +0300
 categories: jekyll update
 ---
 
-Selin Güler
-
+<div style="font-size: 20px;">
+	Selin Güler
+</div>
 Urla/İzmir
 
 +90 552 744 60 14
@@ -17,22 +18,25 @@ s.guler2022@gtu.edu.tr
 <!-- Add the excerpt separator to your post content -->
 ---
 
-
-<p><center><strong>EDUCATION</strong></center></p>
+<div style="font-size: 20px;">
+	<p><center><strong>EDUCATION</strong></center></p>
+</div>
 <br><br>
 
 <!-- Add the excerpt separator to your post content -->
 ---
 
-
-<p><center><strong>EXPERIENCE</strong></center></p>
+<div style="font-size: 20px;">
+	<p><center><strong>EXPERIENCE</strong></center></p>
+</div>
 <br><br>
 
 <!-- Add the excerpt separator to your post content -->
 ---
 
-
-<p class="text-large"><center><strong>ADDITIONAL EDUCATION / CERTIFICATES</strong></center></p>
+<div style="font-size: 20px;">
+	<p><center><strong>ADDITIONAL EDUCATION / CERTIFICATES</strong></center></p>
+</div>
 <br><br>
 
 <!-- Add the excerpt separator to your post content -->
