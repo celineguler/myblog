@@ -44,6 +44,7 @@ s.guler2022@gtu.edu.tr
 </div>
 
 Quantum Computing & Programming / <strong>QBronze using Qiskit, QTurkey</strong>
+
 Finans ve Yatırım Akademisi / <strong>Boğaziçi University, Management & Economics Club</strong>
 <br><br>
 
