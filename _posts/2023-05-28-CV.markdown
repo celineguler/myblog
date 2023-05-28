@@ -59,6 +59,7 @@ Analysis Summer Program / <strong>Nesin Matematik Köyü</strong>
 <div style="font-size: 20px;">
 	<p><center><strong>SKILLS</strong></center></p>
 </div>
+<strong>Visual Studio, Git, Python, NetworkX, pandas, Matplotlib, Qiskit, Excel, CeDAR</strong>
 <br><br>
 
 <!-- Add the excerpt separator to your post content -->
