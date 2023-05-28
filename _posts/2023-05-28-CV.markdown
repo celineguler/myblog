@@ -43,10 +43,12 @@ s.guler2022@gtu.edu.tr
 	<p><center><strong>ADDITIONAL EDUCATION / CERTIFICATES</strong></center></p>
 </div>
 
-Quantum Computing & Programming / <strong>QBronze using Qiskit, QTurkey</strong>
+Quantum Computing & Programming / <strong>QBronze using Qiskit</strong> / <strong>QTurkey</strong>
 
 Finans ve Yatırım Akademisi / <strong>Boğaziçi University, Management & Economics Club</strong>
 <br><br>
+
+Analysis Summer Program / <strong>Nesin Matematik Köyü</strong>
 
 <!-- Add the excerpt separator to your post content -->
 ---
