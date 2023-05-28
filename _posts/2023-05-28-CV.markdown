@@ -24,8 +24,22 @@ s.guler2022@gtu.edu.tr
 <!-- Add the excerpt separator to your post content -->
 ---
 
+
+<p><center><strong>EXPERIENCE</strong></center></p>
 <br><br>
-education
+
+<!-- Add the excerpt separator to your post content -->
+---
+
+
+<p><center><strong>ADDITIONAL EDUCATION / CERTIFICATES</strong></center></p>
+<br><br>
+
+<!-- Add the excerpt separator to your post content -->
+---
+
+
+<p><center><strong>SKILLS</strong></center></p>
 <br><br>
 
 <!-- Add the excerpt separator to your post content -->
