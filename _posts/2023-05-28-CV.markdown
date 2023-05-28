@@ -34,6 +34,8 @@ s.guler2022@gtu.edu.tr
 <div style="font-size: 20px;">
 	<p><center><strong>EXPERIENCE</strong></center></p>
 </div>
+
+Pazarlama ve Finans Zirvesi'22 / <strong> Istanbul Technical University, Yatırım Kulübü</strong>
 <br><br>
 
 <!-- Add the excerpt separator to your post content -->
