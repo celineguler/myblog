@@ -7,11 +7,7 @@ categories: jekyll update
 
 {% raw %}
 
-<!-- Add the following code to display a list of posts with excerpts -->
 
-
-<!-- Add the excerpt separator to your post content -->
----
 
 
 {% endraw %}
