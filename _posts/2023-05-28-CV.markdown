@@ -12,17 +12,20 @@ Urla/İzmir
 s.guler2022@gtu.edu.tr
 
 <br><br>
+
 <!-- Add the excerpt separator to your post content -->
 ---
 
 education
 
 <br><br>
+
 <!-- Add the excerpt separator to your post content -->
 ---
 
 education
 
 <br><br>
+
 <!-- Add the excerpt separator to your post content -->
 ---
