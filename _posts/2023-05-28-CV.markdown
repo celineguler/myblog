@@ -49,7 +49,7 @@ Quantum Computing & Programming / <strong>QBronze using Qiskit</strong> / <stron
 
 Finans ve Yatırım Akademisi / <strong>Boğaziçi University, Management & Economics Club</strong>
 
-Analysis Summer Program / <strong>Nesin Matematik Köyü</strong>
+Investimate Sanal Yatırım Yarışması / <strong>Boğaziçi University, Management & Economics Club</strong>
 <br><br>
 
 <!-- Add the excerpt separator to your post content -->
