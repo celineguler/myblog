@@ -25,7 +25,7 @@ s.guler2022@gtu.edu.tr
 <br>
 2022-2026			<strong>Gebze Technical University,</strong> Faculty of Science, Physics, Freshman, GPA 3.17
 
-2018-2020			<strong>Izmir Cengiz Aytmatov Sosyal Bilimler High School,</strong> GPA 91.7
+2018-2020			<strong>Izmir Cengiz Aytmatov Social  High School,</strong> GPA 91.7
 <br><br>
 
 <!-- Add the excerpt separator to your post content -->
@@ -50,6 +50,8 @@ Quantum Computing & Programming / <strong>QBronze using Qiskit</strong> / <stron
 Finans ve Yatırım Akademisi / <strong>Boğaziçi University, Management & Economics Club</strong>
 
 Investimate Sanal Yatırım Yarışması / <strong>Boğaziçi University, Management & Economics Club</strong>
+
+ISO 9001:2015 Quality Management System / <strong>GTU CHEMSOC</strong>
 <br><br>
 
 <!-- Add the excerpt separator to your post content -->
