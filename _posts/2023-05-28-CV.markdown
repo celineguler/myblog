@@ -47,11 +47,11 @@ Pazarlama ve Finans Zirvesi'22 / <strong> Istanbul Technical University, Yatır�
 <br>
 Quantum Computing & Programming / <strong>QBronze using Qiskit</strong> / <strong>QTurkey</strong>
 
+ISO 9001:2015 Quality Management System / <strong>Gebze Technical University, Chemical Society</strong>
+
 Finans ve Yatırım Akademisi / <strong>Boğaziçi University, Management & Economics Club</strong>
 
 Investimate Sanal Yatırım Yarışması / <strong>Boğaziçi University, Management & Economics Club</strong>
-
-ISO 9001:2015 Quality Management System / <strong>GTU CHEMSOC</strong>
 <br><br>
 
 <!-- Add the excerpt separator to your post content -->
