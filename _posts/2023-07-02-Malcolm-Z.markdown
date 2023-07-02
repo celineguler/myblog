@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Malcolm Z"
-date:   2023-07-02 09:19:15 +0300
+date:   2023-05-20 09:19:15 +0300
 categories: jekyll update
 excerpt_separator: <!--more-->
 ---
+
 
 Before diving into Malcolm Z, the hero who will stand out from the movements that Generation Z will be lifting on LGBTQ, I would like to touch on Malcolm X's same-sex propaganda. And the article called 'gay for pay'.
 
