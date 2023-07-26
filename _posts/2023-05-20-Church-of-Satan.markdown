@@ -24,7 +24,7 @@ To understand Satan from sight of Lavey, I read about Satan's (non-biblical) cha
 {: .italic-gray.indented}
 > *in some literary interpretations or alternative perspectives, Satan can be portrayed as a complex figure who understands the human experience and the range of emotions, including sadness. In these interpretations, Satan may view sadness as a tool to manipulate and exploit individuals, exploiting their vulnerabilities or weaknesses for his own purposes.*
 
-
+YOUR MOM.
 
 
 
