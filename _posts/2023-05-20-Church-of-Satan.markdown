@@ -14,12 +14,7 @@ I needed to come to know all these influential phrases by the Church of Satan. I
 
 <br>
 I was listening to a podcast about the Corspwood Manor, which about a gay couple who murdered brutally in their manors that build by themselves. The interesting character of the story is Dr. Charles Lee Scudder, the homosexual devil worshipper who plays his harp when the full moon comes out and paints his pink winged dog statue as neon. I have to mention that Scudder was brought up with wealthy and educated parents, as in general wealthy upbringing refers the ancient Greek philosophers. Through the whole case, Joey was the certain victim as being the one who was incapablities, which I don't know if it's making him more divine. Actually there's a site on the internet tells about him and the Corpswood Case more in detail and atrocity, [tragic-case-of-dr-charles-lee-scudder][tragic-case-dr-charles-lee-scudder]. And yes it's unawares me discovering one of the greatest websites existing, [churchofsatan.com][churchofsatan.com].
-
-/* styles.css */
-.line-divider {
-  border: 1px solid #ccc; /* Adjust the color to your desired shade of gray */
-  margin: 20px 0; /* Adjust the margin as per your layout preferences */
-}
+<div class="line-divider"></div>
 <br>
 
 To understand Satan from sight of Lavey, I read about Satan's (non-biblical) characteristic and designated views of Satan as I hoped. To be honest, I don't have the pivot to confirm whether the embodiment I'm looking for is entirely consistent with Lavenian satanism. But it's close.
