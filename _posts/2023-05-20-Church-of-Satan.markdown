@@ -31,7 +31,7 @@ Here's a good quote from the book.
 > *"Hate your enemies with a whole heart, and if a man smite you on one cheek, smash him on the other!"*
 
 <br>
-I must mention that Hedonism is an infuential section of the Satanic Bible. The artwork of three pig-heads feasting might be an efficient way to depict Hedonism. Lavey shares tons of quotes in the book to encourages individuals to enjoy and savor their desires and pleasures rather than denying them in the name of asceticism or self-denial. Asceticism just makes no sense brother.
+I must mention that Hedonism is an infuential section of the Satanic Bible. The artwork of three pig-heads feasting might be an efficient way to depict Hedonism [image][image]. Lavey shares tons of quotes in the book to encourages individuals to enjoy and savor their desires and pleasures rather than denying them in the name of asceticism or self-denial. Asceticism just makes no sense brother.
 <br>
 
 
@@ -62,3 +62,4 @@ I must mention that Hedonism is an infuential section of the Satanic Bible. The 
 [churchofsatan.com]: https://www.churchofsatan.com/
 [tragic-case-dr-charles-lee-scudder]: https://www.churchofsatan.com/tragic-case-dr-charles-lee-scudder/
 [is-science-only-for-the-rich-?]: https://www.nature.com/articles/537466a
+[image]: https://miro.medium.com/v2/resize:fit:1200/1*XGL7sKUW4dcByLVad5ctHg.jpeg
