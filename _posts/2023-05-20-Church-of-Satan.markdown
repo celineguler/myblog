@@ -17,15 +17,17 @@ I was listening to a podcast about the Corspwood Manor, which about a gay couple
 
 <br>
 To understand Satan from sight of Lavey, I read about Satan's (non-biblical) characteristic and designated views of Satan as I hoped. To be honest, I don't have the pivot to confirm whether the embodiment I'm looking for is entirely consistent with Lavenian satanism. But it's close.
-
 <br>
+
+
 {: .italic-gray.indented}
 > *in some literary interpretations or alternative perspectives, Satan can be portrayed as a complex figure who understands the human experience and the range of emotions, including sadness. In these interpretations, Satan may view sadness as a tool to manipulate and exploit individuals, exploiting their vulnerabilities or weaknesses for his own purposes.*
 
 <br>
 I must refer that Hedonism is a influential section of the Satanic Bible. The artwork of three pig-heads feasting might be the symbol of Hedonism.
-
 <br>
+
+
 {: .italic-gray.indented}
 > *"The Satanist realizes that man's greatest potential for self-realization lies in his endless opportunities for self-indulgence."*
 
