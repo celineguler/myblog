@@ -14,6 +14,7 @@ I needed to come to know all these influential phrases by the Church of Satan. I
 
 <br>
 I was listening to a podcast about the Corspwood Manor, which about a gay couple who murdered brutally in their manors that build by themselves. The interesting character of the story is Dr. Charles Lee Scudder, the homosexual devil worshipper who plays his harp when the full moon comes out and paints his pink winged dog statue as neon. I have to mention that Scudder was brought up with wealthy and educated parents, as in general wealthy upbringing refers the ancient Greek philosophers. Through the whole case, Joey was the certain victim as being the one who was incapablities, which I don't know if it's making him more divine. Actually there's a site on the internet tells about him and the Corpswood Case more in detail and atrocity, [tragic-case-of-dr-charles-lee-scudder][tragic-case-dr-charles-lee-scudder]. And yes it's unawares me discovering one of the greatest websites existing, [churchofsatan.com][churchofsatan.com].
+--------------------------------------------------------------------------------------------------------------------
  
 <br>
 
@@ -24,7 +25,6 @@ To understand Satan from sight of Lavey, I read about Satan's (non-biblical) cha
 {: .italic-gray.indented}
 > *in some literary interpretations or alternative perspectives, Satan can be portrayed as a complex figure who understands the human experience and the range of emotions, including sadness. In these interpretations, Satan may view sadness as a tool to manipulate and exploit individuals, exploiting their vulnerabilities or weaknesses for his own purposes.*
 
-YOUR MOM.
 
 
 
