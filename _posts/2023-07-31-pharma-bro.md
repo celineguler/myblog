@@ -3,5 +3,9 @@ layout: "post"
 title: "pharma bro"
 ---
 
+Wow.
+<br><br>
 
-content
+![reddit](/myblog/images/pharmabro.jpg)
+
+<br>
