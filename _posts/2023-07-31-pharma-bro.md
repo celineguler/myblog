@@ -7,5 +7,10 @@ title: "pharma bro"
 
 <br>
 
-![quote1](/myblog/images/pharma.jpg)
-![quote2](/myblog/images/bro.jpg)
+Here's all the criticized topics of Dr. Gupta.
+<br>
+![quote1](/myblog/images/brown.jpg)
+<br>
+![quote2](/myblog/images/gupta.jpg)
+<br>
+![quote2](/myblog/images/reddit.jpg)
