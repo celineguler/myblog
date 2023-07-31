@@ -7,4 +7,5 @@ title: "pharma bro"
 
 <br>
 
+![quote1](/myblog/images/pharma.jpg)
 ![quote2](/myblog/images/bro.jpg)
