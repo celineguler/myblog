@@ -8,3 +8,4 @@ title: "pharma bro"
 <br>
 
 ![youtube](/myblog/images/pharma.jpg)
+![quote](/myblog/images/bro.jpg)
