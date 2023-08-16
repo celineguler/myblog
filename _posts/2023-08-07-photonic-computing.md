@@ -5,17 +5,15 @@ title:  "Photonic Computing"
 
 Photonics is expanding dramatically since the shift need of mainstream electronic where it fails to show higher performance with low power and deal with the exponential growth of in data. Optical communication is appreciated well enough since it provides the internet’s infrastructure, yet still promises more in data processing and data storage. Here's the numbers for required performance capasity.
 
-Electons:
+Electons:                                  Photons:
 
-* Excellent for information processing.
-* Substantial interactions.
-* High losses.
+* Excellent for information processing.    * Excellent for communication of information.
+* Substantial interactions.				   * Interacting weekly, only in nonlinear media.
+* High losses.							   * You guessed it.
 
-Photons:
 
-* Excellent for communication of information.
-* Interacting weekly, only in nonlinear media.
-* Low losses.
+
+
 
 Several challanges come along with optical computing with it's massive paralellism.
 IOWN, which I'll talk more on my post [IOWN][IOWN], is on how components of our devices can communicate and interact faster with IOWN 3.0.
