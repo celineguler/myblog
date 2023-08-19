@@ -16,8 +16,6 @@ Let's discuss this where the above articles casually lead me to it.
 
 <br>
 
-![onn](/myblog/images/onn.jpg)
-
 <br>
 
 
