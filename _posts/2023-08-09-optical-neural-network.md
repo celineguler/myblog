@@ -16,6 +16,8 @@ Let's discuss this where the above articles casually lead me to it.
 
 <br>
 
+![onn2](/myblog/images/onn.png)
+
 <br>
 
 
