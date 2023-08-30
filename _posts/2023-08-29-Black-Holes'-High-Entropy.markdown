@@ -26,7 +26,9 @@ Here's *chaos* by Google:
 Quora highly disagrees that chaos and entropy are not interchangeable. Frankly, I made a generalization because most writers use "on the other hand", "whereas". Google's definitions mostly allign with (I trust Quora more than Google) so we can also say Google agreed the statement. But I don't think this tweet wouldn't agree that Google sorting both terms in the cast of Physics.
 
 
+Here's my full interview where I explore the concepts of *chaos* and *entropy* [https://www.interview.com][chatgpt]
 
 
 
 [Quora]: https://www.quora.com/What-is-the-difference-between-entropy-and-chaos
+[chatgpt]: https://chat.openai.com/share/5447bd97-3859-4a34-afbd-04f514c741be
