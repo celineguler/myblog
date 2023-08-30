@@ -5,13 +5,13 @@ title:  "Photonic Computing"
 
 Photonics is expanding dramatically since the shift need of mainstream electronic where it fails to show higher performance with low power and deal with the exponential growth of in data. Optical communication is appreciated well enough since it provides the internet’s infrastructure, yet still promises more in data processing and data storage. Here's the numbers for required performance capasity.
 
-Electrons:                                  
+*Electrons*:                                  
 
 * __Excellent for information processing.__
 * __Substantial interactions.__
 * __High losses.__							   
 
-Photons:
+*Photons*:
 
 * __Excellent for communication of information.__
 * __Interacting weakly, only in non-linear media.__
