@@ -7,8 +7,10 @@ Just want to point out that I realized my misconceptions about entropy and chaos
 
 Let me clarify the concepts the best I can with giving some definitions.
 
+Here's entropy:
 {: .italic-gray.indented}
 > *"Entropy is the measure of energy dispersion. The more entropy, the more equally the energy is distributed."*
 
+Here's chaos:
 {: .italic-gray.indented}
 > *"Chaos is a system that exhibits complex dynamics, which is sensitive to initial conditions. Chaotic behavior has a certain order. "*
