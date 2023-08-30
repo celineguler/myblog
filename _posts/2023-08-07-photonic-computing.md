@@ -7,15 +7,15 @@ Photonics is expanding dramatically since the shift need of mainstream electroni
 
 Electrons:                                  
 
-* Excellent for information processing.    
-* Substantial interactions.				   
-* High losses.							   
+* __Excellent for information processing.__
+* __Substantial interactions.__
+* __High losses.__							   
 
 Photons:
 
-* Excellent for communication of information.
-* Interacting weakly, only in non-linear media.
-* You guessed it
+* __Excellent for communication of information.__
+* __Interacting weakly, only in non-linear media.__
+* __You guessed it__
 
 Photons does not interact strongly as other particles, mostly they can pass through each other easily. Well exceptions exist such as non-linear optical effects, photon-photon scattering (basically two photons interact and scatter off each other due to the exchange of virtual particles like electrons in high-energy enivorments), QED vacuum fluctuations, high photon densities (photon-photon correlations) etc. (or not etc. not sure)
 
