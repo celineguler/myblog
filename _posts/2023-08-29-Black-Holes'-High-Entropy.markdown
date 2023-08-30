@@ -7,11 +7,11 @@ Just want to point out that I realized my misconceptions about entropy and chaos
 
 Let me clarify the concepts the best I can with giving some definitions.
 
-Here's *entropy* by Quora:
+Here's *entropy* by [Quora][Quora]:
 {: .italic-gray.indented}
 > *"Entropy is the measure of energy dispersion. The more entropy, the more equally the energy is distributed."*
 
-Here's *chaos* by Quora:
+Here's *chaos* by [Quora][Quora]:
 {: .italic-gray.indented}
 > *"Chaos is a system that exhibits complex dynamics, which is sensitive to initial conditions. Chaotic behavior has a certain order. "*
 
@@ -27,3 +27,6 @@ Quora highly disagrees that chaos and entropy are not interchangeable. Frankly, 
 
 
 
+
+
+[Quora]: https://www.quora.com/What-is-the-difference-between-entropy-and-chaos
