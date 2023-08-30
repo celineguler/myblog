@@ -33,17 +33,17 @@ You can check [this][chatgpt], my full interview where I poorly try to explore t
 
 As we get to the theory, we can meausure and talk about complexity with the parameters such as amount of components, we do our math as infinite amount of components will give infinite complexity! 
 
-__*Number of Components*__: A system with more components (e.g., neurons, particles, elements) can be considered more complex, but this metric doesn't account for interactions and emergent properties.
+__Number of Components__: A system with more components (e.g., neurons, particles, elements) can be considered more complex, but this metric doesn't account for interactions and emergent properties.
 
-__*Interactions and Connectivity*__: The number and nature of interactions among components contribute to complexity. Networks with intricate connections can be more complex.
+__Interactions and Connectivity__: The number and nature of interactions among components contribute to complexity. Networks with intricate connections can be more complex.
 
-__*Information Theory*__: Complexity can be related to the amount of information needed to describe a system's behavior. High information content suggests higher complexity.
+__Information Theory__: Complexity can be related to the amount of information needed to describe a system's behavior. High information content suggests higher complexity.
 
-__*Emergent Properties*__: Systems that exhibit emergent behaviors, where collective interactions lead to novel phenomena, are often considered more complex.
+__Emergent Properties__: Systems that exhibit emergent behaviors, where collective interactions lead to novel phenomena, are often considered more complex.
 
-__*Adaptability*__: Systems that can adapt to changing environments or evolve over time tend to be more complex.
+__Adaptability__: Systems that can adapt to changing environments or evolve over time tend to be more complex.
 
-__*Hierarchy and Self-Organization*__: Systems with hierarchical organization and self-organizing properties can be considered more complex due to multiple levels of interactions.
+__Hierarchy and Self-Organization__: Systems with hierarchical organization and self-organizing properties can be considered more complex due to multiple levels of interactions.
 
 
 [Quora]: https://www.quora.com/What-is-the-difference-between-entropy-and-chaos
