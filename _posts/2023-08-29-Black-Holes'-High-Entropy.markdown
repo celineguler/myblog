@@ -26,8 +26,7 @@ Here's *chaos* by Google:
 Quora highly disagrees that chaos and entropy are not interchangeable. Frankly, I made a generalization because most writers use "on the other hand", "whereas". Google's definitions mostly allign with (I trust Quora more than Google) so we can also say Google agreed the statement. But I don't think this tweet wouldn't agree that Google sorting both terms in the cast of Physics.
 
 
-You can check [this][chatgpt], my full interview where I explore the concepts of *chaos* and *entropy*.	
-
+You can check [this][chatgpt], my full interview where I explore the concepts of *chaos* and *entropy*.	I must mention that the interview and without satisfiying my question about the *limit for complexity in physical world*. Because this concept, physical complexity, feel inadequate when you think of systems such as the brain or cloud (literally talking about that they are actually not complex enough to be satisfied), while complexities such as black holes or space that never fit into a circle while enlarging its diameter make it feel neutral and simplified, not acutally *not complex*.
 
 
 [Quora]: https://www.quora.com/What-is-the-difference-between-entropy-and-chaos
