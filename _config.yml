@@ -21,7 +21,7 @@
 title: the blog
 email: selinguller3017@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I was running out of paper and also thought it was too dramatic.
+  I do STEM
 baseurl: "myblog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: celineguler
