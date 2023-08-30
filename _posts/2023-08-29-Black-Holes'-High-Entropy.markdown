@@ -24,7 +24,8 @@ Here's *chaos* by Google:
 > *"The property of a complex system whose behaviour is so unpredictable as to appear random, owing to great sensitivity to small changes in conditions."*
 
 Quora highly disagrees that chaos and entropy are not interchangeable. Frankly, I made a generalization because most writers use "on the other hand", "whereas". Google's definitions mostly allign with (I trust Quora more than Google) so we can also say Google agreed the statement. But I don't think this tweet wouldn't agree that Google sorting both terms in the cast of Physics.
-<br>
+
+
 _____________________________________________________________________________________________________________
 
 <br>
