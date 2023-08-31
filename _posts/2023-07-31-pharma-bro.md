@@ -3,4 +3,4 @@ layout: "post"
 title: "the big short"
 ---
 
-After having a hard time trying to understand the concept of the shorting, and rewining the part where Margot Robbie explains it brutally; Michael Burry is still my favorite person alive.
+After spending a long miserable time understanding the concept of shorting and rewinding Margot Robbie's brutal expotions on it, the big short is still my favorite movie.
