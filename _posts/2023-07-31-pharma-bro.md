@@ -7,7 +7,7 @@ After spending a long miserable time understanding the concept of shorting (it's
 
 ![thebigshort](/myblog/images/christian.jpg)
 
-Actually let me tell you more on shorting cause I have a joyful pride with knowing what [it is][shorting]. The basic logic of shorting is the need to evaluate your ability to read the graph backwards and turning your prediction that a security will lose value into cash. Shkreli keeps pointing out the [importance of shorting][shkreli] even though he doesn't favor Michael Burry as an investor. Here's an [article][yahoo] on Yahoo Finance ranking the best short sellers of all time. 
+Actually let me tell you more on shorting cause I have a joyful pride with knowing what [it is][shorting]. The basic logic of shorting is the need to evaluate your ability to read the graph backwards and turning your prediction that a security will lose value into cash. Shkreli keeps pointing out the [importance of shorting][shkreli] even though he doesn't favor Michael Burry as an investor. Also here's an [article][yahoo] on Yahoo Finance ranking the best short sellers of all time -- which I can't tell if it makes shorting less important since Shkreli can rank 100 better investors than Burry, where Burry blavingly represents shorting.  
 
 
 
