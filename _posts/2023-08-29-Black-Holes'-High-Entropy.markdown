@@ -25,7 +25,7 @@ Here's *chaos* by Google:
 
 Quora highly disagrees that chaos and entropy are not interchangeable. Frankly, I made a generalization because most writers use "on the other hand", "whereas". Google's definitions mostly allign with (I trust Quora more than Google) so we can also say Google agreed the statement. But I don't think this tweet wouldn't agree that Google sorting both terms in the cast of Physics.
 
-
+<br>
 _____________________________________________________________________________________________________________
 
 <br>
@@ -48,7 +48,7 @@ __Adaptability__: Systems that can adapt to changing environments or evolve over
 
 __Hierarchy and Self-Organization__: Systems with hierarchical organization and self-organizing properties can be considered more complex due to multiple levels of interactions.
 
-
+<br>
 _____________________________________________________________________________________________________________
 
 <br>
