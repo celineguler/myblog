@@ -3,7 +3,7 @@ layout: "post"
 title: "the big short"
 ---
 
-After spending a long miserable time understanding the concept of shorting (it's the opposite of trading) and rewinding Margot Robbie's brutal expotions on it, the big short is still my favorite movie of all time.
+After spending a long miserable time understanding the concept of shorting (it's the opposite of trading) and rewinding Margot Robbie's brutal expotions on it, the big short is still my favorite movie of all time. It's a shitty documentary and a good movie. And it includes Ryan Gosling.
 
 ![thebigshort](/myblog/images/christian.jpg)
 
