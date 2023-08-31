@@ -3,7 +3,7 @@ layout: "post"
 title: "the big short"
 ---
 
-After spending a long miserable time understanding the concept of shorting (it's the opposite of trading) and rewinding Margot Robbie's brutal expotions on it, the big short is still my favorite movie of all time. It's a shitty documentary and a good movie. And it includes Ryan Gosling.
+After spending a long miserable time understanding the concept of shorting (it's the opposite of trading) and rewinding Margot Robbie's brutal expotions on it, the big short is still my favorite movie of all time. It's a shitty documentary and a good movie. And it includes [Ryan Gosling][ryan].
 
 <br>
 ![thebigshort](/myblog/images/christian.jpg)
@@ -32,7 +32,7 @@ Actually let me tell you more on shorting cause I have a joyful pride with knowi
 
 
 
-
+[ryan]: https://en.wikipedia.org/wiki/Ryan_Gosling
 [doctor]: https://youtu.be/pLLgNi5UmB0?feature=shared
 [yahoo]: https://finance.yahoo.com/news/10-most-successful-short-sellers-141904957.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAFfSTZy9nD_DkNmqatNB25kvDBAlUSgZtutxW7uAMXx2SDZocGg6IVKyYXIeHtbPVJq7KJO9bwRYjqKRqNtfQGBbT11KnZ5F5D9FH5PHqVRzuKY6gEYyS7YerK1wL86509PZWalkF5ncMuTPlqXM0TI17nIS3z8m0w4PquOBEM0a
 [shkreli]: https://www.youtube.com/watch?v=IvKuxUH60i8
