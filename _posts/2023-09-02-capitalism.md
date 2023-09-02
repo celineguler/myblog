@@ -7,7 +7,7 @@ I only know enough about this ideology to be able to picture palms and Californi
 
 Martin Shkreli faced with jail, where it doesn't make me think that it's because he rised the price of a life-saving drug (which he stated that people who need this drug can easily reach out to it, but not the big markets who buys the drug and sale it for more), but because of where his coming from.
 
-Shkreli's parents where janitors, which is really close to home to me, and I might be wrong, surely, but redefining these type of services in U.S. never faced this roughly with anyone that the way it faced Shkreli. What else to think in this situtation, especially for me. Ngl, I relate hard except the parts where Shkreli become a multi-millionare.
+Shkreli's parents where janitors, which is really close to home to me, and I might be wrong, surely, but redefining these type of services in U.S. never faced this roughly with anyone that the way it faced Shkreli. What else to think in this situtation? Especially for me. Ngl, I relate hard except the parts where Shkreli become a multi-millionare.
 
 
 
