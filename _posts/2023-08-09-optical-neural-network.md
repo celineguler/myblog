@@ -16,7 +16,7 @@ the computing not only for the inference, but also for the training be implement
 
 Let's discuss this where the above articles casually lead me to it. But first, I'm gonna try to clarify the concepts of ONNs (optical neural networks) and ANN's (artificial neural networks) where I only have the sence of ANNs. Also, here's a casual [brainfuck][quantum] called QNNs for companions.
 
-Firstly, I can declare my early confussions on the physical structures on neural networks. We know that ANNs are mathematical models at their core which represents a virtual structure for connections between artificial neurons. So the computations in ANNs occurs through mathematical operations which needs to be executed on a computational device, such as CPU or GPU. So basically physical electronic structure is the implementation of ANNs into hardware or direct implemtation of any mathematical computation --- this involves using electronic components to simulate mathematical operations performed by artificial neurons.  
+Firstly, I can declare my early confussions on the physical structures on neural networks. We know that ANNs are mathematical models at their core which represents a virtual structure for connections between artificial neurons. So the computations in ANNs occurs through mathematical operations which needs to be executed on a computational device, such as [CPU or GPU][cpu] (there's a discussing on which is more suitable for ML, I go with GPU since [tinygrad][tinygrad] declared that). So basically physical electronic structure is the implementation of ANNs into hardware or direct implemtation of any mathematical computation --- this involves using electronic components to simulate mathematical operations performed by artificial neurons.  
 
 ![onn2](/myblog/images/onn.png)
 
@@ -33,8 +33,8 @@ Firstly, I can declare my early confussions on the physical structures on neural
 
 
 
-
-
+[tinygrad]: tinygrad.org
+[cpu]: https://www.analyticsvidhya.com/blog/2023/03/cpu-vs-gpu/#:~:text=In%20conclusion%2C%20several%20steps%20of,GPUs%20may%20both%20be%20utilized.
 [quantum]: https://en.wikipedia.org/wiki/Quantum_neural_network
 [training neural networks with end-to-end optical backpropagation]: https://arxiv.org/abs/2308.05226#:~:text=However%2C%20to%20reach%20the%20full,the%20training%20be%20implemented%20optically.
 [CONF-CDS 2020]: https://www.youtube.com/watch?v=EfGLJ47dg80
