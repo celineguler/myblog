@@ -18,7 +18,9 @@ Let's discuss this where the above articles casually lead me to it. But first, I
 
 Firstly, I can declare my early confussions on the physical structures on neural networks. We know that ANNs are mathematical models at their core which represents a virtual structure for connections between artificial neurons. So the computations in ANNs occurs through mathematical operations which needs to be executed on a computational device, such as [CPU or GPU][cpu] (there's a discussion on which unit is more suitable for machine learning). So physical electronic structure is the implementation of ANNs into hardware or basically direct implementation of any mathematical computation --- this involves using electronic components to simulate mathematical operations performed by artificial neurons. Which is called computation. Thank you for your time. But it was a challange to understand the virtual structure representation of the architecture and computations are conceptually independent of any specific physical implementation. 
 
-Optical neural networks, on the other hand, are designed and implemented using optical components like lasers, waveguides, and photodetectors. The physical design of these networks is different from traditional electronic neural networks and requires an sense of optical computing. ONNs manipulate and process information using light. So mathematical operation architecture based on the manipulation of the light signals through the interference, diffraction and other optical phenomena. Implementing ONNs typically involves designing and building physical optical structures. While traditional ANNs can be run on standard CPUs and GPUs, ONNs are a specialized area that involves the design and construction of physical optical structures due to their use of optics for computation. We test optical computation. You may now get my confussion on this physical structure implementation, it's neither an *upgrade*, *transformation* or *replacement* on classical computing. Which is confusing. 
+Optical neural networks, on the other hand, are designed and implemented using optical components like lasers, waveguides, and photodetectors. The physical design of these networks is different from traditional electronic neural networks and requires an sense of optical computing. ONNs manipulate and process information using light. So mathematical operation architecture based on the manipulation of the light signals through the interference, diffraction and other optical phenomena. Implementing ONNs typically involves designing and building physical optical structures. While traditional ANNs can be run on standard CPUs and GPUs, ONNs are a specialized area that involves the design and construction of physical optical structures due to their use of optics for computation. We test [*optical computation*][oc].
+
+You may now get my confussion on this physical structure implementation, it's neither an *upgrade*, *transformation* or *replacement* on classical computing. Which is confusing. 
 
 
 
@@ -56,7 +58,7 @@ Optical neural networks, on the other hand, are designed and implemented using o
 
 
 
-
+[oc]: https://en.wikipedia.org/wiki/Optical_computing
 [tinygrad]: tinygrad.org
 [cpu]: https://www.analyticsvidhya.com/blog/2023/03/cpu-vs-gpu/#:~:text=In%20conclusion%2C%20several%20steps%20of,GPUs%20may%20both%20be%20utilized.
 [quantum]: https://en.wikipedia.org/wiki/Quantum_neural_network
