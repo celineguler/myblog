@@ -12,7 +12,7 @@ While electrons often considered more suitable for information processing (reaso
 > *"However, to reach the full capacity of an optical neural network it is necessary that
 the computing not only for the inference, but also for the training be implemented optically."*
 
-Let's discuss this where the above articles casually lead me to it. But first, I'm gonna try to clarify the concepts of ONNs (optical neural networks), ENNs (electronic neural networks) and ANN's (artificial neural networks) where I only have the sence of ANNs. Also, here's a casual [brainfuck][quantum] called QNNs for companions.
+Let's discuss this where the above articles casually lead me to it. But first, I'm gonna try to clarify the concepts of ONNs (optical neural networks) and ANN's (artificial neural networks) where I only have the sence of ANNs. Also, here's a casual [brainfuck][quantum] called QNNs for companions.
 
 Firstly, I can declare my confussions on the physical structures on neural networks. We know that ANNs are mathematical models at their core which represents a virtual structure for connections between artificial neurons. The computations in ANNs occurs through mathematical operations which needs to be executed on a computational device, such as CPU or GPU that has a comprehensible computation process. The problem with the ENNs or ONNs might be where we don't have the sense of such hardware or photonics where it applied to form a structure of a neural network --- or I might even be considering how come a physical structure of a neural network where it does all the computation and data mining together can be more efficient than a computation where the applied structure is virtual? And yes, will be discussing all-optical NNs in a second.
 
