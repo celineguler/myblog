@@ -5,7 +5,7 @@ title: "greed is good"
 
 I only know enough about this ideology to be able to picture palms and California in my mind, and as not even being able to say that Trump's rising the taxes are capitalist or not, but I believe capitalism is pleasent until you admit it or gone to far --- maybe like buying a [drug company][daraprim]. Still mostly agree with Shkreli, and this [article][article], where I gladly met my requests and not making feel bad about it. Sounds selfish, is selfish but also very devine.
 
-![pigs](myblog/images/pigs.jpg)
+![pigs](/myblog/images/pigs.jpg)
 
 Martin Shkreli faced with jail, where it doesn't make me think that it's because he rised the price of a life-saving drug (which he stated that people who need this drug can easily reach out to it, but not the big markets who buys the drug and sale it for more), but because of where his coming from.
 
