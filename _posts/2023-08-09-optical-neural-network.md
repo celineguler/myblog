@@ -3,7 +3,14 @@ layout: post
 title:  "optical neural network"
 ---
 
-While electrons often considered more suitable for information processing (reasons such they are easy to manipulate by EM fields since they have charge and mass, they do interact unlike photons and you have switching speed since it's easier to stop electrons), ONN offers to find novel ways of information processing and advantages such as high-speed parallelism, low power consumption, and potential for high throughput. Here's an article called [optical-neural-networks-hold-promise-for-image-processing][optical-neural-networks-hold-promise-for-image-processing] about more energy-efficient image sensors.
+While electrons often considered more suitable for information processing (reasons such they are easy to manipulate by EM fields since they have charge and mass, they do interact unlike photons and you have switching speed since it's easier to stop electrons), ONN offers to find novel ways of information processing and advantages such as high-speed parallelism, low power consumption, and potential for high throughput. We can discuss ONN better if we talk more on photonics for computing first. So, why photonics for computing?
+
+>* Light provides an enormous bandwidth, possibility of wavelength division multiplexing.
+
+While it more sounds like communication then computing and just helps computing.
+
+>* 
+Here's an article called [optical-neural-networks-hold-promise-for-image-processing][optical-neural-networks-hold-promise-for-image-processing] about more energy-efficient image sensors.
 
 [CONF-CDS 2020][CONF-CDS 2020] offers inference is the only optically suitable part and not the training. This article [training neural networks with end-to-end optical backpropagation][training neural networks with end-to-end optical backpropagation] focused on this problem (I only read the abstract).
 
