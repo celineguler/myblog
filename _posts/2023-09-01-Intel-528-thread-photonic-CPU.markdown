@@ -13,17 +13,17 @@ A “core” refers to a physical processing unit within a CPU — Basically a s
 
 Okay, asking some philosophical question, for what is this will be good for? Here are some exiciting news:
 
-*Detect financial crimes such as money laundering
+* Detect financial crimes such as money laundering
 
-*Identify fraudulent transactions and activities
+* Identify fraudulent transactions and activities
 
-*Perform influencer analysis in social network communities
+* Perform influencer analysis in social network communities
 
-*Perform recommendation analysis from customers ratings or purchases.
+* Perform recommendation analysis from customers ratings or purchases.
 
-*Identify weaknesses in power grids, water grids, and transportation networks
+* Identify weaknesses in power grids, water grids, and transportation networks
 
-*Optimize routes in the airlines, retail, manufacturing industries
+* Optimize routes in the airlines, retail, manufacturing industries
 
 
 
