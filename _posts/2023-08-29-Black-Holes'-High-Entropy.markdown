@@ -3,7 +3,7 @@ layout: post
 title: "Black Holes' High Entropy"
 ---
 
-Just want to point out that I realized my misconceptions about entropy and chaos while trying to ask a simple question about the chaoticity of a system and its limits. What became clear was that when we wanted to question how complex a physical system could be, it is silly to ask about the most chaotic thing in the universe; cause apparently black holes aren't considered "chaotic".
+I realized some of my misconceptions about entropy and chaos while trying to ask a simple question about the chaoticity of a system and its limits. What became clear was that when we wanted to question how complex a physical system could be, it is silly to ask about the most chaotic thing in the universe. Because apparently black holes aren't considered "chaotic".
 
 Let me clarify the concepts the best I can with giving some definitions.
 
@@ -23,7 +23,7 @@ Here's *chaos* by Google:
 {: .italic-gray.indented}
 > *"The property of a complex system whose behaviour is so unpredictable as to appear random, owing to great sensitivity to small changes in conditions."*
 
-Quora highly disagrees that chaos and entropy are not interchangeable. Frankly, I made a generalization because most writers use "on the other hand", "whereas". Google's definitions mostly allign with (I trust Quora more than Google) so we can also say Google agreed the statement. But I don't think this tweet wouldn't agree that Google sorting both terms in the cast of Physics.
+Quora highly disagrees that chaos and entropy are not interchangeable. Google's definitions mostly allign with Quora so we can also say Google agreed the statement. But I don't think this tweet wouldn't agree that Google sorting both terms in the cast of Physics.
 
 
 
@@ -61,3 +61,4 @@ I felt the need to point out that the title of this post, where it seems to be c
 [Quora]: https://www.quora.com/What-is-the-difference-between-entropy-and-chaos
 [chatgpt]: https://chat.openai.com/share/5447bd97-3859-4a34-afbd-04f514c741be
 [chatgpt]: https://www.reddit.com/r/Frontend/comments/zjggzq/should_we_be_worried_about_chatgpt_or_other_ai/
+[tweet]: https://x.com/guneytombak/status/1696558393186570270?s=20
