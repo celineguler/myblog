@@ -7,19 +7,17 @@ I realized some of my misconceptions about entropy and chaos while trying to ask
 
 Let me clarify the concepts the best I can with giving some definitions.
 
-Here's *entropy* by [Quora][Quora]:
+Here's *entropy*:
 {: .italic-gray.indented}
 > *"Entropy is the measure of energy dispersion. The more entropy, the more equally the energy is distributed."*
 
-Here's *chaos* by [Quora][Quora]:
-{: .italic-gray.indented}
-> *"Chaos is a system that exhibits complex dynamics, which is sensitive to initial conditions. Chaotic behavior has a certain order. "*
-
-Here's *entropy* by Google:
 {: .italic-gray.indented}
 > *"A thermodynamic quantity representing the unavailability of a system's thermal energy for conversion into mechanical work, often interpreted as the degree of disorder or randomness in the system."*
 
-Here's *chaos* by Google:
+Here's *chaos*:
+{: .italic-gray.indented}
+> *"Chaos is a system that exhibits complex dynamics, which is sensitive to initial conditions. Chaotic behavior has a certain order. "*
+
 {: .italic-gray.indented}
 > *"The property of a complex system whose behaviour is so unpredictable as to appear random, owing to great sensitivity to small changes in conditions."*
 
