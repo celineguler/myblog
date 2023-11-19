@@ -21,7 +21,9 @@ Here's *chaos*:
 {: .italic-gray.indented}
 > *"The property of a complex system whose behaviour is so unpredictable as to appear random, owing to great sensitivity to small changes in conditions."*
 
-Quora highly disagrees that chaos and entropy are not interchangeable. Google's definitions mostly allign with Quora so we can also say Google agreed the statement. But I don't think this tweet wouldn't agree that Google sorting both terms in the cast of Physics.
+<br>
+
+Quora highly disagrees that chaos and entropy are not interchangeable. Google's definitions mostly allign with Quora so we can also say Google agreed the statements. But doesn't matter since I'm going to clarify how we should sort both terms in the cast of Physics.
 
 
 
