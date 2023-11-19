@@ -23,6 +23,8 @@ Here's *chaos*:
 {: .italic-gray.indented}
 > *"The property of a complex system whose behaviour is so unpredictable as to appear random, owing to great sensitivity to small changes in conditions."*
 
+<br>
+
 ![chaos](/myblog/images/chaos.png)
 
 <br>
