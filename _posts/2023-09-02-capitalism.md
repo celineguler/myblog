@@ -11,7 +11,7 @@ Martin Shkreli has faced jail cause of raising the price of a life-saving drug, 
 
 <br>
 
-I may be associating every problem with the retardation of our poor information processing capacity. We skipped the era where humans were generalists a long time ago, but here we are cannot even handle specialism.
+I may be associating every problem with the retardation of our poor information processing capacity. We skipped the era where humans were generalists, but here we are cannot even handle specialism.
 
 <br> 
 
