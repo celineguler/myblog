@@ -62,5 +62,5 @@ I felt the need to point out that the title of this post, where it seems to be c
 
 [Quora]: https://www.quora.com/What-is-the-difference-between-entropy-and-chaos
 [chatgpt]: https://chat.openai.com/share/5447bd97-3859-4a34-afbd-04f514c741be
-[chatgpt]: https://www.reddit.com/r/Frontend/comments/zjggzq/should_we_be_worried_about_chatgpt_or_other_ai/
+[chatgptt]: https://www.reddit.com/r/Frontend/comments/zjggzq/should_we_be_worried_about_chatgpt_or_other_ai/
 [tweet]: https://x.com/guneytombak/status/1696558393186570270?s=20
