@@ -7,9 +7,13 @@ I believe capitalism is pleasent until you admit it or gone to far --- maybe lik
 
 <br>
 
-Martin Shkreli has faced jail cause of raising the price of a life-saving drug, for his alleged greed for profit. I believe this is a daring enterprise for redefining a new type of service. Not many can deny that it encourages people to discover new ways and expand their understandings on how they should use and support their ownings. It improves beneficial capitalist frames. Freer, more subjective and more creative. It surely does pay attention on developing technologies in teams and how it actually is a problem. Shkreli brought up a new way of understanding the importance of individuality with a modernist approach, and now his out of jail supporting [e/acc][eacc], and putting his weight on a post-modernist approach, like a real time hero.
+Martin Shkreli has faced jail cause of raising the price of a life-saving drug, for his alleged greed for profit. I believe this is a daring enterprise for redefining a new type of service. Not many can deny that it encourages people to discover new ways and expand their understandings on how they should use and support their ownings. It improves beneficial capitalist frames. Freer, more subjective and more creative. It surely does pay attention on developing technologies in teams and how it actually is a problem too. Shkreli brought up a new way of understanding the importance of individuality with a modernist approach, and now his out of jail supporting [e/acc][eacc] and putting his weight on a post-modernist approach, like a real time hero.
 
-I may be associating every problem with the retardation of our poor information processing capacity. We skipped the era where humans were generalists a long time ago, but here we are cannot even handle specialism. 
+<br>
+
+I may be associating every problem with the retardation of our poor information processing capacity. We skipped the era where humans were generalists a long time ago, but here we are cannot even handle specialism.
+
+<br> 
 
 ![pigs](/myblog/images/pigs.jpg)
 
