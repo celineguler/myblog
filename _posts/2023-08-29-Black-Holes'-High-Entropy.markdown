@@ -14,6 +14,8 @@ Here's *entropy*:
 {: .italic-gray.indented}
 > *"A thermodynamic quantity representing the unavailability of a system's thermal energy for conversion into mechanical work, often interpreted as the degree of disorder or randomness in the system."*
 
+![entropy](/myblog/images/Entropy.png)
+
 Here's *chaos*:
 {: .italic-gray.indented}
 > *"Chaos is a system that exhibits complex dynamics, which is sensitive to initial conditions. Chaotic behavior has a certain order. "*
@@ -23,7 +25,7 @@ Here's *chaos*:
 
 <br>
 
-Quora highly disagrees that chaos and entropy are not interchangeable. Google's definitions mostly allign with Quora so we can also say Google agreed the statements. But doesn't matter since I'm going to clarify how we should sort both terms in the cast of Physics.
+Quora highly disagrees that chaos and entropy are not interchangeable. Google's definitions mostly allign with Quora so we can also say Google agreed the statements. But doesn't matter since I'm going to clarify how we should sort both terms in the cast of Physics at the end.
 
 
 
