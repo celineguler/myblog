@@ -3,7 +3,7 @@ layout: post
 title: "greed is good"
 ---
 
-I only know enough about this ideology to be able to talk about California, and as not even being able to say that Trump's rising the taxes are capitalist or not, I believe capitalism is pleasent until you admit it or gone to far --- maybe like buying a [drug company][daraprim]. Still mostly agree with Shkreli, and this [article][article], where I gladly met my requests and not making feel bad about it. Sounds selfish, is selfish but also very devine.
+I believe capitalism is pleasent until you admit it or gone to far --- maybe like buying a [drug company][daraprim]. Still mostly agree with Shkreli, and this [article][article], where I gladly met my requests and not making feel bad about it. Sounds selfish, is selfish but also very devine.
 
 <br>
 
@@ -11,16 +11,7 @@ I only know enough about this ideology to be able to talk about California, and 
 
 <br>
 
-Martin Shkreli faced with jail, where it doesn't make me think that it's because he rised the price of a life-saving drug (which he stated that people who need this drug can easily reach out to it, but not the big markets who buys the drug and sale it for more), but because of where his coming from.
-
-Shkreli's parents where janitors, and I might be wrong, surely, but redefining these type of services in U.S. never faced this roughly with anyone that the way it faced Shkreli. Bankman-Fried case referred as ponzi scheme although it was clearly not. I feel like it's a secret code for government to alarm some evil potential, but Shkreli never accused by ponzi (again, illustrating a ponzi is easy --- calling every case of untaxes cash flow a ponzi is a strategy). 
-
-
-
-
-
-
-
+Martin Shkreli has faced jail cause of raising the price of a life-saving drug, for his alleged greed for profit. I believe this is a daring enterprise for redefining a new type of service. Not many can deny that it encourages people to discover new ways and expand their understandings on how they should use and support their ownings. It improves beneficial capitalist frames. Freer, more subjective and more creative. It surely does pay attention on developing technologies in teams and how it actually is a problem. Shkreli brought up a new way of understanding the importance of individuality with a modernist approach, and now his out of jail supporting e/acc, and putting his weight on a post-modernist approach, like a real time hero.
 
 
 
