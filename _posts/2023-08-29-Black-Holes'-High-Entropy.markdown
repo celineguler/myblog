@@ -39,7 +39,7 @@ Quora highly disagrees that chaos and entropy are not interchangeable. Google's 
 
 You can check [this][chatgpt], my full interview where I poorly try to explore the concepts of *chaos* and *entropy*.	I must mention that the interview ends without satisfiying my question about the *limit for complexity in physical world*. Because this concept, physical complexity, feel inadequate when you think of systems such as the brain or cloud (not complex enough), while complexities such as black holes or space that never fit into a circle while enlarging its diameter make it feel neutral and simplified, actually *not complex* beside math.
 
-As we get to the theory, we can meausure and talk about complexity with the parameters such as amount of components, we do our math as infinite amount of components will give infinite complexity! 
+As we get to the theory, we can meausure and talk about complexity with the parameters such as amount of components, where we can do such math as having infinite amount of components will give infinite complexity, which doesn't seems to allign with th physical world.
 
 Here are the main criterias:
 
