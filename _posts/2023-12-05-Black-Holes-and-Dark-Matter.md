@@ -1,20 +1,6 @@
-what are black holes?
-how do they formed?
-its evolution
-why do they importnat
-classes of black holes
-
--------- ref: no blogs, no wikipedia
-
-///what is dark matter
+---
+layout: post
+title: Black Holes and Dark Matter
+---
 
 As I correlate, dark matter is a cause. It's a cause borned from the observed facts through out the 1990's, which starts with a certain fact that's known about the expansion of the universe. 
-
-///how can we identify or classify the matter as a dark matter?
-///can it be observable, if yes, how?
-
-///relation of dark matter with revolution of a galaxy
-///wimps (weakly interacted massive particles)
-
-doppler shift (red shift)
-
