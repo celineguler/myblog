@@ -3,7 +3,7 @@ layout: post
 title: Black Holes and Dark Matter
 ---
 
-DARK MATTER
+__DARK MATTER__
 
 Dark matter can be expressed as a cause source based on some observations on expansion of universe - which didn't turned out to be as expected. Through out the 1990's, which starts with a certain fact that's known about the expansion of the universe, beside the understandings of that universe might have energy density to stop its expansion or enough energy to lead it to never stop expanding, but it seem to be certain that gravity at the end was gonna slow down the expansion as time moves on. So it was a sensible understanding to say that the universe had to slow its expansion. But the observations later on show that the universe was actually expanding with a *acceleration*. Physicist couldn't form this cause, and it remains most part of its unknowns. At that's the reason its called dark matter. It's still a mystery.
 
@@ -12,6 +12,6 @@ A remainings in unknowns part explains why we call it dark, but we can also ask 
 Further than gravitional interactions and having mass,
 
 
-BLACK HOLES
+__BLACK HOLES__
 
 Black holes are unique physical phenomenas where you have really storng gravitional pull. More on what that means, a gravitional pull genuiely effects any physical matter on the universe, and in the content of a truly strong pull, you end up with a black looking hole - since the light also under the effect.
