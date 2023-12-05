@@ -9,7 +9,8 @@ Dark matter can be expressed as a proposed cause source based on some observatio
 
 The remainings in unknowns part explains why we call it dark, but we can also ask that why do we also classify it as "matter"? We define matter as *anything that takes up space and can be weighed* in the most accepted case, which doesn't tell much if it is a good reasoning or not to identify it as matter. The term "matter" more generally relates with that dark matter also having mass and interactions with gravitional force.
 
-Further than gravitional interactions and having mass, the most important feature that allocates it from normal matter must the that dark matter doesn't interact with light or electromagnetic radiation, which make it unobservable in the common sense. Although it seems to be emerging how we can detect dark matter. Several methods included, generally indirect, such as particle acceleration detection method, absorption, scattering, scinttilating targets. 
+Further than gravitional interactions and having mass, the most important feature that allocates it from normal matter must the that dark matter doesn't interact with light or electromagnetic radiation, which make it unobservable in the common sense. Frankly, it seems to be emerging how we can detect dark matter. Several methods, generally indirect, such as particle acceleration detection method, absorption, scattering, scinttilating targets can be included as the topics on observation of dark matter.
+
 
 __BLACK HOLES__
 
