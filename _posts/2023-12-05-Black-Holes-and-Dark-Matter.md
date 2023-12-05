@@ -14,3 +14,4 @@ Further than gravitional interactions and having mass,
 
 BLACK HOLES
 
+Black holes are unique physical phenomenas where you have really storng gravitional pull. More on what that means, a gravitional pull genuiely effects any physical matter on the universe, and in the content of a truly strong pull, you end up with a black looking hole - since the light also under the effect.
