@@ -9,14 +9,7 @@ Martin Shkreli has faced jail cause of raising the price of a life-saving drug, 
 
 I believe this cases are aligns or spotlights the problem of information overload of today or it's just me aligning every single situtation with this information overload problem and try to spotlight it on my own. In either cases, Shkreli's jail time was a mistake over the calculation incompetence of today's society over cases like this, about __greed__ or what ever you say. Shkreli brought up a new way of understanding the importance of individuality (*individuality is what I believe is the solution to information overload, we resign our time with signing up for teams*) with a modernist approach, and now his out of jail supporting [e/acc][eacc] and putting his weight on a post-modernist approach, which I think he's not doing it with the awareness of information overload relation with his special case but still a hero to be remembered.
 
-![shkreli](/myblog/images/shkreli.png)
-
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">Your embedded tweet content here</p>
-  <!-- Other tweet details -->
-</blockquote>
-<script async src="https://twitter.com/wagieeacc/status/1724637352239182242" charset="utf-8"></script>
-
+![shkreli](/myblog/images/shkreli2.png)
 
 Like I said, I may be associating every problem with the retardation of our poor information processing capacity. We skipped the era where humans were generalists and true geniuses, but here we are cannot even handle specialism. Scientists and engineers working in teams is a problem where we seen to resign our time. Through out all the regulations, nobody seems to pay attention on the consequences by not taking an action on AI and how the hell are we gonna handle such information production. AI is genuinely a problem-solving based technology where it promises great tools and capasities, where we seem to have a delay of realization. This is a bit of an approachable and motivational statement, I also need time to understand how delightfully we neglect the regulations and build the future of AI. Shkreli, suprisingly and not very suprisingly helps me forming my understanding of this concept where he's a ex-hedge fund manager and deals with time-series data masterfully --- which I appreciate.
 
