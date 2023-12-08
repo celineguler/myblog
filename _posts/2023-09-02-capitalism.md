@@ -11,6 +11,13 @@ I believe this cases are aligns or spotlights the problem of information overloa
 
 ![shkreli](/myblog/images/shkreli.png)
 
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">Your embedded tweet content here</p>
+  <!-- Other tweet details -->
+</blockquote>
+<script async src="https://twitter.com/wagieeacc/highlights" charset="utf-8"></script>
+
+
 Like I said, I may be associating every problem with the retardation of our poor information processing capacity. We skipped the era where humans were generalists and true geniuses, but here we are cannot even handle specialism. Scientists and engineers working in teams is a problem where we seen to resign our time. Through out all the regulations, nobody seems to pay attention on the consequences by not taking an action on AI and how the hell are we gonna handle such information production. AI is genuinely a problem-solving based technology where it promises great tools and capasities, where we seem to have a delay of realization. This is a bit of an approachable and motivational statement, I also need time to understand how delightfully we neglect the regulations and build the future of AI. Shkreli, suprisingly and not very suprisingly helps me forming my understanding of this concept where he's a ex-hedge fund manager and deals with time-series data masterfully --- which I appreciate.
 
 <br>
