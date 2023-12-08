@@ -9,7 +9,7 @@ Martin Shkreli has faced jail cause of raising the price of a life-saving drug, 
 
 I believe this cases are aligns or spotlights the problem of information overload of today or it's just me aligning every single situtation with this information overload problem and try to spotlight it on my own. In either cases, Shkreli's jail time was a mistake over the calculation incompetence of today's society over cases like this, about __greed__ or what ever you say. Shkreli brought up a new way of understanding the importance of individuality (*individuality is what I believe is the solution to information overload, we resign our time with signing up for teams*) with a modernist approach, and now his out of jail supporting [e/acc][eacc] and putting his weight on a post-modernist approach, which I think he's not doing it with the awareness of information overload relation with his special case but still a hero to be remembered.
 
-Like I said, I may be associating every problem with the retardation of our poor information processing capacity. We skipped the era where humans were generalists and true geniuses, but here we are cannot even handle specialism. Scientists and engineers working in teams is a problem where we seen to resign our time. Through out all the regulations, nobody seems to pay attention on the consequences by not taking an action on AI and how the hell are we gonna handle such information production. AI is genuinely a problem-solving based technology where it promises great tools and capasities, where we seem to have a delay of realization. This is a bit of an approachable and motivational statement, I also need time to understand how delightfully we neglect the regulations and build the future of AI. Shkreli, suprisingly and not very suprisingly helps me forming my understanding of this concept where he's a ex-hedge fund manager and deals with time-series data masterfully --- which I appreciate.
+I used the term "information overload" but I'm not simply referring to [this][this] definition which I'm not sure it covers my problem where we're not generating TnT's (theories and technologies) proportional with information. This just associates with the retardation of our poor information processing capacity as humans. Through out all the regulations, nobody seems to pay attention on the consequences by not taking an action on AI and how the hell are we gonna handle such information production. AI is genuinely a problem-solving based technology where it promises great tools and capasities, where we seem to have a delay of realization. This is a bit of an approachable and motivational statement, I also need time to understand how delightfully we neglect the regulations and build the future of AI. Shkreli, suprisingly and not very suprisingly helps me forming my understanding of this concept where he's a ex-hedge fund manager and deals with time-series data masterfully --- which I appreciate.
 
 <br>
 
@@ -40,7 +40,7 @@ Like I said, I may be associating every problem with the retardation of our poor
 
 
 
-
+[this]: https://en.wikipedia.org/wiki/Information_overload#:~:text=unlimited%20wireless%20access.-,In%20the%20modern%20information%20age%2C%20information%20overload%20is%20experienced%20as,context%20of%20the%20work%20environment.
 [article]: https://www.washingtonpost.com/news/morning-mix/wp/2015/09/23/pharma-bro-martin-shkreli-and-the-very-american-debate-over-maximizing-profit/
 [daraprim]: https://en.wikipedia.org/wiki/Martin_Shkreli
 [eacc]:https://geohot.github.io/blog/jekyll/update/2022/12/31/eacc.html
