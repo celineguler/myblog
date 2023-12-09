@@ -33,13 +33,6 @@ AI is genuinely a problem-solving based technology where it promises great tools
 
 Here's a better and more component blog on [e/acc][eacc], which can express more on effective accelerationism.
 
-<br>
-
-![pigs](/myblog/images/pigs.jpg)
-
-
-
-
 
 
 
