@@ -12,7 +12,7 @@ I believe this cases are aligns or spotlights the problem of information overloa
 I used the term "information overload" but I'm not simply referring to [this][this] definition which I'm not sure it covers my problem that we're not generating insights proportional with information. This just associates with the retardation of our poor information processing capacity as humans. Through out all the regulations, nobody seems to pay attention on the consequences by not taking an action on AI and how the hell are we gonna handle such information production. Let me show you some real data.
 
 
-![data](/myblog/images/data2.png)
+![data](/myblog/images/data3.png)
 
 
 AI is genuinely a problem-solving based technology where it promises great tools and capasities, where we seem to have a delay of realization. This is a bit of an approachable and motivational statement, I also need time to understand how delightfully we neglect the regulations and build the future of AI. Shkreli, suprisingly and not very suprisingly helps me forming my understanding of this concept where he's a ex-hedge fund manager and deals with time-series data. He needs more appreciation.
