@@ -31,7 +31,7 @@ I may not be very good at data seeking for expressing opinions, but to clarify w
 
 AI is genuinely a problem-solving based technology where it promises great tools and capasities, where we seem to have a delay of realization. This is a bit of an approachable and motivational statement, I also need time to understand how delightfully we neglect the regulations and build the future of AI. Shkreli, suprisingly and not very suprisingly helps me forming my understanding of this concept that I may not show enough appreciation.
 
-Here's George Hotz's better and more component blog on e/acc, https://geohot.github.io/blog/jekyll/update/2022/12/31/eacc.html, which can express more on effective accelerationism.
+Here's George Hotz's better and more component blog on [e/acc][eacc], which can express more on effective accelerationism.
 
 <br>
 
