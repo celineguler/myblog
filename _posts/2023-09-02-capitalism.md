@@ -17,7 +17,11 @@ I used the term "information overload" but I'm not simply referring to [this][th
 
 And here's some data related with research or any type of data management capacity and how it delayed in time. It's not directly proposing data management capasity delay surely, but I'm gonna stick with this approach cause it's intuitive. Relatively intuitive, but intuitive. 
 
+<br>
+
 ![info](/myblog/images/info.png)
+
+<br>
 
 AI is genuinely a problem-solving based technology where it promises great tools and capasities, where we seem to have a delay of realization. This is a bit of an approachable and motivational statement, I also need time to understand how delightfully we neglect the regulations and build the future of AI. Shkreli, suprisingly and not very suprisingly helps me forming my understanding of this concept where he's a ex-hedge fund manager and deals with time-series data. He needs more appreciation.
 
