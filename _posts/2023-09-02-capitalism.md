@@ -9,8 +9,6 @@ I believe capitalism is pleasent until you admit it or gone to far --- maybe lik
 
 ![pill](/myblog/images/pillguy.png)
 
-<br>
-
 Martin Shkreli has faced jail cause of raising the price of a life-saving drug, for his alleged greed for profit. I believe this is a daring enterprise for redefining a new type of service. Not many can deny that it encourages people to discover new ways and expand their understandings on how they should use and support their movables. It improves beneficial capitalist frames --- not the ones like "world peace is not profitable" or "government is good until is bad" but more free, more subjective and more creative frames like "smart people should win, even if they're wrong."
 
 I believe this cases are aligns or spotlights the problem of information overload of today or it's just me aligning every single situtation with this information overload problem and try to spotlight it on my own. In either cases, Shkreli's jail time was a mistake over the calculation incompetence of today's society in cases like this, about __greed__ or what ever you say. Shkreli brought up a new way of understanding the importance of individuality (*individuality is what I believe is the solution to information overload, we resign our time with signing up for teams*) with a modernist approach, and now his out of jail supporting [e/acc][eacc] and putting his weight on a post-modernist approach, which I think he's not doing it with the awareness of information overload relation with his special case but still a hero to be remembered.
