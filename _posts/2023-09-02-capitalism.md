@@ -11,9 +11,11 @@ I believe this cases are aligns or spotlights the problem of information overloa
 
 I used the term "information overload" but I'm not simply referring to [this][this] definition which I'm not sure it covers my problem that we're not generating insights proportional with information. This just associates with the retardation of our poor information processing capacity as humans. Through out all the regulations, nobody seems to pay attention on the consequences by not taking an action on AI and how the hell are we gonna handle such information production. Let me show you some real data.
 
+<br>
 
 ![data](/myblog/images/data4.png)
 
+<br>
 
 And here's some data related with research or any type of data management capacity and how it delayed in time. It's not directly proposing data management capasity delay surely, but I'm gonna stick with this approach cause it's intuitive. Relatively intuitive, but intuitive. 
 
