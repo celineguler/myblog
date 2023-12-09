@@ -15,7 +15,7 @@ I used the term "information overload" but I'm not simply referring to [this][th
 ![data](/myblog/images/data4.png)
 
 
-And here's some data related with research or any type of data management capacity and how it delayed in time. 
+And here's some data related with research or any type of data management capacity and how it delayed in time. It's not directly proposing data management capasity delay surely, but I'm gonna stick with this approach cause it's intuitive. Relatively intuitive, but intuitive. 
 
 ![info](/myblog/images/info.png)
 
