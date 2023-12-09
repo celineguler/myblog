@@ -17,7 +17,7 @@ I used the term "information overload" but I'm not simply referring to [this][th
 
 <br>
 
-This may not be the best fitting graph for my situtation by it's includings, but we all agree that what we have with data producing is an exponential.
+This may not be the best fitting graph for my situtation by it's includings, but we all agree that what we have with data producing is an exponential ╯
 
 And here's some data related with research or any type of data management capacity and how it delayed in time. It's not directly proposing data management capasity delay surely, but I'm gonna stick with this approach cause it's intuitive. Relatively intuitive, but intuitive. 
 
