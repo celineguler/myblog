@@ -27,7 +27,7 @@ And here's some data related with research or any type of data management capaci
 
 <br>
 
-I may not be the best for data seeking for expressing things, but to clarify what I'm referring, we are genuiely incapable of doing things and this incompetence is gonna ruin the smoothness of the exponential of our growth in value as humans. Ruining this exponential is a genuine threat against singularity, not trying to be dramatic or anything but this could be remembered as a crime in future law, or just the stupitest time period of humans.
+I may not be very good at data seeking for expressing opinions, but to clarify what I'm referring, we are genuiely incapable of doing things and this incompetence is gonna ruin the smoothness of the exponential of our growth in value as humans. Ruining this exponential is a genuine threat against technological singularity, not trying to be dramatic or anything but this could be remembered as a crime in future law, or just the stupidest time period of humans.
 
 AI is genuinely a problem-solving based technology where it promises great tools and capasities, where we seem to have a delay of realization. This is a bit of an approachable and motivational statement, I also need time to understand how delightfully we neglect the regulations and build the future of AI. Shkreli, suprisingly and not very suprisingly helps me forming my understanding of this concept where he's a ex-hedge fund manager and deals with time-series data. He needs more appreciation.
 
