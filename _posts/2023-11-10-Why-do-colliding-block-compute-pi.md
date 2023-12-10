@@ -10,3 +10,5 @@ The Pi Machine setup looks like this:
 ![pi](/myblog/images/pi.png)
 
 We focus on the number of collusions of the second mass, while it pursue it's motion along the 2D path of mass 1 and the wall. And mass 1 is a parameter with powers of 10. Delightfully, powers of 10 matches the digits of number __π__ by number of collisions. So, why? __Why π shows up?__
+
+SHA256:K7XfsVMVaVZHIkIrK+SXGeKeE08U+GPcAQxL6AOjVqA qsbgtu00@gmail.com
