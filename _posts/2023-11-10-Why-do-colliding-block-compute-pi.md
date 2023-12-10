@@ -7,4 +7,5 @@ Grant Sanderson tought me about the π Machine, while I was reminding myself tha
 
 The Pi Machine setup looks like this:
 
+__number of collusions:__
 ![pi](/myblog/images/pi.png)
