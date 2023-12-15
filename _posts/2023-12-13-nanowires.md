@@ -9,4 +9,19 @@ I'll be covering [this][this] article, which is the best resource I've encounter
 
 ![nano](/myblog/images/nanowires.jpg)
 
-This is a nanowire, which is a practical example of emergent behavior in physics. Their inherent properties are expected to enable new photodetector architectures for sensing, imaging, memory storage, intrachip optical communications, and other nanoscale applications. 
+This is a nanowire, which is a practical example of emergent behavior in physics. Their inherent properties are expected to enable new photodetector architectures for sensing, imaging, memory storage, intrachip optical communications, and other nanoscale applications.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[this]: https://www.nature.com/articles/s41567-020-0969-7
