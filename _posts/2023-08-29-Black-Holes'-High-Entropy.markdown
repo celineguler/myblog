@@ -11,6 +11,8 @@ Here's *entropy*:
 {: .italic-gray.indented}
 > *"Entropy is the measure of energy dispersion. The more entropy, the more equally the energy is distributed."*
 
+Entropy was also discussed by Veritasium as the most misunderstood concept in physics.
+
 {: .italic-gray.indented}
 > *"A thermodynamic quantity representing the unavailability of a system's thermal energy for conversion into mechanical work, often interpreted as the degree of disorder or randomness in the system."*
 
