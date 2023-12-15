@@ -7,7 +7,7 @@ I'll be trying to cover the concept of nanowires, which is a practical example o
 
 Understanding emergent behavior in physics can be indicated as matter becomes cluster, and it develops new kinds of structures and forms of [collective motion][motion], for which its properties are called “emergent.”
 
-My source will be [this][this] article, which is the best resource I've encountered --- maybe cause of I haven't searched for many.
+My source will be [this][this] article, which is the best resource I've encountered so far --- maybe because of I haven't searched for many.
 
 
 
