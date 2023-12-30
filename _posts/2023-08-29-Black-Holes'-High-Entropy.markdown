@@ -55,7 +55,9 @@ __Adaptability__: Systems that can adapt to changing environments or evolve over
 
 __Hierarchy and Self-Organization__: Systems with hierarchical organization and self-organizing properties can be considered more complex due to multiple levels of interactions.
 
-In information theory, complexity studied under the context of model selection. Briefly, the complexity is generally measured by counting the number of parameters in the model. 
+In information theory, complexity studied under the context of model selection. Briefly, the complexity is generally measured by counting the number of parameters in the model. When we get to the Shannon's Entropy in model selection and how it related with information complexity
+
+https://mbraverm.princeton.edu/research/information-complexity/
 
 
 <br>
