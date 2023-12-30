@@ -17,7 +17,7 @@ I used the term "information overload" but I'm not simply referring to [this][th
 
 <br>
 
-![data](/myblog/images/data6.png)
+![data](/myblog/images/data7.jpg)
 
 <br>
 
