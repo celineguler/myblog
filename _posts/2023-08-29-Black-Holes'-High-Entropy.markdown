@@ -3,7 +3,7 @@ layout: post
 title: "Black Holes' High Entropy"
 ---
 
-I realized some of my misconceptions about entropy and chaos while trying to ask a simple question about the chaoticity of a system and its limits. What became clear was that when we wanted to question how complex a physical system could be, it is silly to ask about the most chaotic thing in the universe. Because apparently black holes aren't considered "chaotic".
+I realized some of my misconceptions about entropy and chaos while trying to ask a simple question about the chaoticity of a system and its limits. What became clear was that when we wanted to question how complex a physical system could be, it is silly to ask about the most chaotic thing in the universe. Because apparently black holes aren't considered *chaotic*.
 
 Let me clarify the concepts the best I can with giving some definitions.
 
