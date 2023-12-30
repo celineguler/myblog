@@ -43,13 +43,11 @@ You can check [this][chatgpt], my full interview where I poorly try to explore t
 
 As we get to the theory, we can meausure and talk about complexity with the parameters such as amount of components, where we can do such math as having infinite amount of components will give infinite complexity, which doesn't seems to allign with th physical world.
 
-Here are the main criterias:
+Here are the main criterias that discussed in information theory on complexity:
 
 __Number of Components__: A system with more components (e.g., neurons, particles, elements) can be considered more complex, but this metric doesn't account for interactions and emergent properties.
 
 __Interactions and Connectivity__: The number and nature of interactions among components contribute to complexity. Networks with intricate connections can be more complex.
-
-__Information Theory__: Complexity can be related to the amount of information needed to describe a system's behavior. High information content suggests higher complexity.
 
 __Emergent Properties__: Systems that exhibit emergent behaviors, where collective interactions lead to novel phenomena, are often considered more complex.
 
@@ -57,6 +55,7 @@ __Adaptability__: Systems that can adapt to changing environments or evolve over
 
 __Hierarchy and Self-Organization__: Systems with hierarchical organization and self-organizing properties can be considered more complex due to multiple levels of interactions.
 
+In information theory, complexity studied under the context of model selection. Briefly, the complexity is generally measured by counting the number of parameters in the model. 
 
 
 <br>
