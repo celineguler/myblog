@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ONN"
+title:  "ONNs"
 ---
 
 While electrons often considered more suitable for information processing (reasons such they are easy to manipulate by EM fields since they have charge and mass, they do interact unlike photons and you have switching speed since it's easier to stop electrons), ONN offers to find novel ways of information processing and advantages such as high-speed parallelism, low power consumption, and potential for high throughput. We can discuss ONN better if we talk more on photonics for computing first. So, why photonics for computing?
