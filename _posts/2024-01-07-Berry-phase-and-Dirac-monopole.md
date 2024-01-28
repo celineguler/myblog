@@ -10,11 +10,9 @@ This is my poor introduction to molecular quantum dynamics. Here's [the article]
 We start with the effective Lagrangian for the spin-1/2 in the magnetic field Bz as,
 
 		
-	L(ϕ,ϕ,θ,θ) = 1/2γBcosθ + i/2(1 − cos θ)ϕ
-		
+	L(ϕ,ϕ,θ,θ) = ½γBcosθ + i½(1 − cos θ)ϕ
+			
 
-
-where,
 
 __B__: The magnitude of the magnetic field, along the z-axis.
 
