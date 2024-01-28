@@ -10,7 +10,7 @@ This is my poor introduction to molecular quantum dynamics. Here's [the article]
 We start with the effective Lagrangian for the spin-½ in the magnetic field B = [0,0,B] as,
 
 		
-	L(ϕ,ϕ,θ,θ) = ½γBcosθ + i½(1 − cos θ)ϕ
+	L(ϕ,˙ϕ,θ,˙θ) = ½γBcosθ + i½(1 − cos θ)˙ϕ
 
 
 
