@@ -5,6 +5,8 @@ title: Berry phase and Dirac monopole
 
 This is my poor introduction to molecular quantum dynamics. Here's [the article][article] we'll be studying.
 
+<br>
+
 We start with the effective Lagrangian for the spin-1/2 in the magnetic field Bz as,
 
 		
