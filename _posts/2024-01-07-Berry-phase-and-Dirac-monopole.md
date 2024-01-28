@@ -11,7 +11,7 @@ We start with the effective Lagrangian for the spin-1/2 in the magnetic field Bz
 
 		
 	L(ϕ,ϕ,θ,θ) = 1/2γBcosθ + i/2(1 − cos θ)ϕ
-
+		
 
 
 where,
