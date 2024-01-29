@@ -9,4 +9,6 @@ The Pi Machine setup looks like this:
 
 ![pi](/myblog/images/pi.png)
 
-We focus on the number of collusions of the second mass, while it pursue it's motion along the 2D path of mass 1 and the wall. And mass 1 is a parameter with powers of 10. Delightfully, powers of 10 matches the digits of number π by number of collisions. So, why? __Why the π shows up?__
+We focus on the number of collusions of the second mass, while it pursue it's motion along the 2D path of mass_1 and the wall. And mass_1 is a parameter with powers of 100. Delightfully, powers of 100 matches the digits of number π by number of collisions. So, the question is, why? __Why the π shows up?__
+
+When there's π, there's a hidden circle is our answer, honestly. 
