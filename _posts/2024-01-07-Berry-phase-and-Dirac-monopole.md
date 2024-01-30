@@ -3,7 +3,7 @@ layout: post
 title: Berry phase and Dirac monopole
 ---
 
-This is my poor introduction to molecular quantum dynamics. Here's [the article][article] we'll be studying even though it seems to lack supporting citations and honestly a proper structure.
+This is my poor introduction to molecular quantum dynamics. Here's [the article][article] we'll be studying even though it seems to have a lack supporting citations and honestly a proper structure.
 
 
 <br>
