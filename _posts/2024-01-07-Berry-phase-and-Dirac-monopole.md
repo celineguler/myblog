@@ -17,7 +17,9 @@ __B__: The magnitude of the magnetic field, along the z-axis.
 
 __θ__: The polar angle, which represents the orientation of the spin with respect to the magnetic field. It is the angle between the direction of the magnetic field and the spin axis.
 
-__ϕ__: The time derivative of the azimuthal angle, which represents the rotation of the spin around the z-axis.
+__ϕ__: The azimuthal angle, which represents the rotation of the spin around the z-axis.
+
+The effective Lagrangian mentioned above is clarified in my Reddit comments, thankfully. Quote, meaning that it is not a fundamental lagrangian but one that is only applicable and specifically taylored to this problem.
 
 
 
