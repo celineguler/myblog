@@ -5,7 +5,11 @@ title: Berry phase and Dirac monopole
 
 This is my poor introduction to molecular quantum dynamics. Here's [the article][article] we'll be studying.
 
+
+
 <br>
+
+
 
 We start with the effective Lagrangian for the spin-½ in the magnetic field __B__ = [0, 0, __B__] as,
 
