@@ -11,7 +11,7 @@ The Pi Machine setup looks like this:
 
 We focus on the number of collusions of the second mass, while it pursue it's motion along the 2D path of mass_1 and the wall. And mass_1 is a parameter with powers of 100. Delightfully, powers of 100 matches the digits of number π by number of collisions. But why? __Why the π shows up?__
 
-The answer is simply *when there's π, there's a hidden circle*. For the case of elastic collusions between two blocks and a wall, where we have varying block masses for the power of 100, the total number of collusions give the digits of π. So we need to explain the hidden circle in this particular case of collusions, which wasn't that easy for me, honestly.
+The answer is simply *when there's π, there's a hidden circle*. For the case of elastic collusions between two blocks and a wall, where we have varying block masses for the power of 100, the total number of collusions give the digits of π. So we need to explain the hidden circle in this particular case of collusions, which wasn't that lucid for me, honestly.
 
 
 
