@@ -19,7 +19,7 @@ __θ__: The polar angle, which represents the orientation of the spin with respe
 
 __ϕ__: The azimuthal angle, which represents the rotation of the spin around the z-axis.
 
-The effective Lagrangian mentioned above is clarified in my Reddit comments, thankfully. Quote, meaning that it is not a fundamental lagrangian but one that is only applicable and specifically taylored to this problem.
+The effective Lagrangian mentioned above is clarified in my Reddit comments quote meaning that it is not a fundamental lagrangian but one that is only applicable and specifically taylored to this problem.
 
 
 
