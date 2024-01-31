@@ -19,8 +19,6 @@ __PRINCIPLES AND DEFINITIONS__
 __Beam Diameter__: The beam diameter is the width of the laser beam at a particular point. Using photographic tecnique for a focused beam, using a CCD to capture the spot and fitting it with 2D Gaussian function will be enable to calculate beam diameter of the beam.
 
 	D = 2 * √(P / I π)
-
-
 	I₀ = 2 * P / (π * w₀ ²)
 
 __D__ is the beam diameter at at a given distance
