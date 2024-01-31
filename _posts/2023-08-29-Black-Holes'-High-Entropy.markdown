@@ -14,6 +14,17 @@ __PRINCIPLES AND DEFINITIONS__
 
 1. Determining the laser source and type of laser beam we are working with. This will determine the appropriate method for analyzing the beam profile. In this paper He-Ne and diode lasers studied that emits pure Gaussian beam and elliptical beam shape, respectively as results concludes.
 
+2. Measuring the dimensions of the laser beam. We will need to know the width, height, and length of the beam in order to calculate its properties. This can be done using a variety of techniques, such as using a beam profiler or imaging the beam using a camera or other imaging device.
+
+__Beam Diameter__: The beam diameter is the width of the laser beam at a particular point. Using photographic tecnique for a focused beam, using a CCD to capture the spot and fitting it with 2D Gaussian function will be enable to calculate beam diameter of the beam.
+
+	D = 2 * √(P / I π)
+	I₀ = 2 * P / (π * w₀ ²)
+
+__D__ is the beam diameter at at a given distance
+__P__ is the power of the laser
+__I__ is the intensity at a given distance 
+
 {% highlight ruby%}
 
 import matplotlib.pyplot as plt
@@ -62,13 +73,3 @@ plt.show()
 
 {% endhighlight %}
 
-2. Measuring the dimensions of the laser beam. We will need to know the width, height, and length of the beam in order to calculate its properties. This can be done using a variety of techniques, such as using a beam profiler or imaging the beam using a camera or other imaging device.
-
-__Beam Diameter__: The beam diameter is the width of the laser beam at a particular point. Using photographic tecnique for a focused beam, using a CCD to capture the spot and fitting it with 2D Gaussian function will be enable to calculate beam diameter of the beam.
-
-	D = 2 * √(P / I π)
-	I₀ = 2 * P / (π * w₀ ²)
-
-__D__ is the beam diameter at at a given distance
-__P__ is the power of the laser
-__I__ is the intensity at a given distance 
