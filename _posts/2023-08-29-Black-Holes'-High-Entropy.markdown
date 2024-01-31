@@ -12,4 +12,4 @@ A laser beam is a highly focused and collimated beam of light that is produced b
 
 __PRINCIPLES AND DEFINITIONS__ 
 
-__Determining the laser source and type of laser beam we are working with. This will determine the appropriate method for analyzing the beam profile.__
+__Determining the laser source and type of laser beam we are working with. This will determine the appropriate method for analyzing the beam profile.__ In this paper He-Ne and diode lasers studied that emits pure Gaussian beam and elliptical beam shape, respectively as results concludes.
