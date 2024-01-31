@@ -23,7 +23,9 @@ __Beam Diameter__: The beam diameter is the width of the laser beam at a particu
 	I₀ = 2 * P / (π * w₀ ²)
 
 __D__ is the beam diameter at at a given distance
+
 __P__ is the power of the laser
+
 __I__ is the intensity at a given distance 
 
 {% highlight ruby%}
