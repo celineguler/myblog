@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(laser) beam_analysis.py"
+title: "beam_analysis.py"
 ---
 
 	
