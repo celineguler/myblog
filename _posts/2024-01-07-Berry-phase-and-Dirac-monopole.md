@@ -21,7 +21,7 @@ __ϕ__: The azimuthal angle, which represents the rotation of the spin around th
 
 <br>
 
-The effective Lagrangian mentioned above is clarified in my Reddit comments quote meaning that it is not a fundamental lagrangian but one that is only applicable and specifically taylored to this problem.
+The effective Lagrangian mentioned above is clarified in my Reddit comments quote that it is not a fundamental lagrangian but one that is only applicable and specifically taylored to this problem.
 
 
 
