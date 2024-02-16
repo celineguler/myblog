@@ -26,7 +26,9 @@ __D__ is the beam diameter at at a given distance
 
 __P__ is the power of the laser
 
-__I__ is the intensity at a given distance 
+__I__ is the intensity at a given distance
+
+<br>
 
 {% highlight ruby%}
 
@@ -35,6 +37,10 @@ from scipy import special
 from scipy.optimize import curve_fit
 from matplotlib import pyplot as plt
 import numpy as np
+
+{% endhighlight %}
+
+{% highlight ruby%}
 
 # data
 power, distance = [], []
