@@ -78,9 +78,45 @@ plt.show()
 
 __Beam Waist__: The beam waist is the point at which the beam has the smallest diameter. The beam waist can be measured using a beam profiler or by performing a series of measurements at different distances from the source to determine the point at which the beam reaches its minimum diameter.
 
-This is an inline equation: $a^2 + b^2 = c^2$
+w = 2√(λ * z / π)
 
-And this is a displayed equation:
+D = 2 * √(P / I₀ π)
 
-$$ \int_{-\infty}^{\infty} e^{-x^2} \,dx = \sqrt{\pi} $$
+where I₀ is the peak irradiance.
 
+
+Rayleigh Range: The Rayleigh range is a measure of the distance over which a laser beam diverges or spreads out. It is typically expressed in terms of the distance from the beam waist, and is given by the formula:
+
+R = (π * w^2) / λ
+
+R = (λ * d) / (π * θ) 
+
+
+3. Determine the beam's wavelength and power. These values will be important for calculating the beam's intensity and other properties. 1 mW He-Ne laser with 632.8 nm wavelength and 5 mW semiconductor laser with 635.8 nm will be discussed in the following. 
+
+The below graphs shows as the cross-section of laser spot increases the laser power decreases, with the inverse square fitting as figured.
+
+
+4. Measure the beam's intensity distribution. This can be done using a beam profiler of other device that measures the intensity of the beam at various points across it's cross-section.
+
+
+Beam intensity can be calculated by the following expression:
+
+I = P / π * (d / 2)²
+
+where:
+
+__I__ is the intensity
+
+__P__ is the power of the laser
+
+__D__ is the given distance
+
+
+5. Calculate the beam's spot size and divergence. These values can be calculated using the beam's intensity distribution and other parameters.
+
+To calculate the spot size and beam divergence of a laser beam, we will need to know the following information:
+
+__Wavelength__: The wavelength of the laser beam is a key parameter that determines the beam's diffraction behavior.
+
+__Beam diameter at the waist__: The beam diameter at the waist is the diameter of the beam at the point where it is smallest. This can be measured using a beam profiler or by performing a series of measurements at different distances from the source to implement with the given Eq.3 and Eq4. 
