@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>selinguler94/beam_analysis | the blog</title>
+<meta name="generator" content="Jekyll v4.3.2" />
+<meta property="og:title" content="selinguler94/beam_analysis" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="This paper covers the analysis of laser profiles since these studies of intensity distribution, laser power, number of modes and laser beam are quite important in many applications. I studied the paper and build up some Python code that can useful for the data management through out the analysis process. Let me break down concepts first but I need mention that I’ll be quoting my poorly written report from a century ago. So the concept covering for this post is not bit of a clean-cut." />
+<meta property="og:description" content="This paper covers the analysis of laser profiles since these studies of intensity distribution, laser power, number of modes and laser beam are quite important in many applications. I studied the paper and build up some Python code that can useful for the data management through out the analysis process. Let me break down concepts first but I need mention that I’ll be quoting my poorly written report from a century ago. So the concept covering for this post is not bit of a clean-cut." />
+<link rel="canonical" href="http://localhost:4000/myblog/2023/08/29/Black-Holes'-High-Entropy.html" />
+<meta property="og:url" content="http://localhost:4000/myblog/2023/08/29/Black-Holes'-High-Entropy.html" />
+<meta property="og:site_name" content="the blog" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-08-29T00:00:00+03:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="selinguler94/beam_analysis" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-08-29T00:00:00+03:00","datePublished":"2023-08-29T00:00:00+03:00","description":"This paper covers the analysis of laser profiles since these studies of intensity distribution, laser power, number of modes and laser beam are quite important in many applications. I studied the paper and build up some Python code that can useful for the data management through out the analysis process. Let me break down concepts first but I need mention that I’ll be quoting my poorly written report from a century ago. So the concept covering for this post is not bit of a clean-cut.","headline":"selinguler94/beam_analysis","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/myblog/2023/08/29/Black-Holes'-High-Entropy.html"},"url":"http://localhost:4000/myblog/2023/08/29/Black-Holes'-High-Entropy.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/myblog/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/myblog/feed.xml" title="the blog" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/myblog/">the blog</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/myblog/about/">About</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">selinguler94/beam_analysis</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2023-08-29T00:00:00+03:00" itemprop="datePublished">Aug 29, 2023
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>This paper covers the analysis of laser profiles since these studies of intensity distribution, laser power, number of modes and laser beam are quite important in many applications. I studied the paper and build up some Python code that can useful for the data management through out the analysis process. Let me break down concepts first but I need mention that I’ll be quoting my poorly written report from a century ago. So the concept covering for this post is not bit of a clean-cut.</p>
+
+<p>A laser beam is a highly focused and collimated beam of light that is produced by a laser. Laser beam analysis is a set of techniques used to measure and analyze the properties of laser beams. This can include the <em>beam’s intensity, power, shape, and spatial and temporal</em> characteristics. Laser beam analysis is important in a variety of applications, including manufacturing, scientific research, and military and defense. There are several methods for analysis of a laser beam profile such as <strong>scanning aperture</strong>, <strong>scanning knife-edges</strong>, <strong>detector arrays</strong>, <strong>burn patterns</strong> and <strong>photographic technique</strong> which studied in this paper.</p>
+
+<p><br /></p>
+
+<p><strong>PRINCIPLES AND DEFINITIONS</strong></p>
+
+<ol>
+  <li>
+    <p>Determining the laser source and type of laser beam we are working with. This will determine the appropriate method for analyzing the beam profile. In this paper He-Ne and diode lasers studied that emits pure Gaussian beam and elliptical beam shape, respectively as results concludes.</p>
+  </li>
+  <li>
+    <p>Measuring the dimensions of the laser beam. We will need to know the width, height, and length of the beam in order to calculate its properties. This can be done using a variety of techniques, such as using a beam profiler or imaging the beam using a camera or other imaging device.</p>
+  </li>
+</ol>
+
+<p><strong>Beam Diameter</strong>: The beam diameter is the width of the laser beam at a particular point. Using photographic tecnique for a focused beam, using a CCD to capture the spot and fitting it with 2D Gaussian function will be enable to calculate beam diameter of the beam.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>D = 2 * √(P / I π)
+I₀ = 2 * P / (π * w₀ ²)
+</code></pre></div></div>
+
+<p><strong>D</strong> is the beam diameter at at a given distance</p>
+
+<p><strong>P</strong> is the power of the laser</p>
+
+<p><strong>I</strong> is the intensity at a given distance</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">import</span> <span class="n">matplotlib</span><span class="p">.</span><span class="nf">pyplot</span> <span class="n">as</span> <span class="n">plt</span>
+<span class="n">from</span> <span class="n">scipy</span> <span class="n">import</span> <span class="n">special</span>
+<span class="n">from</span> <span class="n">scipy</span><span class="p">.</span><span class="nf">optimize</span> <span class="n">import</span> <span class="n">curve_fit</span>
+<span class="n">from</span> <span class="n">matplotlib</span> <span class="n">import</span> <span class="n">pyplot</span> <span class="n">as</span> <span class="n">plt</span>
+<span class="n">import</span> <span class="n">numpy</span> <span class="n">as</span> <span class="n">np</span>
+
+<span class="c1"># data</span>
+<span class="n">power</span><span class="p">,</span> <span class="n">distance</span> <span class="o">=</span> <span class="p">[],</span> <span class="p">[]</span>
+
+
+<span class="n">with</span> <span class="nb">open</span><span class="p">(</span><span class="s2">"power.txt"</span><span class="p">,</span> <span class="s2">"r"</span><span class="p">)</span> <span class="n">as</span> <span class="ss">power_values:
+    </span><span class="n">power_lines</span> <span class="o">=</span> <span class="n">power_values</span><span class="p">.</span><span class="nf">readlines</span><span class="p">()</span>
+<span class="n">with</span> <span class="nb">open</span><span class="p">(</span><span class="s2">"distance.txt"</span><span class="p">,</span> <span class="s2">"r"</span><span class="p">)</span> <span class="n">as</span> <span class="ss">distance_values:
+    </span><span class="n">distance_lines</span> <span class="o">=</span> <span class="n">distance_values</span><span class="p">.</span><span class="nf">readlines</span><span class="p">()</span>
+    
+    
+<span class="k">for</span> <span class="n">i</span> <span class="k">in</span> <span class="n">range</span><span class="p">(</span><span class="n">len</span><span class="p">(</span><span class="n">power_lines</span><span class="p">)):</span>
+    <span class="n">power</span><span class="p">.</span><span class="nf">append</span><span class="p">(</span><span class="n">float</span><span class="p">(</span><span class="n">power_lines</span><span class="p">[</span><span class="n">i</span><span class="p">]))</span>
+    <span class="n">distance</span><span class="p">.</span><span class="nf">append</span><span class="p">(</span><span class="n">float</span><span class="p">(</span><span class="n">distance_lines</span><span class="p">[</span><span class="n">i</span><span class="p">]))</span>
+
+    
+<span class="c1"># the function to fit to the data</span>
+<span class="k">def</span> <span class="nf">power_func</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">):</span>
+    <span class="k">return</span> <span class="n">a</span> <span class="o">*</span> <span class="n">np</span><span class="p">.</span><span class="nf">exp</span><span class="p">(</span><span class="o">-</span><span class="n">b</span> <span class="o">*</span> <span class="n">x</span><span class="p">)</span>
+
+
+<span class="c1"># fit</span>
+<span class="n">params</span><span class="p">,</span> <span class="n">covar</span> <span class="o">=</span> <span class="n">curve_fit</span><span class="p">(</span><span class="n">power_func</span><span class="p">,</span> <span class="n">distance</span><span class="p">,</span> <span class="n">power</span><span class="p">)</span>
+<span class="n">a</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="n">params</span>
+
+
+<span class="c1"># generated data</span>
+<span class="n">x_curve</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="nf">linspace</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">50</span><span class="p">)</span>
+<span class="n">y_curve</span> <span class="o">=</span> <span class="n">power_func</span><span class="p">(</span><span class="n">x_curve</span><span class="p">,</span> <span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">)</span>
+
+
+<span class="n">plt</span><span class="p">.</span><span class="nf">plot</span><span class="p">(</span><span class="n">distance</span><span class="p">,</span> <span class="n">power</span><span class="p">,</span> <span class="s1">'-'</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'g'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="nf">plot</span><span class="p">(</span><span class="n">x_curve</span><span class="p">,</span> <span class="n">y_curve</span><span class="p">,</span> <span class="s1">'--'</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'b'</span><span class="p">)</span>
+
+
+<span class="n">plt</span><span class="p">.</span><span class="nf">xlabel</span><span class="p">(</span><span class="s1">'Distance (m)'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="nf">ylabel</span><span class="p">(</span><span class="s1">'Power (mW)'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="nf">show</span><span class="p">()</span></code></pre></figure>
+
+<p><strong>Beam Waist</strong>: The beam waist is the point at which the beam has the smallest diameter. The beam waist can be measured using a beam profiler or by performing a series of measurements at different distances from the source to determine the point at which the beam reaches its minimum diameter.</p>
+
+<p>This is an inline equation: $a^2 + b^2 = c^2$</p>
+
+<p>And this is a displayed equation:</p>
+
+\[\int_{-\infty}^{\infty} e^{-x^2} \,dx = \sqrt{\pi}\]
+
+
+  </div><a class="u-url" href="/myblog/2023/08/29/Black-Holes'-High-Entropy.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/myblog/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">the blog</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">the blog</li><li><a class="u-email" href="mailto:selinguller3017@gmail.com">selinguller3017@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/selinguler94"><svg class="svg-icon"><use xlink:href="/myblog/assets/minima-social-icons.svg#github"></use></svg> <span class="username">selinguler94</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>physics is a hell of a drug</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

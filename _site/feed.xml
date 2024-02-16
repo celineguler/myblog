@@ -1,17 +1,307 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-16T15:37:55+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome Jekyll!</title><link href="http://localhost:4000/jekyll/update/2023/05/16/my-new.html" rel="alternate" type="text/html" title="Welcome Jekyll!" /><published>2023-05-16T13:19:15+03:00</published><updated>2023-05-16T13:19:15+03:00</updated><id>http://localhost:4000/jekyll/update/2023/05/16/my-new</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/05/16/my-new.html"><![CDATA[]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Welcome Jekyll!</title><link href="http://localhost:4000/jekyll/update/2023/05/16/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome Jekyll!" /><published>2023-05-16T13:19:15+03:00</published><updated>2023-05-16T13:19:15+03:00</updated><id>http://localhost:4000/jekyll/update/2023/05/16/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/05/16/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/myblog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/myblog/" rel="alternate" type="text/html" /><updated>2024-02-16T13:30:50+03:00</updated><id>http://localhost:4000/myblog/feed.xml</id><title type="html">the blog</title><subtitle>physics is a hell of a drug</subtitle><entry><title type="html">Berry phase and Dirac monopole</title><link href="http://localhost:4000/myblog/2024/01/07/Berry-phase-and-Dirac-monopole.html" rel="alternate" type="text/html" title="Berry phase and Dirac monopole" /><published>2024-01-07T00:00:00+03:00</published><updated>2024-01-07T00:00:00+03:00</updated><id>http://localhost:4000/myblog/2024/01/07/Berry-phase-and-Dirac-monopole</id><content type="html" xml:base="http://localhost:4000/myblog/2024/01/07/Berry-phase-and-Dirac-monopole.html"><![CDATA[<p>This is my poor introduction to molecular quantum dynamics. Here’s <a href="https://www.qipe.t.u-tokyo.ac.jp/lec_2021a_cond/2021_10_14_2.pdf">the article</a> we’ll be studying even though it seems to have a lack supporting citations and honestly a proper structure.</p>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<p><br /></p>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+<p>We start with the effective Lagrangian for the spin-½ in the magnetic field <strong>B</strong> = [0, 0, <strong>B</strong>] as,</p>
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<p><img src="/myblog/images/lagrangian.png" alt="formula" /></p>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<p><strong>B</strong>: The magnitude of the magnetic field, along the z-axis.</p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<p><strong>θ</strong>: The polar angle, which represents the orientation of the spin with respect to the magnetic field. It is the angle between the direction of the magnetic field and the spin axis.</p>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<p><strong>ϕ</strong>: The azimuthal angle, which represents the rotation of the spin around the z-axis.</p>
+
+<p><br /></p>
+
+<p>The effective Lagrangian mentioned above is clarified in my Reddit comments quote that it is not a fundamental lagrangian but one that is only applicable and specifically taylored to this problem.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[This is my poor introduction to molecular quantum dynamics. Here’s the article we’ll be studying even though it seems to have a lack supporting citations and honestly a proper structure.]]></summary></entry><entry><title type="html">nanowires</title><link href="http://localhost:4000/myblog/2023/12/13/nanowires.html" rel="alternate" type="text/html" title="nanowires" /><published>2023-12-13T00:00:00+03:00</published><updated>2023-12-13T00:00:00+03:00</updated><id>http://localhost:4000/myblog/2023/12/13/nanowires</id><content type="html" xml:base="http://localhost:4000/myblog/2023/12/13/nanowires.html"><![CDATA[<p>I’ll be trying to cover the concept of nanowires, which is a practical example of emergent behavior in physics. Their inherent properties are expected to enable new photodetector architectures for <a href="https://scholar.google.com.tr/scholar?q=nanowires+in+sensing&amp;hl=tr&amp;as_sdt=0&amp;as_vis=1&amp;oi=scholart">sensing</a>, <a href="https://scholar.google.com.tr/scholar?hl=tr&amp;as_sdt=0%2C5&amp;as_vis=1&amp;q=nanowires+in+imaging&amp;btnG=">imaging</a>, memory <a href="https://scholar.google.com.tr/scholar?hl=tr&amp;as_sdt=0%2C5&amp;as_vis=1&amp;q=nanowires+memory+storage&amp;btnG=">storage</a>, intrachip <a href="https://scholar.google.com.tr/scholar?hl=tr&amp;as_sdt=0%2C5&amp;as_vis=1&amp;q=nanowires+optical+communication&amp;btnG=&amp;oq=nanowires+optical+commi">optical communications</a>, and other nanoscale applications.</p>
+
+<p>Understanding emergent behavior in physics can be indicated as matter becomes cluster, and it develops new kinds of structures and forms of <a href="https://en.wikipedia.org/wiki/Collective_motion">collective motion</a>, for which its properties are called “emergent.”</p>
+
+<p>My source will be <a href="https://www.nature.com/articles/s41567-020-0969-7">this</a> article, which is the best resource I’ve encountered so far — maybe because of that I haven’t searched for many.</p>
+
+<hr />]]></content><author><name></name></author><summary type="html"><![CDATA[I’ll be trying to cover the concept of nanowires, which is a practical example of emergent behavior in physics. Their inherent properties are expected to enable new photodetector architectures for sensing, imaging, memory storage, intrachip optical communications, and other nanoscale applications.]]></summary></entry><entry><title type="html">Geometric Fifth Force</title><link href="http://localhost:4000/myblog/2023/12/05/Black-Holes-and-Dark-Matter.html" rel="alternate" type="text/html" title="Geometric Fifth Force" /><published>2023-12-05T00:00:00+03:00</published><updated>2023-12-05T00:00:00+03:00</updated><id>http://localhost:4000/myblog/2023/12/05/Black-Holes-and-Dark-Matter</id><content type="html" xml:base="http://localhost:4000/myblog/2023/12/05/Black-Holes-and-Dark-Matter.html"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">pyNLO</title><link href="http://localhost:4000/myblog/2023/12/03/pyNLO.html" rel="alternate" type="text/html" title="pyNLO" /><published>2023-12-03T00:00:00+03:00</published><updated>2023-12-03T00:00:00+03:00</updated><id>http://localhost:4000/myblog/2023/12/03/pyNLO</id><content type="html" xml:base="http://localhost:4000/myblog/2023/12/03/pyNLO.html"><![CDATA[<p>Here’s a python tool for photonics called <a href="https://github.com/pyNLO/PyNLO/blob/master/src/examples/pulsed_dfg.py">pyNLO</a>. Covers nonlinear optics modeling and seems pretty practical. In the following I’ll be studying a bit of pyNLO, it’s functions and of course several parts of nonlinear optics.</p>
+
+<p>The example given in the <a href="https://pynlo.readthedocs.io/en/latest/readme_link.html#documentation">documentation</a> is about <strong>simulating the propagation of a 50 fs pulse through a nonlinear fiber using the split-step Fourier model (SSFM)</strong>. Let me say that again.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>PROBLEM: Simulating the propagation of a 50 fs pulse through a nonlinear
+fiber using the split-step Fourier model (SSFM).	
+</code></pre></div></div>
+
+<p>Let me break down some concepts in this example and let’s understand the problem.</p>
+
+<p>According to <a href="https://en.wikipedia.org/wiki/Split-step_method">wikipedia</a>, SSFM is a numerical analysis term where it used to solve partial differential equations, for example  the nonlinear Schrödinger equation. So what I correlate through out this information is that we must have expressed the pulse through a nonlinear fiber <em>as a partial differential equation</em>. I don’t know how to solve partial differential equations, but I’m just pretend that’s okay and play along.</p>
+
+<p>ChatGPT emits that forming our partial differential eqaution is gonna involve the nonlinear Schrödinger equation (NLSE) with additional terms to account for the nonlinear effects where NLSE is indicated as a common model for pulse propogation in optical fibers. As we play along, let me continue and specify the NLSE in the following.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>	i∂A/∂z + β∂²A/2∂t² + γ∣A∣²A = 0
+</code></pre></div></div>
+
+<p>Here’s exactly the time that I had the merge of quitting, cause it doesn’t seem like anything I’ve ever seen before. But let’s move on.</p>
+
+<p><em>A <strong>is the complex E field envelope of the pulse</strong></em></p>
+
+<p><em>z <strong>is the propogation distance along the fiber</strong></em></p>
+
+<p><em>t <strong>is time</strong></em></p>
+
+<p><em>β <strong>is group velocity dispersion parameter</strong></em></p>
+
+<p><em>γ <strong>is the nonlinear parameter related to the Kerr effect</strong></em></p>
+
+<p>Beside time, I have no idea what these means. I’m gonna continue on the example code, and where these terms get in. I’d like to underline that the owner pointed out that the actual propogation of the pulse takes up just a few lines of code. My jobs is to analyize them and optionally not do that too poorly.</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="no">FWHM</span>    <span class="o">=</span> <span class="mf">0.050</span>  <span class="c1"># pulse duration (ps)</span>
+<span class="n">pulseWL</span> <span class="o">=</span> <span class="mi">1550</span>   <span class="c1"># pulse central wavelength (nm)</span>
+<span class="no">EPP</span>     <span class="o">=</span> <span class="mf">50e-12</span> <span class="c1"># Energy per pulse (J)</span>
+<span class="no">GDD</span>     <span class="o">=</span> <span class="mf">0.0</span>    <span class="c1"># Group delay dispersion (ps^2)</span>
+<span class="no">TOD</span>     <span class="o">=</span> <span class="mf">0.0</span>    <span class="c1"># Third order dispersion (ps^3)</span>
+
+<span class="no">Window</span>  <span class="o">=</span> <span class="mf">10.0</span>   <span class="c1"># simulation window (ps)</span>
+<span class="no">Steps</span>   <span class="o">=</span> <span class="mi">100</span>     <span class="c1"># simulation steps</span>
+<span class="no">Points</span>  <span class="o">=</span> <span class="mi">2</span><span class="o">**</span><span class="mi">13</span>  <span class="c1"># simulation points</span>
+
+<span class="n">beta2</span>   <span class="o">=</span> <span class="o">-</span><span class="mi">120</span>     <span class="c1"># (ps^2/km)</span>
+<span class="n">beta3</span>   <span class="o">=</span> <span class="mf">0.00</span>     <span class="c1"># (ps^3/km)</span>
+<span class="n">beta4</span>   <span class="o">=</span> <span class="mf">0.005</span>    <span class="c1"># (ps^4/km)</span>
+
+<span class="no">Length</span>  <span class="o">=</span> <span class="mi">20</span>    <span class="c1"># length in mm</span>
+
+<span class="no">Alpha</span>   <span class="o">=</span> <span class="mf">0.0</span>     <span class="c1"># attentuation coefficient (dB/cm)</span>
+<span class="no">Gamma</span>   <span class="o">=</span> <span class="mi">1000</span>    <span class="c1"># Gamma (1/(W km)</span>
+
+<span class="n">fibWL</span>   <span class="o">=</span> <span class="n">pulseWL</span> <span class="c1"># Center WL of fiber (nm)</span>
+
+<span class="no">Raman</span>   <span class="o">=</span> <span class="no">True</span>    <span class="c1"># Enable Raman effect?</span>
+<span class="no">Steep</span>   <span class="o">=</span> <span class="no">True</span>    <span class="c1"># Enable self steepening?</span></code></pre></figure>
+
+<p>Apparently 50 fs stands for 50 femtosecond pulse. Here’s the statement of chatgpt about femtoseconds: <em>“A femtosecond is a unit of time equal to 10^-15 seconds, and a 50 fs pulse is an extremely short duration of time. In the context of optics, it’s often used to describe ultrafast laser pulses.”</em></p>
+
+<p><br /></p>
+
+<p><strong>BASICS OF PULSE PROPOGATION</strong></p>
+
+<p>Typical physical effects influencing pulses are:</p>
+
+<ul>
+  <li>
+    <p>Chromatic dispersion can lead to dispersive pulse broadening, but also to pulse compression, generation of a chirp, etc.</p>
+  </li>
+  <li>
+    <p>Various nonlinearities can become relevant at high peak powers. For example, the Kerr effect can cause self-phase modulation, and Raman scattering may e.g. induce Raman gain within the pulse spectrum (Raman self-frequency shift).</p>
+  </li>
+  <li>
+    <p>Optical gain and losses can modify the pulse energy and the spectral shape.</p>
+  </li>
+  <li>
+    <p>The spatial properties can change due to linear effects such as diffraction and waveguiding, but also due to nonlinear effects such as self-focusing. In highly nonlinear interactions, filamentation may occur.</p>
+  </li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Here’s a python tool for photonics called pyNLO. Covers nonlinear optics modeling and seems pretty practical. In the following I’ll be studying a bit of pyNLO, it’s functions and of course several parts of nonlinear optics.]]></summary></entry><entry><title type="html">Why do colliding blocks compute π?</title><link href="http://localhost:4000/myblog/2023/11/10/Why-do-colliding-block-compute-pi.html" rel="alternate" type="text/html" title="Why do colliding blocks compute π?" /><published>2023-11-10T00:00:00+03:00</published><updated>2023-11-10T00:00:00+03:00</updated><id>http://localhost:4000/myblog/2023/11/10/Why-do-colliding-block-compute-pi</id><content type="html" xml:base="http://localhost:4000/myblog/2023/11/10/Why-do-colliding-block-compute-pi.html"><![CDATA[<p>Grant Sanderson tought me about the π Machine, while I was reminding myself that it’s never too late to learn 3b1b/manim. π is interesting as always in this concept, but I couldn’t come up with anything explanatory — so I needed to break it down.</p>
+
+<p>The Pi Machine setup looks like this:</p>
+
+<p><img src="/myblog/images/pi.png" alt="pi" /></p>
+
+<p>We focus on the number of collusions of the second mass, while it pursue it’s motion along the 2D path of mass_1 and the wall. And mass_1 is a parameter with powers of 100. Delightfully, powers of 100 matches the digits of number π by number of collisions. But why? <strong>Why the π shows up?</strong></p>
+
+<p>The answer is simply <em>when there’s π, there’s a hidden circle</em>. For the case of elastic collusions between two blocks and a wall, where we have varying block masses for the power of 100, the total number of collusions give the digits of π. So we need to explain the hidden circle in this particular case of collusions, which wasn’t that lucid for me, honestly.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Grant Sanderson tought me about the π Machine, while I was reminding myself that it’s never too late to learn 3b1b/manim. π is interesting as always in this concept, but I couldn’t come up with anything explanatory — so I needed to break it down.]]></summary></entry><entry><title type="html">greed is good</title><link href="http://localhost:4000/myblog/2023/09/02/capitalism.html" rel="alternate" type="text/html" title="greed is good" /><published>2023-09-02T00:00:00+03:00</published><updated>2023-09-02T00:00:00+03:00</updated><id>http://localhost:4000/myblog/2023/09/02/capitalism</id><content type="html" xml:base="http://localhost:4000/myblog/2023/09/02/capitalism.html"><![CDATA[<p>I believe capitalism is pleasent until you admit it or gone to far — maybe like buying a <a href="https://en.wikipedia.org/wiki/Martin_Shkreli">drug company</a>. Still mostly agree with Shkreli, and this <a href="https://www.washingtonpost.com/news/morning-mix/wp/2015/09/23/pharma-bro-martin-shkreli-and-the-very-american-debate-over-maximizing-profit/">article</a>, where I gladly met my requests and not making feel bad about it. Sounds selfish, is selfish but also very devine.</p>
+
+<p><br /></p>
+
+<p><img src="/myblog/images/pillguy.png" alt="pill" /></p>
+
+<p>Martin Shkreli has faced jail cause of raising the price of a life-saving drug, for his alleged greed for profit. I believe this is a daring enterprise for redefining a new type of service. Not many can deny that it encourages people to discover new ways and expand their understandings on how they should use and support their movables. It improves beneficial capitalist frames — not the ones like “world peace is not profitable” or “government is good until is bad” but more free, more subjective and more creative frames like “smart people should win, even if they’re wrong.”</p>
+
+<p>I believe this cases are aligns or spotlights the problem of information overload of today or it’s just me aligning every single situtation with this information overload problem and try to spotlight it on my own. In either cases, Shkreli’s jail time was a mistake over the calculation incompetence of today’s society in cases like this, about <strong>greed</strong> or what ever you say. Shkreli brought up a new way of understanding the importance of individuality (<em>individuality is what I believe is the solution to information overload, we resign our time with signing up for teams</em>) with a modernist approach, and now his out of jail supporting <a href="https://geohot.github.io/blog/jekyll/update/2022/12/31/eacc.html">e/acc</a> and putting his weight on a post-modernist approach, which I think he’s not doing it with the awareness of information overload relation with his special case but still a hero to be remembered.</p>
+
+<p>I used the term “information overload” but I’m not simply referring to <a href="https://en.wikipedia.org/wiki/Information_overload#:~:text=unlimited%20wireless%20access.-,In%20the%20modern%20information%20age%2C%20information%20overload%20is%20experienced%20as,context%20of%20the%20work%20environment.">this</a> definition which I’m not sure it covers my problem that we’re not generating insights proportional with information. This just associates with the retardation of our poor information processing capacity as humans. Through out all the regulations, nobody seems to pay attention on the consequences by not taking an action on AI and how the hell are we gonna handle such information production. Let me show you some real data.</p>
+
+<p><br /></p>
+
+<p><img src="/myblog/images/data7.jpg" alt="data" /></p>
+
+<p><br /></p>
+
+<p>This may not be the best fitting graph for my situtation by it’s includings, but we all agree that what we have with data producing is an exponential.</p>
+
+<p>And here’s some data related with research or any type of data management capacity and how it delayed in time. It’s not directly proposing data management capasity delay surely, but I’m gonna stick with this approach cause it’s intuitive. Relatively intuitive, but intuitive.</p>
+
+<p><br /></p>
+
+<p><img src="/myblog/images/info.png" alt="info" /></p>
+
+<p><br /></p>
+
+<p>To clarify my offerings, we are genuiely incapable of doing things and this incompetence is gonna ruin the smoothness of the exponential of our growth in value as humans. Ruining this exponential is a genuine threat against technological singularity, not trying to be dramatic or anything but this could be remembered as a crime in future law, or just the stupidest time period of humans.</p>
+
+<p>AI is genuinely a problem-solving based technology where it promises great tools and capasities, where we seem to have a delay of realization. This is a bit of an approachable and motivational statement, I also need time to understand how delightfully we neglect the regulations and build the future of AI. Shkreli, suprisingly and not very suprisingly helps me forming my understanding of this concept that I may not be appreciating enough.</p>
+
+<p>Here’s a more competent blog on <a href="https://geohot.github.io/blog/jekyll/update/2022/12/31/eacc.html">e/acc</a>, which can express more on effective accelerationism.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[I believe capitalism is pleasent until you admit it or gone to far — maybe like buying a drug company. Still mostly agree with Shkreli, and this article, where I gladly met my requests and not making feel bad about it. Sounds selfish, is selfish but also very devine.]]></summary></entry><entry><title type="html">Intel’s 528-thread photonic CPU</title><link href="http://localhost:4000/myblog/2023/09/01/Intel-528-thread-photonic-CPU.html" rel="alternate" type="text/html" title="Intel’s 528-thread photonic CPU" /><published>2023-09-01T00:00:00+03:00</published><updated>2023-09-01T00:00:00+03:00</updated><id>http://localhost:4000/myblog/2023/09/01/Intel-528-thread-photonic-CPU</id><content type="html" xml:base="http://localhost:4000/myblog/2023/09/01/Intel-528-thread-photonic-CPU.html"><![CDATA[<p>I must point out that I won’t hesitate and feel free to accuse Intel of being premature or being late about this — and won’t mind maturely admiting this was right on time. I’m team Intel.</p>
+
+<p>I’m surely here to understand the Reddit comments and what is going on with Intel’s new processor which made people talk about detecting financial crimes and AI even more dramatically.</p>
+
+<p>So Intel displayed their new technology at the Hot Chips 2023 and leave an impression with their detailing on a direct mesh-to-mesh optical fabric and 8-core processor with 66 threads per core. Which sounded unreal for some dramatizers but first let’s understand what the hell mesh-to-mesh optical fabric and 8-core processor with 66 threads means.</p>
+
+<p>A “core” refers to a physical processing unit within a CPU — Basically a smaller CPU or a smaller processor and placed in CPU’s which makes them a multicore processesors. A “thread” is a sequence of instructions that can be executed by a core. It represents a basic unit of CPU work. The Apple M1 Pro has 10 core and and it can process 10 threads-per-core. Sun’s Niagara 3 (hasn’t arrived yet) will have 16-cores and 16 threads-per-core. Amountly, these technologies doesn’t beat Intel; but more on threads-per-core may mean more. Higher amount of threads can have advantages such as better multitasking, parellelism, hyper-threading and potential downsides such as power and heat or facing non-optimizable sofwares.</p>
+
+<p>Okay, asking some philosophical question, for what is this will be good for? Here are some exiciting news:</p>
+
+<ul>
+  <li>
+    <p>Detect financial crimes such as money laundering</p>
+  </li>
+  <li>
+    <p>Identify fraudulent transactions and activities</p>
+  </li>
+  <li>
+    <p>Perform influencer analysis in social network communities</p>
+  </li>
+  <li>
+    <p>Perform recommendation analysis from customers ratings or purchases.</p>
+  </li>
+  <li>
+    <p>Identify weaknesses in power grids, water grids, and transportation networks</p>
+  </li>
+  <li>
+    <p>Optimize routes in the airlines, retail, manufacturing industries</p>
+  </li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[I must point out that I won’t hesitate and feel free to accuse Intel of being premature or being late about this — and won’t mind maturely admiting this was right on time. I’m team Intel.]]></summary></entry><entry><title type="html">selinguler94/beam_analysis</title><link href="http://localhost:4000/myblog/2023/08/29/Black-Holes'-High-Entropy.html" rel="alternate" type="text/html" title="selinguler94/beam_analysis" /><published>2023-08-29T00:00:00+03:00</published><updated>2023-08-29T00:00:00+03:00</updated><id>http://localhost:4000/myblog/2023/08/29/Black-Holes&apos;-High-Entropy</id><content type="html" xml:base="http://localhost:4000/myblog/2023/08/29/Black-Holes&apos;-High-Entropy.html"><![CDATA[<p>This paper covers the analysis of laser profiles since these studies of intensity distribution, laser power, number of modes and laser beam are quite important in many applications. I studied the paper and build up some Python code that can useful for the data management through out the analysis process. Let me break down concepts first but I need mention that I’ll be quoting my poorly written report from a century ago. So the concept covering for this post is not bit of a clean-cut.</p>
+
+<p>A laser beam is a highly focused and collimated beam of light that is produced by a laser. Laser beam analysis is a set of techniques used to measure and analyze the properties of laser beams. This can include the <em>beam’s intensity, power, shape, and spatial and temporal</em> characteristics. Laser beam analysis is important in a variety of applications, including manufacturing, scientific research, and military and defense. There are several methods for analysis of a laser beam profile such as <strong>scanning aperture</strong>, <strong>scanning knife-edges</strong>, <strong>detector arrays</strong>, <strong>burn patterns</strong> and <strong>photographic technique</strong> which studied in this paper.</p>
+
+<p><br /></p>
+
+<p><strong>PRINCIPLES AND DEFINITIONS</strong></p>
+
+<ol>
+  <li>
+    <p>Determining the laser source and type of laser beam we are working with. This will determine the appropriate method for analyzing the beam profile. In this paper He-Ne and diode lasers studied that emits pure Gaussian beam and elliptical beam shape, respectively as results concludes.</p>
+  </li>
+  <li>
+    <p>Measuring the dimensions of the laser beam. We will need to know the width, height, and length of the beam in order to calculate its properties. This can be done using a variety of techniques, such as using a beam profiler or imaging the beam using a camera or other imaging device.</p>
+  </li>
+</ol>
+
+<p><strong>Beam Diameter</strong>: The beam diameter is the width of the laser beam at a particular point. Using photographic tecnique for a focused beam, using a CCD to capture the spot and fitting it with 2D Gaussian function will be enable to calculate beam diameter of the beam.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>D = 2 * √(P / I π)
+I₀ = 2 * P / (π * w₀ ²)
+</code></pre></div></div>
+
+<p><strong>D</strong> is the beam diameter at at a given distance</p>
+
+<p><strong>P</strong> is the power of the laser</p>
+
+<p><strong>I</strong> is the intensity at a given distance</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">import</span> <span class="n">matplotlib</span><span class="p">.</span><span class="nf">pyplot</span> <span class="n">as</span> <span class="n">plt</span>
+<span class="n">from</span> <span class="n">scipy</span> <span class="n">import</span> <span class="n">special</span>
+<span class="n">from</span> <span class="n">scipy</span><span class="p">.</span><span class="nf">optimize</span> <span class="n">import</span> <span class="n">curve_fit</span>
+<span class="n">from</span> <span class="n">matplotlib</span> <span class="n">import</span> <span class="n">pyplot</span> <span class="n">as</span> <span class="n">plt</span>
+<span class="n">import</span> <span class="n">numpy</span> <span class="n">as</span> <span class="n">np</span>
+
+<span class="c1"># data</span>
+<span class="n">power</span><span class="p">,</span> <span class="n">distance</span> <span class="o">=</span> <span class="p">[],</span> <span class="p">[]</span>
+
+
+<span class="n">with</span> <span class="nb">open</span><span class="p">(</span><span class="s2">"power.txt"</span><span class="p">,</span> <span class="s2">"r"</span><span class="p">)</span> <span class="n">as</span> <span class="ss">power_values:
+    </span><span class="n">power_lines</span> <span class="o">=</span> <span class="n">power_values</span><span class="p">.</span><span class="nf">readlines</span><span class="p">()</span>
+<span class="n">with</span> <span class="nb">open</span><span class="p">(</span><span class="s2">"distance.txt"</span><span class="p">,</span> <span class="s2">"r"</span><span class="p">)</span> <span class="n">as</span> <span class="ss">distance_values:
+    </span><span class="n">distance_lines</span> <span class="o">=</span> <span class="n">distance_values</span><span class="p">.</span><span class="nf">readlines</span><span class="p">()</span>
+    
+    
+<span class="k">for</span> <span class="n">i</span> <span class="k">in</span> <span class="n">range</span><span class="p">(</span><span class="n">len</span><span class="p">(</span><span class="n">power_lines</span><span class="p">)):</span>
+    <span class="n">power</span><span class="p">.</span><span class="nf">append</span><span class="p">(</span><span class="n">float</span><span class="p">(</span><span class="n">power_lines</span><span class="p">[</span><span class="n">i</span><span class="p">]))</span>
+    <span class="n">distance</span><span class="p">.</span><span class="nf">append</span><span class="p">(</span><span class="n">float</span><span class="p">(</span><span class="n">distance_lines</span><span class="p">[</span><span class="n">i</span><span class="p">]))</span>
+
+    
+<span class="c1"># the function to fit to the data</span>
+<span class="k">def</span> <span class="nf">power_func</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">):</span>
+    <span class="k">return</span> <span class="n">a</span> <span class="o">*</span> <span class="n">np</span><span class="p">.</span><span class="nf">exp</span><span class="p">(</span><span class="o">-</span><span class="n">b</span> <span class="o">*</span> <span class="n">x</span><span class="p">)</span>
+
+
+<span class="c1"># fit</span>
+<span class="n">params</span><span class="p">,</span> <span class="n">covar</span> <span class="o">=</span> <span class="n">curve_fit</span><span class="p">(</span><span class="n">power_func</span><span class="p">,</span> <span class="n">distance</span><span class="p">,</span> <span class="n">power</span><span class="p">)</span>
+<span class="n">a</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="n">params</span>
+
+
+<span class="c1"># generated data</span>
+<span class="n">x_curve</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="nf">linspace</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">50</span><span class="p">)</span>
+<span class="n">y_curve</span> <span class="o">=</span> <span class="n">power_func</span><span class="p">(</span><span class="n">x_curve</span><span class="p">,</span> <span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">)</span>
+
+
+<span class="n">plt</span><span class="p">.</span><span class="nf">plot</span><span class="p">(</span><span class="n">distance</span><span class="p">,</span> <span class="n">power</span><span class="p">,</span> <span class="s1">'-'</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'g'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="nf">plot</span><span class="p">(</span><span class="n">x_curve</span><span class="p">,</span> <span class="n">y_curve</span><span class="p">,</span> <span class="s1">'--'</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'b'</span><span class="p">)</span>
+
+
+<span class="n">plt</span><span class="p">.</span><span class="nf">xlabel</span><span class="p">(</span><span class="s1">'Distance (m)'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="nf">ylabel</span><span class="p">(</span><span class="s1">'Power (mW)'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="nf">show</span><span class="p">()</span></code></pre></figure>
+
+<p><strong>Beam Waist</strong>: The beam waist is the point at which the beam has the smallest diameter. The beam waist can be measured using a beam profiler or by performing a series of measurements at different distances from the source to determine the point at which the beam reaches its minimum diameter.</p>
+
+<p>This is an inline equation: $a^2 + b^2 = c^2$</p>
+
+<p>And this is a displayed equation:</p>
+
+\[\int_{-\infty}^{\infty} e^{-x^2} \,dx = \sqrt{\pi}\]]]></content><author><name></name></author><summary type="html"><![CDATA[This paper covers the analysis of laser profiles since these studies of intensity distribution, laser power, number of modes and laser beam are quite important in many applications. I studied the paper and build up some Python code that can useful for the data management through out the analysis process. Let me break down concepts first but I need mention that I’ll be quoting my poorly written report from a century ago. So the concept covering for this post is not bit of a clean-cut.]]></summary></entry><entry><title type="html">ONNs</title><link href="http://localhost:4000/myblog/2023/08/09/optical-neural-network.html" rel="alternate" type="text/html" title="ONNs" /><published>2023-08-09T00:00:00+03:00</published><updated>2023-08-09T00:00:00+03:00</updated><id>http://localhost:4000/myblog/2023/08/09/optical-neural-network</id><content type="html" xml:base="http://localhost:4000/myblog/2023/08/09/optical-neural-network.html"><![CDATA[<p>While electrons often considered more suitable for information processing (reasons such they are easy to manipulate by EM fields since they have charge and mass, they do interact unlike photons and you have switching speed since it’s easier to stop electrons), ONN offers to find novel ways of information processing and advantages such as high-speed parallelism, low power consumption, and potential for high throughput. We can discuss ONN better if we talk more on photonics for computing first. So, why photonics for computing?</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> Light provides an enormous bandwidth, possibility of wavelength division multiplexing.
+</code></pre></div>  </div>
+</blockquote>
+
+<p>While it more sounds like communication then computing and just helps computing.</p>
+
+<p>Here’s an article called <a href="https://news.cornell.edu/stories/2023/04/optical-neural-networks-hold-promise-image-processing">optical-neural-networks-hold-promise-for-image-processing</a> about more energy-efficient image sensors.</p>
+
+<p><a href="https://www.youtube.com/watch?v=EfGLJ47dg80">CONF-CDS 2020</a> offers inference is the only optically suitable part and not the training. This article <a href="https://arxiv.org/abs/2308.05226#:~:text=However%2C%20to%20reach%20the%20full,the%20training%20be%20implemented%20optically.">training neural networks with end-to-end optical backpropagation</a> focused on this problem (I only read the abstract).</p>
+
+<blockquote class="italic-gray indented">
+  <p><em>“However, to reach the full capacity of an optical neural network it is necessary that
+the computing not only for the inference, but also for the training be implemented optically.”</em></p>
+</blockquote>
+
+<p><br /></p>
+
+<p>Let’s discuss this where the above articles casually lead me to it. But first, I’m gonna try to clarify the concepts of ONNs (optical neural networks) and ANN’s (artificial neural networks) where I only have the sence of ANNs. Also, here’s a casual <a href="https://en.wikipedia.org/wiki/Quantum_neural_network">brainfuck</a> called QNNs for companions.</p>
+
+<p>Firstly, I can declare my early confussions on the physical structures on neural networks. We know that ANNs are mathematical models at their core which represents a virtual structure for connections between artificial neurons. So the computations in ANNs occurs through mathematical operations which needs to be executed on a computational device, such as <a href="https://www.analyticsvidhya.com/blog/2023/03/cpu-vs-gpu/#:~:text=In%20conclusion%2C%20several%20steps%20of,GPUs%20may%20both%20be%20utilized.">CPU or GPU</a> (there’s a discussion on which unit is more suitable for machine learning). So physical electronic structure is the implementation of ANNs into hardware or basically direct implementation of any mathematical computation — this involves using electronic components to simulate mathematical operations performed by artificial neurons. Which is called computation. Thank you for your time. But it was a challange to understand the virtual structure representation of the architecture and computations are conceptually independent of any specific physical implementation.</p>
+
+<p>Optical neural networks, on the other hand, are designed and implemented using optical components like lasers, waveguides, and photodetectors. The physical design of these networks is different from traditional electronic neural networks and requires an sense of optical computing. ONNs manipulate and process information using light. So mathematical operation architecture based on the manipulation of the light signals through the interference, diffraction and other optical phenomena. Implementing ONNs typically involves designing and building physical optical structures. While traditional ANNs can be run on standard CPUs and GPUs, ONNs are a specialized area that involves the design and construction of physical optical structures due to their use of optics for computation. We test <a href="https://en.wikipedia.org/wiki/Optical_computing"><em>optical computation</em></a>.</p>
+
+<p>You may now get my confussion on this physical structure implementation, it’s neither an <em>upgrade</em>, <em>transformation</em> or <em>replacement</em> on classical computing. Which is confusing.</p>
+
+<p><img src="/myblog/images/onn.png" alt="onn2" /></p>
+
+<p><br /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[While electrons often considered more suitable for information processing (reasons such they are easy to manipulate by EM fields since they have charge and mass, they do interact unlike photons and you have switching speed since it’s easier to stop electrons), ONN offers to find novel ways of information processing and advantages such as high-speed parallelism, low power consumption, and potential for high throughput. We can discuss ONN better if we talk more on photonics for computing first. So, why photonics for computing?]]></summary></entry><entry><title type="html">Church of Satan</title><link href="http://localhost:4000/myblog/jekyll/update/2023/05/20/Church-of-Satan.html" rel="alternate" type="text/html" title="Church of Satan" /><published>2023-05-20T13:19:15+03:00</published><updated>2023-05-20T13:19:15+03:00</updated><id>http://localhost:4000/myblog/jekyll/update/2023/05/20/Church-of-Satan</id><content type="html" xml:base="http://localhost:4000/myblog/jekyll/update/2023/05/20/Church-of-Satan.html"><![CDATA[<p>I needed to come to know all these influential phrases by the Church of Satan. It’s LaVeyan Satanism, which rejects the legitimacy of theistic Satanism and embraces a non-dramatic understanding of Satan. “A religious organization” is a jesting way of the devote it’s entity but that’s just what Wikipedia did.
+<br /><br /></p>
+
+<p><img src="/myblog/images/churchofsatan.jpeg" alt="LaVeyan Satanism" /></p>
+
+<p><br />
+I was listening to a podcast about the Corspwood Manor, which about a gay couple who murdered brutally in their manors that build by themselves. The interesting character of the story is Dr. Charles Lee Scudder, the homosexual devil worshipper who plays his harp when the full moon comes out and paints his pink winged dog statue as neon. I have to mention that Scudder was brought up with wealthy and educated parents, <a href="https://www.nature.com/articles/537466a">is-science-only-for-the-rich-?</a>. Through the whole case, Joey was the certain victim as being the one who was incapablities, which I don’t know if it’s making him more divine. Actually there’s a site on the internet tells about him and the Corpswood Case more in detail and atrocity, <a href="https://www.churchofsatan.com/tragic-case-dr-charles-lee-scudder/">tragic-case-of-dr-charles-lee-scudder</a>. And yes it’s unawares me discovering one of the greatest websites existing, <a href="https://www.churchofsatan.com/">churchofsatan.com</a>.</p>
+
+<p><br />
+To understand Satan from sight of Lavey, I read about Satan’s (non-biblical) characteristic and designated views of Satan as I hoped. To be honest, I don’t have the pivot to confirm whether the embodiment I’m looking for is entirely consistent with Lavenian satanism. But it’s close.
+<br /></p>
+
+<blockquote class="italic-gray indented">
+  <p><em>in some literary interpretations or alternative perspectives, Satan can be portrayed as a complex figure who understands the human experience and the range of emotions, including sadness. In these interpretations, Satan may view sadness as a tool to manipulate and exploit individuals, exploiting their vulnerabilities or weaknesses for his own purposes.</em></p>
+</blockquote>
+
+<p><br />
+Here’s a good quote from the book.
+<br /></p>
+
+<blockquote class="italic-gray indented">
+  <p><em>“Hate your enemies with a whole heart, and if a man smite you on one cheek, smash him on the other!”</em></p>
+</blockquote>
+
+<p><br />
+I must mention that Hedonism is an infuential section of the Satanic Bible. The artwork of <a href="https://miro.medium.com/v2/resize:fit:1200/1*XGL7sKUW4dcByLVad5ctHg.jpeg">three pig-heads feasting</a> might be an efficient way to depict Hedonism. Lavey shares tons of quotes in the book to encourages individuals to enjoy and savor their desires and pleasures rather than denying them in the name of asceticism or self-denial. Asceticism just makes no sense brother.
+<br /></p>
+
+<blockquote class="italic-gray indented">
+  <p><em>“The Satanist realizes that man’s greatest potential for self-realization lies in his endless opportunities for self-indulgence.”</em></p>
+</blockquote>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[I needed to come to know all these influential phrases by the Church of Satan. It’s LaVeyan Satanism, which rejects the legitimacy of theistic Satanism and embraces a non-dramatic understanding of Satan. “A religious organization” is a jesting way of the devote it’s entity but that’s just what Wikipedia did. I was listening to a podcast about the Corspwood Manor, which about a gay couple who murdered brutally in their manors that build by themselves. The interesting character of the story is Dr. Charles Lee Scudder, the homosexual devil worshipper who plays his harp when the full moon comes out and paints his pink winged dog statue as neon. I have to mention that Scudder was brought up with wealthy and educated parents, is-science-only-for-the-rich-?. Through the whole case, Joey was the certain victim as being the one who was incapablities, which I don’t know if it’s making him more divine. Actually there’s a site on the internet tells about him and the Corpswood Case more in detail and atrocity, tragic-case-of-dr-charles-lee-scudder. And yes it’s unawares me discovering one of the greatest websites existing, churchofsatan.com. To understand Satan from sight of Lavey, I read about Satan’s (non-biblical) characteristic and designated views of Satan as I hoped. To be honest, I don’t have the pivot to confirm whether the embodiment I’m looking for is entirely consistent with Lavenian satanism. But it’s close. in some literary interpretations or alternative perspectives, Satan can be portrayed as a complex figure who understands the human experience and the range of emotions, including sadness. In these interpretations, Satan may view sadness as a tool to manipulate and exploit individuals, exploiting their vulnerabilities or weaknesses for his own purposes. Here’s a good quote from the book. “Hate your enemies with a whole heart, and if a man smite you on one cheek, smash him on the other!” I must mention that Hedonism is an infuential section of the Satanic Bible. The artwork of three pig-heads feasting might be an efficient way to depict Hedonism. Lavey shares tons of quotes in the book to encourages individuals to enjoy and savor their desires and pleasures rather than denying them in the name of asceticism or self-denial. Asceticism just makes no sense brother. “The Satanist realizes that man’s greatest potential for self-realization lies in his endless opportunities for self-indulgence.”]]></summary></entry></feed>

@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>pyNLO | the blog</title>
+<meta name="generator" content="Jekyll v4.3.2" />
+<meta property="og:title" content="pyNLO" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Here’s a python tool for photonics called pyNLO. Covers nonlinear optics modeling and seems pretty practical. In the following I’ll be studying a bit of pyNLO, it’s functions and of course several parts of nonlinear optics." />
+<meta property="og:description" content="Here’s a python tool for photonics called pyNLO. Covers nonlinear optics modeling and seems pretty practical. In the following I’ll be studying a bit of pyNLO, it’s functions and of course several parts of nonlinear optics." />
+<link rel="canonical" href="http://localhost:4000/myblog/2023/12/03/pyNLO.html" />
+<meta property="og:url" content="http://localhost:4000/myblog/2023/12/03/pyNLO.html" />
+<meta property="og:site_name" content="the blog" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-12-03T00:00:00+03:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="pyNLO" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-12-03T00:00:00+03:00","datePublished":"2023-12-03T00:00:00+03:00","description":"Here’s a python tool for photonics called pyNLO. Covers nonlinear optics modeling and seems pretty practical. In the following I’ll be studying a bit of pyNLO, it’s functions and of course several parts of nonlinear optics.","headline":"pyNLO","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/myblog/2023/12/03/pyNLO.html"},"url":"http://localhost:4000/myblog/2023/12/03/pyNLO.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/myblog/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/myblog/feed.xml" title="the blog" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/myblog/">the blog</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/myblog/about/">About</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">pyNLO</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2023-12-03T00:00:00+03:00" itemprop="datePublished">Dec 3, 2023
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>Here’s a python tool for photonics called <a href="https://github.com/pyNLO/PyNLO/blob/master/src/examples/pulsed_dfg.py">pyNLO</a>. Covers nonlinear optics modeling and seems pretty practical. In the following I’ll be studying a bit of pyNLO, it’s functions and of course several parts of nonlinear optics.</p>
+
+<p>The example given in the <a href="https://pynlo.readthedocs.io/en/latest/readme_link.html#documentation">documentation</a> is about <strong>simulating the propagation of a 50 fs pulse through a nonlinear fiber using the split-step Fourier model (SSFM)</strong>. Let me say that again.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>PROBLEM: Simulating the propagation of a 50 fs pulse through a nonlinear
+fiber using the split-step Fourier model (SSFM).	
+</code></pre></div></div>
+
+<p>Let me break down some concepts in this example and let’s understand the problem.</p>
+
+<p>According to <a href="https://en.wikipedia.org/wiki/Split-step_method">wikipedia</a>, SSFM is a numerical analysis term where it used to solve partial differential equations, for example  the nonlinear Schrödinger equation. So what I correlate through out this information is that we must have expressed the pulse through a nonlinear fiber <em>as a partial differential equation</em>. I don’t know how to solve partial differential equations, but I’m just pretend that’s okay and play along.</p>
+
+<p>ChatGPT emits that forming our partial differential eqaution is gonna involve the nonlinear Schrödinger equation (NLSE) with additional terms to account for the nonlinear effects where NLSE is indicated as a common model for pulse propogation in optical fibers. As we play along, let me continue and specify the NLSE in the following.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>	i∂A/∂z + β∂²A/2∂t² + γ∣A∣²A = 0
+</code></pre></div></div>
+
+<p>Here’s exactly the time that I had the merge of quitting, cause it doesn’t seem like anything I’ve ever seen before. But let’s move on.</p>
+
+<p><em>A <strong>is the complex E field envelope of the pulse</strong></em></p>
+
+<p><em>z <strong>is the propogation distance along the fiber</strong></em></p>
+
+<p><em>t <strong>is time</strong></em></p>
+
+<p><em>β <strong>is group velocity dispersion parameter</strong></em></p>
+
+<p><em>γ <strong>is the nonlinear parameter related to the Kerr effect</strong></em></p>
+
+<p>Beside time, I have no idea what these means. I’m gonna continue on the example code, and where these terms get in. I’d like to underline that the owner pointed out that the actual propogation of the pulse takes up just a few lines of code. My jobs is to analyize them and optionally not do that too poorly.</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="no">FWHM</span>    <span class="o">=</span> <span class="mf">0.050</span>  <span class="c1"># pulse duration (ps)</span>
+<span class="n">pulseWL</span> <span class="o">=</span> <span class="mi">1550</span>   <span class="c1"># pulse central wavelength (nm)</span>
+<span class="no">EPP</span>     <span class="o">=</span> <span class="mf">50e-12</span> <span class="c1"># Energy per pulse (J)</span>
+<span class="no">GDD</span>     <span class="o">=</span> <span class="mf">0.0</span>    <span class="c1"># Group delay dispersion (ps^2)</span>
+<span class="no">TOD</span>     <span class="o">=</span> <span class="mf">0.0</span>    <span class="c1"># Third order dispersion (ps^3)</span>
+
+<span class="no">Window</span>  <span class="o">=</span> <span class="mf">10.0</span>   <span class="c1"># simulation window (ps)</span>
+<span class="no">Steps</span>   <span class="o">=</span> <span class="mi">100</span>     <span class="c1"># simulation steps</span>
+<span class="no">Points</span>  <span class="o">=</span> <span class="mi">2</span><span class="o">**</span><span class="mi">13</span>  <span class="c1"># simulation points</span>
+
+<span class="n">beta2</span>   <span class="o">=</span> <span class="o">-</span><span class="mi">120</span>     <span class="c1"># (ps^2/km)</span>
+<span class="n">beta3</span>   <span class="o">=</span> <span class="mf">0.00</span>     <span class="c1"># (ps^3/km)</span>
+<span class="n">beta4</span>   <span class="o">=</span> <span class="mf">0.005</span>    <span class="c1"># (ps^4/km)</span>
+
+<span class="no">Length</span>  <span class="o">=</span> <span class="mi">20</span>    <span class="c1"># length in mm</span>
+
+<span class="no">Alpha</span>   <span class="o">=</span> <span class="mf">0.0</span>     <span class="c1"># attentuation coefficient (dB/cm)</span>
+<span class="no">Gamma</span>   <span class="o">=</span> <span class="mi">1000</span>    <span class="c1"># Gamma (1/(W km)</span>
+
+<span class="n">fibWL</span>   <span class="o">=</span> <span class="n">pulseWL</span> <span class="c1"># Center WL of fiber (nm)</span>
+
+<span class="no">Raman</span>   <span class="o">=</span> <span class="no">True</span>    <span class="c1"># Enable Raman effect?</span>
+<span class="no">Steep</span>   <span class="o">=</span> <span class="no">True</span>    <span class="c1"># Enable self steepening?</span></code></pre></figure>
+
+<p>Apparently 50 fs stands for 50 femtosecond pulse. Here’s the statement of chatgpt about femtoseconds: <em>“A femtosecond is a unit of time equal to 10^-15 seconds, and a 50 fs pulse is an extremely short duration of time. In the context of optics, it’s often used to describe ultrafast laser pulses.”</em></p>
+
+<p><br /></p>
+
+<p><strong>BASICS OF PULSE PROPOGATION</strong></p>
+
+<p>Typical physical effects influencing pulses are:</p>
+
+<ul>
+  <li>
+    <p>Chromatic dispersion can lead to dispersive pulse broadening, but also to pulse compression, generation of a chirp, etc.</p>
+  </li>
+  <li>
+    <p>Various nonlinearities can become relevant at high peak powers. For example, the Kerr effect can cause self-phase modulation, and Raman scattering may e.g. induce Raman gain within the pulse spectrum (Raman self-frequency shift).</p>
+  </li>
+  <li>
+    <p>Optical gain and losses can modify the pulse energy and the spectral shape.</p>
+  </li>
+  <li>
+    <p>The spatial properties can change due to linear effects such as diffraction and waveguiding, but also due to nonlinear effects such as self-focusing. In highly nonlinear interactions, filamentation may occur.</p>
+  </li>
+</ul>
+
+
+  </div><a class="u-url" href="/myblog/2023/12/03/pyNLO.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/myblog/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">the blog</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">the blog</li><li><a class="u-email" href="mailto:selinguller3017@gmail.com">selinguller3017@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/selinguler94"><svg class="svg-icon"><use xlink:href="/myblog/assets/minima-social-icons.svg#github"></use></svg> <span class="username">selinguler94</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>physics is a hell of a drug</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
