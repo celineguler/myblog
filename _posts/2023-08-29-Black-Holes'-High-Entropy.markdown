@@ -168,6 +168,8 @@ Here are some intensity distrubution graphs of some characteristic beams:
 
 ![beamii](/myblog/images/indir2.png)
 
+![beamiii](/myblog/images/indir3.png)
+
 <br>
 
 5. __Calculate the beam's spot size and divergence. These values can be calculated using the beam's intensity distribution and other parameters.__
