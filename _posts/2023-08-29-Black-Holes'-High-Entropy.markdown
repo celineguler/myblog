@@ -164,6 +164,10 @@ Here are some intensity distrubution graphs of some characteristic beams:
 
 ![beam](/myblog/images/Laser_speckle.jpg)
 
+<br>
+
+![beami](/myblog/images/indir.png)
+
 5. __Calculate the beam's spot size and divergence. These values can be calculated using the beam's intensity distribution and other parameters.__
 
 To calculate the spot size and beam divergence of a laser beam, we will need to know the following information:
