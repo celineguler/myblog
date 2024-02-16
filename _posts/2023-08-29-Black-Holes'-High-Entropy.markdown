@@ -76,6 +76,8 @@ plt.show()
 
 {% endhighlight %}
 
+<br>
+
 __Beam Waist__: The beam waist is the point at which the beam has the smallest diameter. The beam waist can be measured using a beam profiler or by performing a series of measurements at different distances from the source to determine the point at which the beam reaches its minimum diameter.
 
 w = 2√(λ * z / π)
@@ -85,19 +87,21 @@ D = 2 * √(P / I₀ π)
 where I₀ is the peak irradiance.
 
 
-Rayleigh Range: The Rayleigh range is a measure of the distance over which a laser beam diverges or spreads out. It is typically expressed in terms of the distance from the beam waist, and is given by the formula:
+__Rayleigh Range__: The Rayleigh range is a measure of the distance over which a laser beam diverges or spreads out. It is typically expressed in terms of the distance from the beam waist, and is given by the formula:
 
 R = (π * w^2) / λ
 
 R = (λ * d) / (π * θ) 
 
+<br>
 
-3. Determine the beam's wavelength and power. These values will be important for calculating the beam's intensity and other properties. 1 mW He-Ne laser with 632.8 nm wavelength and 5 mW semiconductor laser with 635.8 nm will be discussed in the following. 
+3. __Determine the beam's wavelength and power. These values will be important for calculating the beam's intensity and other properties.__ 1 mW He-Ne laser with 632.8 nm wavelength and 5 mW semiconductor laser with 635.8 nm will be discussed in the following. 
 
 The below graphs shows as the cross-section of laser spot increases the laser power decreases, with the inverse square fitting as figured.
 
+<br>
 
-4. Measure the beam's intensity distribution. This can be done using a beam profiler of other device that measures the intensity of the beam at various points across it's cross-section.
+4. __Measure the beam's intensity distribution. This can be done using a beam profiler of other device that measures the intensity of the beam at various points across it's cross-section.__
 
 
 Beam intensity can be calculated by the following expression:
@@ -112,8 +116,9 @@ __P__ is the power of the laser
 
 __D__ is the given distance
 
+<br>
 
-5. Calculate the beam's spot size and divergence. These values can be calculated using the beam's intensity distribution and other parameters.
+5. __Calculate the beam's spot size and divergence. These values can be calculated using the beam's intensity distribution and other parameters.__
 
 To calculate the spot size and beam divergence of a laser beam, we will need to know the following information:
 
