@@ -162,11 +162,11 @@ plt.show()
 
 Here are some intensity distrubution graphs of some characteristic beams:
 
-![beam](/myblog/images/Laser_speckle.jpg)
-
 <br>
 
 ![beami](/myblog/images/indir.png)
+
+<br>
 
 5. __Calculate the beam's spot size and divergence. These values can be calculated using the beam's intensity distribution and other parameters.__
 
