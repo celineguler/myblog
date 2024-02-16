@@ -77,3 +77,10 @@ plt.show()
 {% endhighlight %}
 
 __Beam Waist__: The beam waist is the point at which the beam has the smallest diameter. The beam waist can be measured using a beam profiler or by performing a series of measurements at different distances from the source to determine the point at which the beam reaches its minimum diameter.
+
+This is an inline equation: $a^2 + b^2 = c^2$
+
+And this is a displayed equation:
+
+$$ \int_{-\infty}^{\infty} e^{-x^2} \,dx = \sqrt{\pi} $$
+
