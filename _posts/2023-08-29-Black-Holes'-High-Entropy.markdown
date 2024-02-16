@@ -3,6 +3,7 @@ layout: post
 title: "selinguler94/beam_analysis"
 ---
 
+
 This paper covers the analysis of laser profiles since these studies of intensity distribution, laser power, number of modes and laser beam are quite important in many applications. I studied the paper and build up some Python code that can useful for the data management through out the analysis process. Let me break down concepts first but I need mention that I'll be quoting my poorly written report from a century ago. So the concept covering for this post is not bit of a clean-cut.
 
 
@@ -76,5 +77,3 @@ plt.show()
 {% endhighlight %}
 
 __Beam Waist__: The beam waist is the point at which the beam has the smallest diameter. The beam waist can be measured using a beam profiler or by performing a series of measurements at different distances from the source to determine the point at which the beam reaches its minimum diameter.
-
-![pictureyey](/images/formul3.jpg)
