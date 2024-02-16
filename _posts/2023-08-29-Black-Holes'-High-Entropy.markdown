@@ -118,6 +118,38 @@ __D__ is the given distance
 
 <br>
 
+{% highlight ruby%}
+
+import matplotlib.pyplot as plt
+from matplotlib import cm
+import numpy as np
+from PIL import Image, ImageFilter
+
+image = Image.open(r'')
+#filter is optional 
+image = image.filter(ImageFilter.MedianFilter(3))
+pixels = image.load()
+
+x_axis, y_axis, z_axis = [], [], []
+
+fig = plt.figure()
+ax = fig.add_subplot(111, projection='3d')
+
+#intensity distrubution of the 'image'
+for x in range(image.width):
+    for y in range(image.height):
+        x_axis.append(x)
+        y_axis.append(y)
+        z_axis.append(sum(pixels[x, y]))
+        
+ax.scatter(x_axis, y_axis, z_axis, c=z_axis, cmap=cm.jet)
+fig.colorbar(ax.scatter(x_axis, y_axis, z_axis, c=z_axis, cmap=cm.jet))
+plt.show()
+
+{% endhighlight %}
+
+<br>
+
 5. __Calculate the beam's spot size and divergence. These values can be calculated using the beam's intensity distribution and other parameters.__
 
 To calculate the spot size and beam divergence of a laser beam, we will need to know the following information:
