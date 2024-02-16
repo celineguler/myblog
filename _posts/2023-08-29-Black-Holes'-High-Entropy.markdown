@@ -75,3 +75,7 @@ plt.show()
 
 {% endhighlight %}
 
+__Beam Waist__: The beam waist is the point at which the beam has the smallest diameter. The beam waist can be measured using a beam profiler or by performing a series of measurements at different distances from the source to determine the point at which the beam reaches its minimum diameter.
+
+![formul](/images/formul1.png)
+
