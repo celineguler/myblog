@@ -125,6 +125,10 @@ from matplotlib import cm
 import numpy as np
 from PIL import Image, ImageFilter
 
+{% endhighlight %}
+
+{% highlight ruby%}
+
 image = Image.open(r'')
 #filter is optional 
 image = image.filter(ImageFilter.MedianFilter(3))
