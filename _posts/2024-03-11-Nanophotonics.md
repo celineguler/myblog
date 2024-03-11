@@ -1,6 +1,6 @@
 --
 layout: post
-title: introduction to NP
+title: nanophotonics
 --
 
 Why does electric field lines ever cross?
