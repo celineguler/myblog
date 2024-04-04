@@ -3,6 +3,8 @@ The idea of polariton computing or more accurately polaritons as quantum compute
 
 Rydberg polartions are unique types of quasi-particles which extended from the strong coupling between photons and Rydberg excitations. 
 
+
+see all: microcavity physics, polaritons, exciton-polaritons, rydberg atoms, rydberg polarons, excitonics
 QUASI-PARTICLE EXCITATION
 
 
