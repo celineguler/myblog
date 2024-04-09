@@ -1,6 +1,5 @@
 
-We can start by assorting transverse waves as
 
-	Localized Surface Plasmon Resonance
-	
-	Surface Plasmon Polaritons
+_REVIEW OF MAXWELL EQUATIONS_
+
+This is an introduction to nanophotonics, where light-matter interactions in subatomic levels are covered.
