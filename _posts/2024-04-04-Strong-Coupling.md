@@ -4,6 +4,6 @@ Coupling Harmonic Oscillations are exhibits the two regimes as Strong Coupling a
 
 (i) exponential decays or energy exchange cycles
 
-(ii) the steady-state spectrum
+(ii) the steady-state spectrum of 
 
 (iii)	
