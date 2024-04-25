@@ -8,3 +8,14 @@ __MAXWELL'S EQUATIONS__
 
 ![maxwell](/myblog/images/maxwell.jpg)
 
+
+
+
+
+
+
+
+__SURFACE PLASMON POLARITONS__
+
+SPPs are basically electromagnetic waves traveling along a metal-dielectric interface. 
+
