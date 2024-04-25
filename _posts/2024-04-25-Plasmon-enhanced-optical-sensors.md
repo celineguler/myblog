@@ -72,12 +72,15 @@ __PLASMON-ENHANCED SENSING__
 Plasmonics is used directly for signal transduction.
 
 
-
 Key ideas:
 
-__Plasmons as signal transducers__
+__"Plasmons as signal transducers"__
 
+__"Detection of the small changes in wavelength position of localized surface plasmon resonances in metal nanostructures is used of biomarker detection"__
 
+__Nanoresonator dkjf__
+
+__Idea of the sensitivity of SPR and highly dependency on the dielectric environment, the shift of resonance in optical spectrum can be used to quantify the change of surrounding medium: "DETECTION"__
 
 
 
