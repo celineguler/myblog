@@ -2,11 +2,11 @@
 
 TOPICS:
 
-__...............................................................Physics of SPR__
+__..........................................................................................Physics of SPR__
 
-__...............................................................Plasmonic sensing__
+__..........................................................................................Plasmonic sensing__
 
-__...............................................................Types of Plasmonic Sensors__
+__..........................................................................................Types of Plasmonic Sensors__
 
 
 In this post, focus is how we implement surface plasmon resonance with ultrasensetive detection. Why is it better? How it's implemented? What could be better? will be the topic questions. Wit various plasmon-assisted optical components such as waveguides, color filtering, photon sorters, absorbers, switches etc.
