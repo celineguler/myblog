@@ -6,9 +6,9 @@ __Physics of SPR__
 
 __Plasmon-enhanced sensing__
 
-	designs
-	experimental configurations
-	the interaction with and strengthing the optical signal
+	-designs
+	-experimental configurations
+	-the interaction with and strengthing the optical signal
 
 __Types of Plasmonic Sensors__
 
@@ -78,7 +78,7 @@ __"Plasmons as signal transducers"__
 
 __"Detection of the small changes in wavelength position of localized surface plasmon resonances in metal nanostructures is used of biomarker detection"__
 
-__Nanoresonator dkjf__
+__Nanoresonator that can be applied in sensing applications since coherent coupling of *BRIGHT AND DARK PLASMON MODES* in this system expected to produce *fano resonance (more correctly fano interference with high quality factors(?)*__
 
 __Idea of the sensitivity of SPR and highly dependency on the dielectric environment, the shift of resonance in optical spectrum can be used to quantify the change of surrounding medium: "DETECTION"__
 
