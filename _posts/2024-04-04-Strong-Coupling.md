@@ -7,6 +7,8 @@ Coupling Harmonic Oscillations are exhibits the two regimes as Strong Coupling a
 
 (iii)	
 
-\begin{equation}
-	A_m = 4
-\end{equation}
+Inline equation: $A_m = 4$
+
+Block equation:
+```math
+A_m = 4
