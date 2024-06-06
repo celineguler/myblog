@@ -30,6 +30,7 @@ github_username:  selinguler94
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-latex
 
 kramdown:
   math_engine: mathjax
