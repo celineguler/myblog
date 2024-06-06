@@ -7,3 +7,7 @@ Coupling Harmonic Oscillations are exhibits the two regimes as Strong Coupling a
 (ii) the steady-state spectrum of 
 
 (iii)	
+
+\begin{equation}
+	A_m = 4
+\end{equation}
