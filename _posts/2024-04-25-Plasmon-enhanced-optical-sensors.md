@@ -1,105 +1,35 @@
+---
+layout: post
+title: Review of surface plasmon based plasmonic sensors
+---
 
+  <!-- MathJax Script -->
+  <script type="text/javascript" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
 
-TOPICS:
+Due to the nature of light, optical sensors are fast, lightweight, small in size, highly precise,
+and they can also be designed as non-destructive sensors for many applications. Surface Plasmon
+Resonance (SPR) which exist at the metal/dielectric interfaces become an extensive sensing
+implement due to its features for high dependency in dielectric environment, and size, shape
+and composition of nanostructures. These various susceptibilities allows for optical sensing to 10
+incorporate plasmonic metal nanostructures. Plasmons play different roles in different types
+of optical sensors, such as plasmonic sensors, plasmon-enhanced fluorescence (PEF) sensors
+and surface-enhanced Raman scattering (SERS) sensors. This review briefly focuses on the
+developments and applications of plasmonic sensors.
 
-__Physics of SPR__
+<br>
 
-__Plasmon-enhanced sensing__
+Essentially, plasmonics is the science of the interaction of light with metals that involves the study of plasmons, which are quasiparticles representing collective charge density oscillations in the free conduction electron of the metal. Typically, surface plasmons (SPs) refer to the coherent oscillations of conduction electrons on a material surface under the stimulation of quantized energies, i.e., photons, electrons, and phonons. There are two forms of SPs: the localized surface plasmons (LSPs) and the propagating surface plasmon polaritons (SPPs), which are the fundamental elements in plasmonic sensors. LSPR occurs when the dimensions of a metallic nanostructure are less than the wavelength of incident light, leading to collective but non propagating oscillations of surface electrons in the metallic nanostructure. The LSPR strongly depends on the refractive index of the surrounding medium and concentrates the incident electromagnetic EM field around the nanostructure. SPPs are the propagating charge oscillations on the surface of thin metal films. SPPs cannot be excited by free-space radiation, and instead require momentum matching, such as through periodicity in a nanostructure, for resonance excitation. SPPs are modulated by the refractive index of the surrounding medium, transducing the sensor’s signal.
 
-	-designs
-	-experimental configurations
-	-the interaction with and strengthing the optical signal
+There are different plasmonic resonances which can be determined using the following vector equation. Which is a bit of advanced where the wave vector dependency of epsilon can be noticed which essentially tells us about epsilon can depend on the size of the structure, but this is only applicable when the structures are very small. Otherwise epsilon can simply can determine with only dependency in omega.
 
-__Types of Plasmonic Sensors__
+$$
+k(k \cdot E) - k^2 E = -\epsilon(k,\omega)\frac{\omega^2}{c^2} E
+$$
 
-__Why SPR for sensing?__
+To determine various types of plasmonic resonances, we consider whether the wave is transverse or longitudinal. By longitudinal waves, we essentially mean that wave vector is parallel to the electric field.
 
-__Advantages__
+$$
 
-__Application areas__
-
-
-
-
-
-In this post, focus is how we implement surface plasmon resonance with ultrasensetive detection. Why is it better? How it's implemented? What could be better? will be the topic questions. With various plasmon-assisted optical components such as waveguides, color filtering, photon sorters, absorbers, switches etc.
-SPR based optical sensors is another important reserach field that has useful applications that we'll discuss in this blog.
-
-
-
-
-SPR is very sensitive and highly dependent in dielectric enviroment (according to this equation) the shift of resonance in optical spectrum can be used to qualify the change of surronding medium. HOW?????????????
-
-
-
-
-
-
-The idea of SPR for sensors works (I mean why SPR for sensors)
-
-
-
-
-
-__PHYSICS OF SURFACE PLASMON RESONANCE__
-
-Surface plasmons are coherent free electron excitations that exist at a metal-dielectric interface. Why is a metal dielectric interface essential for the SPR generation? Fundamentally, the sign of the permittivity much change across the interface. That is a condition for the SPR to exist. Metals have a negative permittivity so a metal-dielectric interface gives this condition. 
-
-
-
-
-
-
-
-
-
-
-
-
-__PLASMON-ENHANCED SENSING__
-
-The configuration for plasmon enchanced sensing needs to 
-
-
-
-__PLASMONIC SENSORS__
-
-we define plasmonic sensors as plasmons acting as the transducer of the sensing signal. (Where does plasmons act upon in sensors? Sensing? Transducer?)
-
-
-__PLASMON-ENHANCED SENSING__
-
-Plasmonics is used directly for signal transduction.
-
-
-Key ideas:
-
-__"Plasmons as signal transducers"__
-
-__"Detection of the small changes in wavelength position of localized surface plasmon resonances in metal nanostructures is used of biomarker detection"__
-
-__Nanoresonator that can be applied in sensing applications since coherent coupling of *BRIGHT AND DARK PLASMON MODES* in this system expected to produce *fano resonance (more correctly fano interference with high quality factors(?)*__
-
-__Idea of the sensitivity of SPR and highly dependency on the dielectric environment, the shift of resonance in optical spectrum can be used to quantify the change of surrounding medium: "DETECTION"__
-
-
-
-
-__INTERFERENCE LITHOGRAPHY FOR PLASMONIC NANOSTRUCTURE FABRICATION__
-
-This section to mention interference lithography may be important since the topic is under the light science.
-
-
-
-
-
-
-
-
-
-NOTES:
-
-
-colorimetric plasmonic sensors
-types of plasmon-enchanced optical sensors
-
+$$
