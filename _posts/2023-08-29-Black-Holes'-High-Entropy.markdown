@@ -114,11 +114,11 @@ __Rayleigh Range__: The Rayleigh range is a measure of the distance over which a
 
 
 $$
-R = \frac{\pi \omega^2}{\lambda}}
+R = \frac{\pi \omega^2}{\lambda}
 $$
 
 $$
-R = \frac{\lambda d}{\pi \theta})
+R = \frac{\lambda d}{\pi \theta}
 $$
 
 
