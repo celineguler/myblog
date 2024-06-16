@@ -3,6 +3,40 @@ layout: post
 title: "greed is good"
 ---
 
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <!-- Add other meta tags and links to stylesheets here -->
+  
+  <!-- MathJax Configuration -->
+  <script type="text/javascript">
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']]
+      },
+      svg: {
+        fontCache: 'global'
+      }
+    };
+  </script>
+  <!-- MathJax Script -->
+  <script type="text/javascript" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+</head>
+<body>
+  <!-- Page content -->
+  {{ content }}
+</body>
+</html>
+
+$$
+\int_{a}^{b} x^2 \, dx
+$$
+
 I believe capitalism is pleasent until you admit it or gone to far --- maybe like buying a [drug company][daraprim]. Still mostly agree with Shkreli, and this [article][article], where I gladly met my requests and not making feel bad about it. Sounds selfish, is selfish but also very devine.
 
 <br>
