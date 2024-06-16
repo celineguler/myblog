@@ -15,10 +15,6 @@ A laser beam is a highly focused and collimated beam of light that is produced b
 
 
 
-$$
-\int_{a}^{b} x^2 \, dx
-$$
-
 <br>
 
 __PRINCIPLES AND DEFINITIONS__ 
@@ -29,8 +25,13 @@ __PRINCIPLES AND DEFINITIONS__
 
 __Beam Diameter__: The beam diameter is the width of the laser beam at a particular point. Using photographic tecnique for a focused beam, using a CCD to capture the spot and fitting it with 2D Gaussian function will be enable to calculate beam diameter of the beam.
 
-	D = 2 * √(P / I π)
-	I₀ = 2 * P / (π * w₀ ²)
+$$
+D = 2 \cdot \sqrt{\frac{P}{I \pi}}
+$$
+
+$$
+I_0 = \frac{2P}{\pi w_0^2}
+$$
 
 __D__ is the beam diameter at at a given distance
 
