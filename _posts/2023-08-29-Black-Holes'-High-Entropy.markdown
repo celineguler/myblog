@@ -1,3 +1,8 @@
+  <!-- MathJax Script -->
+  <script type="text/javascript" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+
 ---
 layout: post
 title: "selinguler94/beam_analysis"
@@ -9,11 +14,8 @@ This paper covers the analysis of laser profiles since these studies of intensit
 
 A laser beam is a highly focused and collimated beam of light that is produced by a laser. Laser beam analysis is a set of techniques used to measure and analyze the properties of laser beams. This can include the *beam's intensity, power, shape, and spatial and temporal* characteristics. Laser beam analysis is important in a variety of applications, including manufacturing, scientific research, and military and defense. There are several methods for analysis of a laser beam profile such as __scanning aperture__, __scanning knife-edges__, __detector arrays__, __burn patterns__ and __photographic technique__ which studied in this paper.
 
-  <!-- MathJax Script -->
-  <script type="text/javascript" async
-    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-  </script>
-  
+
+
 $$
 \int_{a}^{b} x^2 \, dx
 $$
