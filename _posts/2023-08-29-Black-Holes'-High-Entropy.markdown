@@ -26,12 +26,13 @@ __PRINCIPLES AND DEFINITIONS__
 __Beam Diameter__: The beam diameter is the width of the laser beam at a particular point. Using photographic tecnique for a focused beam, using a CCD to capture the spot and fitting it with 2D Gaussian function will be enable to calculate beam diameter of the beam.
 
 $$
-D = 2 \cdot \sqrt{\frac{P}{I \pi}}
+D = 2\sqrt{\frac{P}{I \pi}}
 $$
 
 $$
 I_0 = \frac{2P}{\pi w_0^2}
 $$
+
 
 __D__ is the beam diameter at at a given distance
 
@@ -97,18 +98,29 @@ plt.show()
 
 __Beam Waist__: The beam waist is the point at which the beam has the smallest diameter. The beam waist can be measured using a beam profiler or by performing a series of measurements at different distances from the source to determine the point at which the beam reaches its minimum diameter.
 
-w = 2√(λ * z / π)
 
-D = 2 * √(P / I₀ π)
+$$
+\omega = 2\sqrt{\frac{\lambda z}{\pi}}
+$$
+
+$$
+D = 2\sqrt(\frac{P}{I_0\pi})
+$$
 
 where I₀ is the peak irradiance.
 
 
 __Rayleigh Range__: The Rayleigh range is a measure of the distance over which a laser beam diverges or spreads out. It is typically expressed in terms of the distance from the beam waist, and is given by the formula:
 
-R = (π * w^2) / λ
 
-R = (λ * d) / (π * θ) 
+$$
+R = \frac{\pi \omega^2}{\lambda}}
+$$
+
+$$
+R = \frac{\lambda d}{\pi \theta})
+$$
+
 
 <br>
 
@@ -123,7 +135,11 @@ The below graphs shows as the cross-section of laser spot increases the laser po
 
 Beam intensity can be calculated by the following expression:
 
-I = P / π * (d / 2)²
+
+$$
+I = \frac{P}{\pi(\frac{d}{2})^2}}
+$$
+
 
 where:
 
