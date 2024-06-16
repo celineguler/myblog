@@ -1,13 +1,12 @@
-  <!-- MathJax Script -->
-  <script type="text/javascript" async
-    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-  </script>
-
 ---
 layout: post
 title: "selinguler94/beam_analysis"
 ---
 
+  <!-- MathJax Script -->
+  <script type="text/javascript" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
 
 This paper covers the analysis of laser profiles since these studies of intensity distribution, laser power, number of modes and laser beam are quite important in many applications. I studied the paper and build up some Python code that can useful for the data management through out the analysis process. Let me break down concepts first but I need mention that I'll be quoting my poorly written report from a century ago. So the concept covering for this post is not bit of a clean-cut.
 
