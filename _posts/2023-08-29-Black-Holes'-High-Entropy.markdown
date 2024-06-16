@@ -137,7 +137,7 @@ Beam intensity can be calculated by the following expression:
 
 
 $$
-I = \frac{P}{\pi(\frac{d}{2})^2}}
+I = \frac{P}{\pi(\frac{d}{2})^2}
 $$
 
 
