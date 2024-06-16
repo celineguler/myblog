@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "selinguler94/beam_analysis"
 ---
 
