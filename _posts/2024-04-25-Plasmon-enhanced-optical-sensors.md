@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review of surface plasmon based plasmonic sensors
+title: Review of SPP sensors
 ---
 
   <!-- MathJax Script -->
