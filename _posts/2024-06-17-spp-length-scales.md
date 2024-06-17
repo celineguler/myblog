@@ -14,11 +14,11 @@ title: SPP Length Scales
 1. Surface plasmon polaritons wavelength
 
 $$
-k_{spp} = k_0\sqrt{\frac{\epsilon_m \epsilon_d}{\epsilon_m + \epsilon_d}}
+k_{spp} = k_0\sqrt{\frac{\epsilon'_m \epsilon_d}{\epsilon'_m + \epsilon_d}}
 $$
 
-using $$ k = \frac{2\pi}{\lambda_{spp}} $$
+using $$ k = 2\pi \ \lambda_{spp} $$
 
 $$
-\lambda_{spp} = \lambda_0 \sqrt{\frac{\epsilon_m + \epsilon_d}{\epsilon_m \epsilon_d}}
+\lambda_{spp} = \lambda_0 \sqrt{\frac{\epsilon'_m + \epsilon_d}{\epsilon'_m \epsilon_d}}
 $$
