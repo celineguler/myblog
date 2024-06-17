@@ -21,3 +21,4 @@ using $$ k = \frac{2\pi}{\lambda_{spp}} $$
 
 $$
 \lambda_{spp} = \sqrt{\frac{\epsilon_m + \epsilon_d}{\epsilon_m \epsilon_d}}
+$$
