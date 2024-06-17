@@ -26,5 +26,5 @@ $$
 	Surface plasmon polariton propagation length
 
 $$
-\mu_{spp} = \frac{1}{2} k_{spp}
+\mu_{spp} = \frac{1}{2} k_{spp}'
 $$
