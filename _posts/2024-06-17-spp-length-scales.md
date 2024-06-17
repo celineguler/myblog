@@ -17,7 +17,7 @@ $$
 k_{spp} = k_0\sqrt{\frac{\epsilon'_m \epsilon_d}{\epsilon'_m + \epsilon_d}}
 $$
 
-using $$ k = 2\pi \ \lambda_{spp} $$
+using $$ k_{spp} = 2\pi \ \lambda_{spp} $$
 
 $$
 \lambda_{spp} = \lambda_0 \sqrt{\frac{\epsilon'_m + \epsilon_d}{\epsilon'_m \epsilon_d}}
