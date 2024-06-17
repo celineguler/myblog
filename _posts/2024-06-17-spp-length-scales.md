@@ -40,3 +40,10 @@ Let's arrange:
 $$
 \epsilon_m \overline{\epsilon_m} = (1 - \frac{\omega_p^2}{\omega - i\Gamma \omega})(1 - \frac{\omega_p^2}{\omega + i\Gamma \omega})
 $$
+
+gives:
+
+$$
+\Re(\epsilon_m(\omega)) = 1 - \frac{\omega_p}{\omega^2 (1 + \Gamma^2)}
+\Im(\epsilon_m(\omega)) = - \frac{\omega_p^2 \Gamma}{\omega^2(1 + \Gamma^2)}
+$$
