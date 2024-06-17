@@ -22,3 +22,9 @@ using $$ k_{spp} = 2\pi $$ \ $$ \lambda_{spp} $$
 $$
 \lambda_{spp} = \lambda_0 \sqrt{\frac{\epsilon'_m + \epsilon_d}{\epsilon'_m \epsilon_d}}
 $$
+
+	Surface plasmon polariton propagation length
+
+$$
+\mu_{spp} = \frac{1}{2} k_{spp}
+$$
