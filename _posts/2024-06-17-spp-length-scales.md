@@ -28,3 +28,9 @@ $$
 $$
 \mu_{spp} = \frac{1}{2} k_{spp}'
 $$
+
+Obtaining the imaginary part of the $$k_{spp}$$
+
+$$
+\epsilon_m (\omega) = 1 - \frac{\omega_p^2}{\omega - i\(\Gamma\) \omega}
+$$
