@@ -16,8 +16,8 @@ This is an introduction to nanophotonics, where light-matter interactions in sub
 $$
 \nabla \cdot E = \frac{\rho}{\epsilon_0}
 \nabla \cdot B = 0
-\nabla \times E = -\frac{\del B}{\del t}
-\nabla \times B = \mu_0 j+ \frac{1}{c^2}\frac{\del E}{\del t}
+\nabla \times E = -\frac{\partial B}{\partial t}
+\nabla \times B = \mu_0 j+ \frac{1}{c^2}\frac{\partial E}{\partial t}
 $$
 
 
