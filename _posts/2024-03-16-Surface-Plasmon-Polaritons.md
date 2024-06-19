@@ -35,7 +35,7 @@ $$
 
 
 
-__SURFACE PLASMON POLARITONS__
+__EXCITATIONS of SURFACE PLASMON POLARITONS__
 
-SPPs are basically electromagnetic waves traveling along a metal-dielectric interface. 
+SPPs are electromagnetic modes propogating along a metal-dielectric interface.  
 
