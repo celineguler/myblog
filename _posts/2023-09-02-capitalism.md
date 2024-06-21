@@ -33,7 +33,7 @@ Here's a more competent blog on [e/acc][eacc], which can express more on effecti
 
 
 
-
+![eacc](/myblog/images/eacc.png)
 
 
 
