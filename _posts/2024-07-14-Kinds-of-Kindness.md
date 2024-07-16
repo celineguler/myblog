@@ -9,6 +9,4 @@ title: Kinds of Kindness
   </script>
 
 
-I'd like to start with R.M.F. is Flying since it was my favorite story.
-
-So, Daniel, the police officer and the former husband of Liz, having some persecutory delusions after the rescue of his wife. We name it with ease with sense of eating chocolate after a long-term starvation, not having their shoes fit (Edema, occurs due to excessive salt intake, pregnancy, injections etc.), sexual drive.
+"The Death of R.M.F." *Kindness of forgiveness.* 
