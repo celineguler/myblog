@@ -9,4 +9,4 @@ title: Kinds of Kindness
   </script>
 
 
-"The Death of R.M.F." *Kindness of forgiveness.* 
+__"The Death of R.M.F."__
