@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Geometric Fifth Force
+title: Graph theory and band structure
 ---
 
