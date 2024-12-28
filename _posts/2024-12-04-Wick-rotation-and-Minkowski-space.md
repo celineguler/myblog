@@ -10,4 +10,4 @@ title: "Wick rotation and Minkowski space"
 
 
 
-\( e^{-iE / \hbar \cdot t} \) => \( e^{-E / k_B T} \)
+$e^{-iE / \hbar \cdot t}$ and $e^{-E / k_B T}$
