@@ -46,7 +46,7 @@ In classical field theory, __scalar field__: *ϕ*(*__r__*, *t*) and __vector fie
 Quantizing these fields starts with __Canonical formalism__. For a scalar field *ϕ*(*__r__*, *t*), the conjugate momentum is:
 
 $$
-\large \pi (r, t) = {\del L} / {\del (\del_t \phi}
+\large \pi (r, t) = {\nabla L} / {\nabla (\del_t \phi}
 $$
 
 
