@@ -41,9 +41,9 @@ So the question arises: *How to quantize a classical field?*
 
 #### __QUANTIZING CLASSICAL FIELDS__
 
-In classical field theory, __Scalar field__: *ϕ*(*__r__*, *t*) and __Vector field__: *__A__*(*__r__*, *t*) are functions of space and time and motions are described by Euler-Lagrange equations.
+In classical field theory, __scalar field__: *ϕ*(*__r__*, *t*) and __vector field__: *__A__*(*__r__*, *t*) are functions of space and time and motions are described by Euler-Lagrange equations.
 
-Quantizing these fields includes with __Canonical formalism__. For a scalar field *ϕ*(*__r__*, *t*), the conjugate momentum is:
+Quantizing these fields starts with __Canonical formalism__. For a scalar field *ϕ*(*__r__*, *t*), the conjugate momentum is:
 
 $$
 \large \pi (r, t) = {\del L} / {\del (\del_t \phi}
