@@ -15,6 +15,8 @@ I believe capitalism is pleasent until you admit it or gone to far --- maybe lik
 
 ![pill](/myblog/images/pillguy.png)
 
+Shkreli actually claims that he's an *altruistic*, while people generally agree that he's a *douche*. So what are these claims refer to? That not being an altruistic or generally not being a genorious person makes you a douche? So that's what shkreli try to point out, genoriousity shouldn't beat logic. Even for some oppositers who defines Shkreli as endairing now. Which is also false ain't? And that slander comes from just him talking about music and entitlement.
+
 Martin Shkreli has faced jail cause of raising the price of a life-saving drug, for his alleged greed for profit. I believe this is a daring enterprise for redefining a new type of service. Not many can deny that it encourages people to discover new ways and expand their understandings on how they should use and support their portfolio. It improves beneficial capitalist frames --- not the ones like "world peace is not profitable" or "government is good until is bad" but more free, more subjective and more creative frames like "smart people should win, even if they are selfish pricks."
 
 I believe this cases are aligns or spotlights the problem of information overload of today or it's just me aligning every single situtation with this information overload problem and try to spotlight it on my own. In either cases, Shkreli's jail time was a mistake over the calculation incompetence of today's society in cases like this, about __greed__ or what ever you say. Shkreli brought up a new way of understanding the importance of accelerationism (*accelerationism is not a suggestion, it is the solution to information overload that causing humanity to resign its time*) and now his out of jail supporting [e/acc][eacc] and putting his weight on a post-modernist approach, which I think he's not doing it with the awareness of information overload relation with his special case but still a hero to be remembered.
@@ -32,8 +34,6 @@ AI is genuinely a problem-solving based technology where it promises great tools
 Here's a more competent blog on [e/acc][eacc], which can express more on effective accelerationism.
 
 
-
-![eacc](Users/selin/myblog/images/eacc.png)
 
 
 
