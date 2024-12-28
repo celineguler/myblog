@@ -15,7 +15,6 @@ I believe capitalism is pleasent until you admit it or gone to far --- maybe lik
 
 ![pill](/myblog/images/pillguy.png)
 
-Shkreli actually claims that he's an *altruistic*, while people generally agree that he's a *douche*. So what are these claims refer to? That not being an altruistic or generally not being a genorious person makes you a douche? So that's what shkreli try to point out, genoriousity shouldn't beat logic. Even for some oppositers who defines Shkreli as endairing now. Which is also false ain't? And that slander comes from just him talking about music and entitlement.
 
 Martin Shkreli has faced jail cause of raising the price of a life-saving drug, for his alleged greed for profit. I believe this is a daring enterprise for redefining a new type of service. Not many can deny that it encourages people to discover new ways and expand their understandings on how they should use and support their portfolio. It improves beneficial capitalist frames --- not the ones like "world peace is not profitable" or "government is good until is bad" but more free, more subjective and more creative frames like "smart people should win, even if they are selfish pricks."
 
@@ -25,7 +24,7 @@ I used the term "information overload" but I'm not simply referring to [this][th
 
 <br>
 
-To clarify my offerings, we are genuiely incapable of doing things and this incompetence is gonna ruin the smoothness of the exponential of our growth in value as humans. Ruining this exponential is a genuine threat against technological singularity, not trying to be dramatic or anything but this could be remembered as a crime in future law, or just the stupidest time period of humans.
+We are genuiely incapable of doing things and this incompetence is gonna ruin the smoothness of the exponential of our growth in value as humans. Ruining this exponential is a genuine threat against technological singularity, not trying to be dramatic or anything but this could be remembered as a crime in future law, or just the stupidest time period of humans.
 
 AI is genuinely a problem-solving based technology where it promises great tools and capasities, where we seem to have a delay of realization. This is a bit of an approachable and motivational statement, I also need time to understand how delightfully we neglect the regulations and build the future of AI. Shkreli, suprisingly and not very suprisingly helps me forming my understanding of this concept that I may not be appreciating enough.
 
@@ -34,6 +33,8 @@ AI is genuinely a problem-solving based technology where it promises great tools
 Here's a more competent blog on [e/acc][eacc], which can express more on effective accelerationism.
 
 
+
+![eacc](Users/selin/myblog/images/eacc.png)
 
 
 
