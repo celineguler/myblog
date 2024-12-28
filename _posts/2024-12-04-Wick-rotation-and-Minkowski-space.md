@@ -11,10 +11,6 @@ title: "Wick rotation and Minkowski space"
 
 
 $$
-e^{-iE / \hbar \cdot t}
-$$
-
-$$
-e^{-E / k_B T}
+e^{-iE / \hbar t} => e^{-E / k_B T}
 $$
 
