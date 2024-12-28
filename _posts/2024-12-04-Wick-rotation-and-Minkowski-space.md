@@ -11,7 +11,7 @@ title: "Wick rotation and Minkowski space"
 
 
 $$
-\ displaystyle e^{-iE / \hbar t} => e^{-E / k_B T}
+\Large e^{-iE / \hbar t} => e^{-E / k_B T}
 $$
 
 Wick rotation consideres t in quantum mechanics as an imaginary time, so
