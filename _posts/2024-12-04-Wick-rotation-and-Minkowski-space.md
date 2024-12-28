@@ -20,3 +20,8 @@ $$
 t = -iτ
 $$
 
+Here, we no longer have an oscillatory behavior but an exponentially decaying factor τ . And this is the connection to statistical mechanics by,
+
+$$
+\large e^{-E / \hbar τ} => e^{-E / k_B T}
+$$
