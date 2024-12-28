@@ -35,9 +35,8 @@ When a classical field is quantized (e.g., in quantum field theory), the infinit
 
 So the question arises: *How to quantize a classical field?*
 
-$$
-\Large QUANTIZING CLASSICAL FIELDS 
-$$
+### QUANTIZING CLASSICAL FIELDS
+## QUANTIZING CLASSICAL FIELDS
 
 
 
