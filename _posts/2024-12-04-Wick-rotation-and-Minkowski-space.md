@@ -20,7 +20,7 @@ $$
 Wick rotation consideres t in quantum mechanics as an imaginary time, so
 
 $$
-t = -iτ
+\large t = -iτ
 $$
 
 Here, we no longer have an oscillatory behavior but an exponentially decaying factor τ . And this is the connection to statistical mechanics by,
