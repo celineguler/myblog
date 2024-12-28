@@ -37,7 +37,7 @@ So the question arises: *How to quantize a classical field?*
 
 <br>
 
-#### QUANTIZING CLASSICAL FIELDS
+#### __QUANTIZING CLASSICAL FIELDS__
 
 
 
