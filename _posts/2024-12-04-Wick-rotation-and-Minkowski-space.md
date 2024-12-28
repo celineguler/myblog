@@ -11,7 +11,7 @@ title: "Wick rotation and Minkowski space"
 
 A general form of the Wick's rotation is the "Weyl's unitary trick" or [Unitarian trick][uni] which is related with groups like literally everything else in physics.
 
-In quantum field theory, Wick rotation refers to a transformation from real time to imaginary time. This is done by replacing __t → iτ__, where __τ__ is the new imaginary time. The goal of this transformation is often to simplify the mathematical treatment of quantum systems by turning oscillatory integrals (involving $$ e^{-iEt / ℏ} $$) into exponentially decaying functions (like $$ e^{-Eτ / ℏ} $$), which are easier to handle. So transformation looks like this:
+In quantum field theory, Wick rotation refers to a transformation from real time to imaginary time. This is done by replacing __t → iτ__, where __τ__ is the new imaginary time. The goal of this transformation is often to simplify the mathematical treatment of quantum systems by turning oscillatory integrals (involving $$ e^{-iEt / ℏ} $$) into exponentially decaying functions (like $$ e^{-Eτ / ℏ} $$), which are easier to handle apperantly. So transformation looks like this:
 
 $$
 \large e^{-iEt / \hbar} => e^{-E / k_B T}
@@ -26,9 +26,11 @@ $$
 Here, we no longer have an oscillatory behavior but an exponentially decaying factor __τ__ . And this is the connection to statistical mechanics by,
 
 $$
-\large e^{-E / \hbar τ} => e^{-E / k_B T}
+\large e^{-Eτ / \hbar} => e^{-E / k_B T}
 $$
 
+Without diving into complex branches of mathematics, lie groups or representation of groups, we can introduct QFT.
+A field in physics, defined as a physical quantity with components of scalars, vectors and tensors that has a value for each point in space and time. A classical field is a function of all space and time coordinates, like E(r,t), B(r,t). They have infinite amount of degrees of freedom.
 
 
 
