@@ -19,6 +19,6 @@ wave, ultrasonic, x-ray, and thermochemical data at high temperatures and pressu
 
 keep up:
 
-[1][Julia Community]
+[Julia Community][1]
 
 [1]:https://discourse.julialang.org/
