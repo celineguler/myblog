@@ -1,6 +1,6 @@
 ---
 layout: page
-title: meineDatenbank
+title: mDatenbank
 permalink: /about/
 ---
 
