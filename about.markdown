@@ -17,8 +17,13 @@ EoS:
 [Ruby, metals, and MgO as alternative pressure scales: A semiempirical description of shock
 wave, ultrasonic, x-ray, and thermochemical data at high temperatures and pressures](/myblog/pdfs/2007.pdf)
 
+M3gnet:
+
+[a universal potential][2]
+
 keep up:
 
 [Julia Community][1]
 
+[2]: https://arxiv.org/pdf/2202.02450
 [1]:https://discourse.julialang.org/
