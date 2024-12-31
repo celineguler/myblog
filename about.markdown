@@ -25,5 +25,7 @@ keep up:
 
 [Julia Community][1]
 
-[2]: https://arxiv.org/pdf/2202.02450
 [1]:https://discourse.julialang.org/
+[2]: https://arxiv.org/pdf/2202.02450
+[3]: https://ia801500.us.archive.org/33/items/DifferentialEquations3rdEditionShepleyL.Ross/Differential%20equations%203rd%20edition%20Shepley%20L.Ross.pdf
+
