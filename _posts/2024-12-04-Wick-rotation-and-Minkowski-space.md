@@ -33,10 +33,7 @@ $$
 
 In order to understand Wick rotation better, we can introduct a little bit of quantum field theory without resorting to complex branches of mathematics, especially groups. A field in physics defined as a physical quantity with components of scalars, vectors and tensors that has a value for each point in space and time. A classical field is a function of all space and time coordinates, like __E__(*__r__*, *t*), __B__(*__r__*, *t*). They have infinite amount of degrees of freedom since they are *continuous*. A field has to specify a value for each of these points, leading to infinitely many independent variables to describe its state. These independent variables correspond to the degrees of freedom.
 
-Quantum field theory arised because quantum mechanics failed to explain,
-
-1-) Relativity
-2-)Creation and annihilation of particles
+Quantum Field Theory arised because quantum mechanics failed to explain: __Relativity__ and __creation and annihilation of particles__.
 
 To describe particles appearing, disappearing, or interacting, we need something that can exist everywhere in space and time—__a field__. To understand the further ideas of QFT, like particles as excitations of fields and relativistic spacetime symmetries, let's understand these field manner in QFT.
 
