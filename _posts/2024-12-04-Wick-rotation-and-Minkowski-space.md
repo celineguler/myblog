@@ -33,6 +33,13 @@ $$
 
 In order to understand Wick rotation better, we can introduct a little bit of quantum field theory without resorting to complex branches of mathematics, especially groups. A field in physics defined as a physical quantity with components of scalars, vectors and tensors that has a value for each point in space and time. A classical field is a function of all space and time coordinates, like __E__(*__r__*, *t*), __B__(*__r__*, *t*). They have infinite amount of degrees of freedom since they are *continuous*. A field has to specify a value for each of these points, leading to infinitely many independent variables to describe its state. These independent variables correspond to the degrees of freedom.
 
+Quantum field theory arised because quantum mechanics failed to explain,
+
+1-) Relativity
+2-)Creation and annihilation of particles
+
+To describe particles appearing, disappearing, or interacting, we need something that can exist everywhere in space and time—__a field__. To understand the further ideas of QFT, like particles as excitations of fields and relativistic spacetime symmetries, let's understand these field manner in QFT.
+
 When a classical field is quantized (e.g., in quantum field theory), the infinite degrees of freedom translate into an infinite number of quantum states or modes, often corresponding to particles or quanta of the field. So there it is, *__quantizing classical fields__* is the central idea of *__quantum field theory__*.
 
 So the question arises: *How to quantize a classical field?*
