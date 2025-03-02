@@ -107,7 +107,7 @@ a:hover {
  */
 blockquote {
   color: #828282;
-  border-left: 4px solid #e8e8e8;
+  border-left: 4px solid #0086B3;
   padding-left: 15px;
   font-size: 18px;
   letter-spacing: -1px;
@@ -123,7 +123,7 @@ blockquote > :last-child {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #e8e8e8;
+  border: 1px solid #009926;
   border-radius: 3px;
   background-color: #eef;
 }
@@ -196,7 +196,7 @@ table {
   text-align: left;
   color: #3f3f3f;
   border-collapse: collapse;
-  border: 1px solid #e8e8e8;
+  border: 1px solid #009926;
 }
 table tr:nth-child(even) {
   background-color: #f7f7f7;
@@ -205,7 +205,7 @@ table th, table td {
   padding: 10px 15px;
 }
 table th {
-  background-color: #f0f0f0;
+  background-color: #009926;
   border: 1px solid #dedede;
   border-bottom-color: #c9c9c9;
 }
