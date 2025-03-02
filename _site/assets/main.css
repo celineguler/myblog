@@ -422,7 +422,7 @@ table td {
 .post-content h2 {
   font-size: 32px;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 80px) {
   .post-content h2 {
     font-size: 28px;
   }
