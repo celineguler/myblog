@@ -9,14 +9,13 @@ title: "greed is good"
   </script>
 
 
-I believe capitalism is pleasent until you admit it or gone to far --- maybe like buying a [drug company][daraprim]. Still mostly agree with Shkreli, and this [article][article], where I gladly met my requests and not making feel bad about it. Sounds selfish, is selfish but also very devine.
-
+I believe capitalism is pleasent until you admit it or gone to far --- maybe like buying a [drug company][daraprim]. I still mostly stand with Shkreli, and this [article][article], where I gladly met my requests and not making feel bad about it.
 <br>
 
 ![pill](/myblog/images/pillguy.png)
 
 
-Martin Shkreli has faced jail cause of raising the price of a life-saving drug, for his alleged greed for profit. I believe this is a daring enterprise for redefining a new type of service. Not many can deny that it encourages people to discover new ways and expand their understandings on how they should use and support their portfolio. It improves beneficial capitalist frames --- not the ones like "world peace is not profitable" or "government is good until is bad" but more free, more subjective and more creative frames like "smart people should win, even if they are selfish pricks."
+Martin Shkreli has faced jail cause of raising the price of a life-saving drug, for his alleged greed for profit. I believe this is a daring enterprise for redefining a new type of service. Not many can deny that it encourages people to discover new ways and expand their understandings on how world works. It improves beneficial capitalist frames --- not the ones like "world peace is not profitable" or "government is good until is bad" but more free, more subjective and more creative frames like "smart people should win, even if they are selfish pricks."
 
 I believe this cases aligns or spotlights the problem of information overload of today or it's just me aligning every single situtation with this information overload problem and try to spotlight it on my own. In either cases, Shkreli's jail time was a mistake over the calculation incompetence of today's society in cases like this, about __greed__ or what ever you say. Shkreli brought up a new way of understanding the importance of accelerationism (*accelerationism is not a suggestion, it is the solution to information overload that causing humanity to resign its time*) and now his out of jail supporting [e/acc][eacc] and putting his weight on a post-modernist approach, which I think he's not doing it with the awareness of information overload relation with his special case but still a hero to be remembered.
 
