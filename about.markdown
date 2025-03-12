@@ -35,6 +35,12 @@ keep up:
 differential equations: [Shepley][3]
 
 
+COFs:
+
+
+[Covalent Organic Framework Graphene Hybrids  Synthesis  Properties  and Applications](/myblog/pdfs/Covalent Organic Framework Graphene Hybrids  Synthesis  Properties  and Applications.pdf)
+
+[2020 Sun et al Covalent Organic Framework (COF-1) under High Pressure (Compressibility)](/myblog/pdfs/2020 Sun et al Covalent Organic Framework (COF-1) under High Pressure (Compressibility).pdf)
 
 
 
@@ -52,7 +58,9 @@ differential equations: [Shepley][3]
 
 
 
-[1]:https://discourse.julialang.org/
+
+
+[1]: https://discourse.julialang.org/
 [2]: https://arxiv.org/pdf/2202.02450
 [3]: https://ia801500.us.archive.org/33/items/DifferentialEquations3rdEditionShepleyL.Ross/Differential%20equations%203rd%20edition%20Shepley%20L.Ross.pdf
 [4]: https://www.physics.rutgers.edu/~eandrei/chengdu/reading/tight-binding.pdf
