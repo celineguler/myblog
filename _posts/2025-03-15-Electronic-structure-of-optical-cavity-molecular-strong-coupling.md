@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DOS of optical cavity molecular strong coupling"
+title: "Electronic structure of optical cavity molecular strong coupling"
 ---
 
   <!-- MathJax Script -->
