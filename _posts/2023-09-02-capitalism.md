@@ -27,8 +27,6 @@ We are genuiely incapable of doing things and this incompetence is gonna ruin th
 
 AI is genuinely a problem-solving based technology where it promises great tools and capasities, where we seem to have a delay of realization. This is a bit of an approachable and motivational statement, I also need time to understand how delightfully we neglect the regulations and build the future of AI. Shkreli, suprisingly helped me forming my understanding of this concept that I may not be appreciating enough.
 
-<br>
-
 Here's a more competent blog on [e/acc][eacc], which can express more on effective accelerationism.
 
 
