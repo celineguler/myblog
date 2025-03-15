@@ -43,7 +43,7 @@ COFs:
 [2020 Sun et al Covalent Organic Framework (COF-1) under High Pressure (Compressibility)](/myblog/pdfs/2020 Sun et al Covalent Organic Framework (COF-1) under High Pressure (Compressibility).pdf){COF-1 EoS}
 
 
-[Structural stability and elastic properties of prototypical covalent organic frameworks]{Taner Yildirim}[6]
+[Structural stability and elastic properties of prototypical covalent organic frameworks][6]{Taner Yildirim}
 
 
 
