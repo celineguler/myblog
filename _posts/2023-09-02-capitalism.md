@@ -14,6 +14,7 @@ I believe capitalism is pleasent until you admit it or gone to far --- maybe lik
 
 ![pill](/myblog/images/pillguy.png)
 
+<br>
 
 Martin Shkreli has faced jail cause of raising the price of a life-saving drug, for his alleged greed for profit. I believe this is a daring enterprise for redefining a new type of service. Not many can deny that it encourages people to discover new ways and expand their understandings on how money works. It improves beneficial capitalist frames --- not the ones like "world peace is not profitable" or "government is good until is bad" but more free, more subjective and more creative frames like "smart people should win, even if they are selfish pricks."
 
