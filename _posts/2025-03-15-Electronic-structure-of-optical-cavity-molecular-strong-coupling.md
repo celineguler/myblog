@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " "
+title: "Elec. Struct. for QED Cavity molecules"
 ---
 
   <!-- MathJax Script -->
