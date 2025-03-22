@@ -16,7 +16,7 @@ title: "Elec. Struct. for QED Cavity Mols."
 
 
 
-I wonder what happens if we put COF-1 inside an optical cavity and try to construct the Elec. Struct.
+I think it would be interesting if we put COF-1 inside an optical cavity and try to construct the Elec. Struct.
 
 
 
