@@ -12,6 +12,81 @@ title: "Elec. Struct. for QED Cavity Mols."
 {% highlight ruby%}
 
 
+
+import numpy as np
+from pathlib import Path 
+import sys
+import re
+import matplotlib.pyplot as plt
+
+# Reading the experimental data from script
+def is_valid(line):
+    return bool(re.match(r'^[\d,\s]+$', line.strip()))
+
+def read_file(file_path):
+
+    path = Path(file_path)
+
+    if not path.exists():
+        print(f"Error: File '{file_path}' does not exist.")
+        sys.exit(1)
+
+    with path.open("r", encoding="utf-8", errors="ignore") as file:
+        content = [line.strip().replace(',', '.') for line in file.readlines() if is_valid(line)]
+
+    return content
+
+# data_split splits unnecessary characters from script to access numerical data
+def data_split(content):
+    data = []
+    for line in content:
+        values = line.split('\t')
+        data.append([float(values[0]), float(values[1]), float(values[2])])
+    return data
+
+
+def main():
+    
+    # sys.argv[1] takes w/absorber and sys.argv[2] takes wo/absorber data.
+    data = sys.argv[1]
+    absorber = read_file(data)
+    data1 = data_split(absorber)
+    print("Data1:", data1)
+    return data1
+       
+if __name__ == "__main__":
+    main()
+
+
+# plot the data.
+
+data = main()
+x_values = [row[0] for row in data]
+y_values = [row[1] for row in data]
+
+plt.figure(figsize=(8, 5))
+plt.plot(x_values, y_values, linestyle='--', label="Franck-Hertz Experiment")
+plt.xlabel("U")
+plt.ylabel("I")
+plt.title("I-U Curve of Franck-Hertz Experiment")
+plt.grid(True)
+plt.legend()
+plt.savefig("plot.png")
+
+
+plt.figure(figsize=(8, 5))
+plt.plot(x_values, y_values, linestyle='--', label="Franck-Hertz Experiment")
+plt.xlabel("U")
+plt.ylabel("I")
+plt.title("I-U Curve of Franck-Hertz Experiment")
+plt.grid(True)
+plt.legend()
+plt.xlim(20, 46)
+plt.savefig("plot_2.png")
+
+
+
+
 {% endhighlight %}
 
 
