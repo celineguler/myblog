@@ -32,7 +32,8 @@ def read_file(file_path):
         sys.exit(1)
 
     with path.open("r", encoding="utf-8", errors="ignore") as file:
-        content = [line.strip().replace(',', '.') for line in file.readlines() if is_valid(line)]
+        content = [line.strip().replace(',', '.') for
+        line in file.readlines() if is_valid(line)]
 
     return content
 
