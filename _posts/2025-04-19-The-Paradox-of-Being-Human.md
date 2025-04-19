@@ -11,7 +11,8 @@ title: "The Paradox of Being Human"
  
 Humans are a contradiction. But today, more than ever.
 
-Humans today has the lowest level of rational capacity and emotional responses. One of the things I was confused about was the capasity of producing art being proportional with the technological evolution, which I would imagine the opposite. 
+
+Humans today has the lowest level of rational capacity and emotional responses. One of aspect I was confused about was the capasity of producing art being proportional with the technological evolution. 
 
 
 
