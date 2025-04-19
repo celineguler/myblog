@@ -14,3 +14,25 @@ https://en.wikipedia.org/wiki/Peierls_substitution
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
