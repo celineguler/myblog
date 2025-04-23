@@ -20,7 +20,7 @@ What happens when human agree that its organic form is a constraint? Human does 
 
 
 $$
-\large information seeking <=> better decision making
+\large \text{information seeking <=> better decision-making}
 $$
 
 
@@ -28,7 +28,7 @@ $$
 
 
 
-### Should AI implement survival urges?
+##### __Should AI implement survival urges?__
 
 
 
