@@ -23,7 +23,7 @@ $$
 \text{information seeking <=> better decision-making}
 $$
 
-</br>
+<br>
 
 
 
