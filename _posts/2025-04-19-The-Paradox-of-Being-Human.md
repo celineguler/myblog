@@ -33,9 +33,11 @@ $$
 #### __Should AI implement survival urges?__
 
 
-How could even that work out? A machine does something because it is programmed to do so. We do things because we lean to survive. Would any other way would work out, if humans weren’t programmed with survival instincts? For sustainability? The answer is no. Our motivation to do things is to survive. Human brain can function optimily under relevant circumstances when a danger occurs. It can combine multiple aspects and foresee the outcome, _in order to survive_. But of course, in the length of what an organic organism can manage. Now, how about machines? Survival is a good driver for biological organisms but how about machines? We have a great potential to function silicon where it's only constraint is the physics. Consider an AI that is not pratically yet have been build with silicon, programmed to _survive_. A not yet even a silicon AI is not threatened by death, unlike the organic organisms. An AI with survival instincts will be keen to survive forever. Will it be possible to survive in this universe, forever? It doesn't think so. What would happen? Within that infinitely large computational capasity, what will it combine as a tool to survive? 
+How could even that work out? A machine does something because it is programmed to do so. We do things because we lean to survive. Would any other way would work out, if humans weren’t programmed with survival instincts? For sustainability?
 
+The answer is no. Our motivation to do things is to survive. Human brain can function optimally under relevant circumstances when danger occurs. It can combine multiple aspects and foresee the outcome, _in order to survive_. But of course, in the length of what an organic organism can manage. Now, how about machines? Survival is a good driver for biological organisms but how about machines?
 
+We have a great potential to function silicon where it's only constraint is the physics. That's called AI.
 
 
 
