@@ -28,7 +28,7 @@ $$
 
 
 
-##### __Should AI implement survival urges?__
+#### __Should AI implement survival urges?__
 
 
 
