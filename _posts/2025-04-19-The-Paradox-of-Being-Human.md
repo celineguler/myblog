@@ -20,7 +20,7 @@ What happens when human agree that its organic form is a constraint? Human does 
 
 
 $$
-\large \text{information seeking <=> better decision-making}
+\text{information seeking <=> better decision-making}
 $$
 
 
