@@ -22,6 +22,8 @@ I believe this cases aligns or spotlights the problem of information overload of
 
 I used the term "information overload" but I'm not simply referring to [this][this] definition but that we're not generating *enough* insights proportional with information. This just associates with the retardation of our poor information processing capacity as humans. Through out all the regulations, nobody seems to pay attention on the consequences by not taking an action on AI and how the hell are we gonna handle such information production in exponentials.
 
+j
+
 <br>
 
 We are genuiely incapable of doing things and this incompetence is gonna ruin the smoothness of the exponential of our growth in value as humans. Ruining this exponential is a genuine threat against technological singularity, not trying to be dramatic but this could be remembered as a crime in future law, or just the stupidest time period of humans.
