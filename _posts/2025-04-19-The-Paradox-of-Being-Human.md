@@ -9,6 +9,41 @@ title: "The Paradox of Being Human"
   </script>
 
  
+
+
+
+
+Martin Shkreli has faced jail because of raising the price of a lifesaving drug Daraprim from $13.50 to $750 overnight in 2015. Which I believe is a daring enterprise for redefining a new type of service. Why I call it a service? Because many people call this Shkreli case a "Rent seeking". I didn't know what rent seeking was.
+What is rent seeking?
+
+Imagine there's a company that could make money by selling a product.
+
+But instead of improving their product or working harder, they go to the government and say:
+
+“Make a law that only we can sell this product — no one else!”
+
+If the government agrees, the company now makes more money just because of the rule — not because they’re better.
+
+That extra money they make is called "economic rent", and the effort to get the rule passed is called rent-seeking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 Humans are a contradiction. We have this incredible ability to reason, create, and understand the universe in ways no other species can. And yet, we still are just bunch of farms of neurotransmitters. But today, we gained more awareness of that unlike the earlier times: the conscious awareness of being a machine — a self trapped in a biochemical system that still feels (or collectively transports neurotransmitters) everything. I think the next step for humans today is that we agree that our biology is not sufficiently functional and we need to improve that.
 
 
