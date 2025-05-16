@@ -15,7 +15,6 @@ title: "The Paradox of Being Human"
 
 Martin Shkreli has faced jail because of raising the price of a lifesaving drug Daraprim from $13.50 to $750 overnight in 2015. Many people people call this Shkreli case a "Rent seeking". Which I believe is just a daring enterprise for redefining a new type of service. What is rent seeking?
 
-<br>
 
 Imagine there's a company that could make money by selling a product.
 
