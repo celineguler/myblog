@@ -23,23 +23,21 @@ But instead of improving their product or working harder, they go to the governm
 
 If the government agrees, the company now makes more money just because of the rule — not because they get any better.
 
-This is called Rent-seeking.
+<br>
+
+This has been an intriguing concept for me lately. Rent-seeking allows people to extract from economy without *contributing* to it. This is a legal but an unethical and harmful action. A primitive example of this is explained by farm economies.
+
+Consider a farm has cash and subsistence crops as two production elements. Cash crops are for profit and subsistence crops are for farmer's own consumption. Rent-seeking here is the theft on the cash crops. It causes cash crop producers to stop *producing*, economy suffers — as Robert H. Bates claims  happened in many African countries.
 
 <br>
 
-This has become an intriguing concept for me lately. Rent-seeking allows people to extract from economy without *contributing* to it. And apperantly this can be done legally. A primitive example of this is explained by farm economies.
+Shkreli case is also a sightful version of rent-seeking. Besides that he claimed profit went to R&D and he actually went to jail for fraud charges as he lied to his investors, rent-seeking can be in many forms like this very much case.
 
-Consider two production elements: Cash and subsistence crops.
+Many articles estimates rent-seeking activities reduced total income in terms of GNP for many countries. 
 
-Cash crops are for profit and subsistence crops are for farmer's own consumption. Rent-seeking here is the theft on the cash crops. It causes cash crop producers to stop *producing*, economy suffers — as Robert H. Bates claims  happened in many African countries.
+Consider a municipal official awards a tender to not best or cheapest bidder, but to a company they own or control. Examples in my country considered as "*no proper bidding process*" therefore illegal. But considerably, it's just unethical rent-seeking.
 
-<br>
-
-Shkreli case is also a colorful version of rent-seeking. Not considering the real case, where he claimed many went to R&D and he actually went to jail for fraud charges as he lied to his investors about the earnings, rent-seeking can be in many forms like this very much case.
-
-As of today, is rent-seeking a risk for our economies? When "big" people do it, yes.
-
-Consider a municipal official awards a tender to not best or cheapest bidder, but to a company they own or control. Examples in my country considered as "no proper bidding process", therefore illegal. But it's just unethical rent-seeking.
+Economists Laband and John Sophocleus estimated that rent-seeking activities reduced total income in the U.S. by up to 45%
 
 
 
