@@ -13,7 +13,7 @@ title: "The Paradox of Being Human"
 
 
 
-Martin Shkreli has faced jail because of raising the price of a lifesaving drug Daraprim from $13.50 to $750 per pill — over 5,000% overnight in 2015. I heard this Shkreli case called a "Rent seeking". Which I believe is just a daring enterprise for redefining a new type of service. 
+Martin Shkreli has faced jail because of raising the price of a lifesaving drug Daraprim from $13.50 to $750 per pill — over 5,000% overnight in 2015. I heard this Shkreli case is called a "Rent seeking". Which I believe is just a daring enterprise for redefining a new type of service. 
 
 Imagine there's a company that could make money by selling a product.
 
@@ -23,11 +23,13 @@ But instead of improving their product or working harder, they go to the governm
 
 If the government agrees, the company now makes more money just because of the rule — not because they’re better.
 
-This is called rent-seeking.
+Is called rent-seeking.
 
+<br>
 
+This has become an intriguing concept for me lately. Rent-seeking allows people to extract from economy without contributing to it. This can be done legally. Most primitive example of this is explained by farm economies.
 
-
+Consider two production elements: Cash and subsistence crops. Cash crops are for profit and subsistence crops are for farmer's own consumption. Rent-seeking is the theft on the cash crops. As cash crops got stolen it influences cash crop producers to stop producing cash crops. Economy suffers. Like in most African countries. 
 
 
 
