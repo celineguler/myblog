@@ -23,7 +23,7 @@ But instead of improving their product or working harder, they go to the governm
 
 If the government agrees, the company now makes more money just because of the rule — not because they get any better.
 
-Is called Rent-seeking.
+This is called Rent-seeking.
 
 <br>
 
