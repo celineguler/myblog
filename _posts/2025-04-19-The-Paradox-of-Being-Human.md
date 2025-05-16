@@ -14,6 +14,7 @@ title: "The Paradox of Being Human"
 
 
 Martin Shkreli has faced jail because of raising the price of a lifesaving drug Daraprim from $13.50 to $750 per pill — over 5,000% overnight in 2015. I heard this Shkreli case is called a "Rent seeking".
+
 Imagine there's a company that could make money by selling a product.
 
 But instead of improving their product or working harder, they go to the government and say:
