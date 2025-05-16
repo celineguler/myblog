@@ -13,8 +13,7 @@ title: "The Paradox of Being Human"
 
 
 
-Martin Shkreli has faced jail because of raising the price of a lifesaving drug Daraprim from $13.50 to $750 per pill — over 5,000% overnight in 2015. I heard this Shkreli case is called a "Rent seeking". Which is a harmful behavior but not illegal.
-
+Martin Shkreli has faced jail because of raising the price of a lifesaving drug Daraprim from $13.50 to $750 per pill — over 5,000% overnight in 2015. I heard this Shkreli case is called a "Rent seeking".
 Imagine there's a company that could make money by selling a product.
 
 But instead of improving their product or working harder, they go to the government and say:
@@ -33,12 +32,10 @@ Consider a farm has cash and subsistence crops as two production elements. Cash 
 
 Shkreli case is also a sightful version of rent-seeking. Besides that he claimed profit went to R&D and he actually went to jail for fraud charges as he lied to his investors, rent-seeking can be in many forms like this very much case.
 
-Many articles estimates rent-seeking activities reduced total income in terms of GNP for many countries. 
+I understand rent-seeking can be bigger issue than we assume for economies today. Many articles estimates rent-seeking activities reduced total income in terms of GNP for many countries.
 
-Consider a municipal official awards a tender to not best or cheapest bidder, but to a company they own or control. Examples in my country considered as "*no proper bidding process*" therefore illegal. But considerably, it's just unethical rent-seeking.
 
-Economists Laband and John Sophocleus estimated that rent-seeking activities reduced total income in the U.S. by up to 45%
-
+Consider a municipal official awards a tender to not best or cheapest bidder, but to a company they own or control. Examples in my country considered as "*no proper bidding process*" — therefore illegal. But considerably, it's just unethical rent-seeking.
 
 
 
