@@ -27,9 +27,11 @@ Is called rent-seeking.
 
 <br>
 
-This has become an intriguing concept for me lately. Rent-seeking allows people to extract from economy without contributing to it. This can be done legally. Most primitive example of this is explained by farm economies.
+This has become an intriguing concept for me lately. Rent-seeking allows people to extract from economy without contributing to it. And apperantly this can be done legally. Most primitive example of this is explained by farm economies.
 
-Consider two production elements: Cash and subsistence crops. Cash crops are for profit and subsistence crops are for farmer's own consumption. Rent-seeking is the theft on the cash crops. As cash crops got stolen it influences cash crop producers to stop producing cash crops. Economy suffers. Like in most African countries. 
+Consider two production elements: Cash and subsistence crops.
+
+Cash crops are for profit and subsistence crops are for farmer's own consumption. Rent-seeking here is the theft on the cash crops. It causes cash crop producers to stop *producing*, economy suffers — as Robert H. Bates claims  happened in many African countries.
 
 
 
