@@ -12,7 +12,7 @@ title: "greed is good"
 I believe capitalism is pleasent until you admit it or gone to far --- maybe like buying a [drug company][daraprim]. I still mostly stand with Shkreli, and this [article][article], where I gladly met my requests and not making feel bad about it.
 <br>
 
-![pill](/myblog/images/pillguy.png)
+![pill](/blog/images/pillguy.png)
 
 <br>
 
@@ -22,7 +22,6 @@ I believe this cases aligns or spotlights the problem of information overload of
 
 I used the term "information overload" but I'm not simply referring to [this][this] definition but that we're not generating *enough* insights proportional with information. This just associates with the retardation of our poor information processing capacity as humans. Through out all the regulations, nobody seems to pay attention on the consequences by not taking an action on AI and how the hell are we gonna handle such information production in exponentials.
 
-j
 
 <br>
 
