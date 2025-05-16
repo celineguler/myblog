@@ -33,6 +33,7 @@ Consider two production elements: Cash and subsistence crops.
 
 Cash crops are for profit and subsistence crops are for farmer's own consumption. Rent-seeking here is the theft on the cash crops. It causes cash crop producers to stop *producing*, economy suffers — as Robert H. Bates claims  happened in many African countries.
 
+<br>
 
 Shkreli case is also a colorful version of rent-seeking. Not considering the real case, where he claimed many went to R&D and he actually went to jail for fraud charges as he lied to his investors about the earnings, rent-seeking can be in many forms like this very much case.
 
