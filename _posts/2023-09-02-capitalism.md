@@ -42,6 +42,7 @@ Recently, a popular politician from the opposition got arrested in my country wi
 
 Which already is a common economic friction factor in my country.
 
+With same percentage rate of Trump's infamous letter.
 
 
 
