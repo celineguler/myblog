@@ -47,7 +47,7 @@ John Sophocleus says rent-seeking activities reduced total income in the U.S. by
 
 Recently, a popular politician from the opposition got arrested in my country with several charges on corruption. Apperantly his case considered as "*no proper bidding process*" — therefore illegal. But considerably, it's just unethical rent-seeking. 
 
-Which, already, is a common economic friction factor in my country.
+Irony is rent-seeking already is a common economic friction factor in my country.
 
 With the same percentage rate as Trump’s infamous letter.
 
