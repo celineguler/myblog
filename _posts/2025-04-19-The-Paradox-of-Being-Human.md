@@ -33,10 +33,15 @@ Consider a farm has cash and subsistence crops as two production elements. Cash 
 
 Shkreli case is also a sightful version of rent-seeking. Besides that he claimed profit went to R&D and he actually went to jail for fraud charges as he lied to his investors, rent-seeking can be in many forms like this very much case.
 
-I understand rent-seeking can be bigger issue than we assume for economies today. Many articles estimates rent-seeking activities reduced total income in terms of GNP for many countries.
+I understand rent-seeking can be bigger issue than we assume for economies today. Many articles estimates rent-seeking activities reduced total income in terms of GNP for many countries. John Sophocleus says rent-seeking activities reduced total income in the U.S. by up to 45%. Rent-seeking activities in my country particularly based on "politicized tenders" alongside India and reduction is around %7 to %12 something.
 
 
-Consider a municipal official awards a tender to not best or cheapest bidder, but to a company they own or control. Examples in my country considered as "*no proper bidding process*" — therefore illegal. But considerably, it's just unethical rent-seeking.
+Lately, a popular politician from the opposition got arrested in my country with several charges on corruption. Apperantly his case considered as "*no proper bidding process*" — therefore illegal. But considerably, it's just unethical rent-seeking. 
+
+Which is a common economic friction factor in my country, apperantely.
+
+
+
 
 
 
