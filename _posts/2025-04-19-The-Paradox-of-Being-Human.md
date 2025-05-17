@@ -9,7 +9,7 @@ title: "greed is good"
   </script>
 
 
-Martin Shkreli has faced jail because of raising the price of a lifesaving drug Daraprim from $13.50 to $750 per pill — over 5,000% overnight in 2015. I heard this Shkreli case is called a __rent seeking__.
+Martin Shkreli has faced jail because of raising the price of a lifesaving drug Daraprim from $13.50 to $750 per pill — over 5,000% overnight in 2015. I heard this Shkreli case is called a __rent-seeking__.
 
 <br>
 
