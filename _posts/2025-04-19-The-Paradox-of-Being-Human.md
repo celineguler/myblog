@@ -38,7 +38,9 @@ I understand rent-seeking can be bigger issue than we assume for economies today
 
 Recently, a popular politician from the opposition got arrested in my country with several charges on corruption. Apperantly his case considered as "*no proper bidding process*" — therefore illegal. But considerably, it's just unethical rent-seeking. 
 
-Which already is a common economic friction factor in my country, apperantely.
+Which already is a common economic friction factor in my country.
+
+
 
 
 
