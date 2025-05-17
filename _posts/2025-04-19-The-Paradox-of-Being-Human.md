@@ -27,7 +27,7 @@ If the government agrees, the company now makes more money just because of the r
 
 <br>
 
-Daraprim basically didn’t have a market large enough for competitors to enter. Shrekli bought Daraprim and raised the prices claming large companies should have no issue paying more. Fair enough, he actually went to jail for lying to his investors. So basically a form of illegal rent-seeking.
+Daraprim basically didn’t have a market large enough for competitors to enter. Shrekli bought Daraprim and raised the prices claming large companies should have no issue paying more. And he actually went to jail for lying to his investors. So basically a form of illegal rent-seeking.
 
 This has been an intriguing concept for me lately. Rent-seeking allows people to extract from economy without *contributing* to it. This is a legal but an unethical and harmful action.
 
