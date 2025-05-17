@@ -43,6 +43,7 @@ I understand rent-seeking can be bigger issue than we assume for economies today
 
 John Sophocleus says rent-seeking activities reduced total income in the U.S. by up to 45%. Rent-seeking activities in my country particularly based on "politicized tenders" alongside India and reduction is around %7 to %12 something.
 
+<br>
 
 Recently, a popular politician from the opposition got arrested in my country with several charges on corruption. Apperantly his case considered as "*no proper bidding process*" — therefore illegal. But considerably, it's just unethical rent-seeking. 
 
