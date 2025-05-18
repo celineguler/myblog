@@ -17,5 +17,9 @@ title: "Complexity is overrated"
 
   Emotions besides being bunch of chemical feedback mechanisms, it's also the tool that allows our consciousness to communicate with the nature. In the *most complex way possible.*
 
+  <br>
+
+  Human through out the years spend their time trying to simplify the information that they've been exposed to. Heavy objects sinks, bird fly with their wings, people kills, green is not red, God is up there etc.
+
   
 
