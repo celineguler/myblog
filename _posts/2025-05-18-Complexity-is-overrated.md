@@ -21,5 +21,15 @@ title: "Complexity is overrated"
 
   Human through out the years spend their time trying to simplify the information that they've been exposed to. Heavy objects sinks, bird fly with their wings, people kills, green is not red, God is up there somewhere etc.
 
+  Collectively, humans made things complicated. They formed things that wasn't purely in the nature.
+
+  There must be rate of capasity of human brain and the information they're getting exposed to. As of today, humans doesn't have the capasity to process the information that it generated. It is an overload.
+
+  The information generated, doesn't always fit in a model. It's noice. And there's plenty of noice sources out there. Making things more complicated than it should be.
+
+  Isn't that why AI born? To deal with the information someone can't. So be it. Let AI deal with the information.
+
+
+
 
 
