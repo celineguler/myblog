@@ -19,7 +19,7 @@ title: "Complexity is overrated"
 
   <br>
 
-  Human through out the years spend their time trying to simplify the information that they've been exposed to. Heavy objects sinks, people kills, green is not red, God is up there somewhere etc.
+  Human through out the years spend their time trying to simplify the information that they've been exposed to. Heavy objects sinks, bird fly with their wings, people kills, green is not red, God is up there somewhere etc.
 
 
 
