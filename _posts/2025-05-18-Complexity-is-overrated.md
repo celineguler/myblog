@@ -17,12 +17,13 @@ title: "Complexity is overrated"
 
   Emotions besides being bunch of chemical feedback mechanisms, it's also the tool that allows our consciousness to communicate with the nature. In the *most complex way possible.*
 
-  <br>
 
-  Human through out the years spend their time trying to simplify the information that they've been exposed to. Heavy objects sinks, bird fly with their wings, people kills, green is not red, God is up there somewhere etc.
+  Human through out the years spend their time trying to simplify the information that they've been exposed to. Heavy objects sinks, birds fly with their wings, people kills, green is not red, God is up there somewhere etc.
 
   Collectively, humans made things complicated. They formed things that wasn't purely in the nature.
 
+  <br>
+  
   There must be rate of capasity of human brain and the information they're getting exposed to. As of today, humans doesn't have the capasity to process the information that it generated. It is an overload.
 
   The information generated, doesn't always fit in a model. It's noice. And there's plenty of noice sources out there. Making things more complicated than it should be.
