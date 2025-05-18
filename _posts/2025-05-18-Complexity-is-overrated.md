@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "greed is good"
+title: "Complexity is overrated"
 ---
 
   <!-- MathJax Script -->
