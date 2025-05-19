@@ -42,3 +42,5 @@ permalink: /gallery/
 ![dont](/blog/images/dont.png "Don't Go In There")
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
+
+![phena](/blog/images(phenakistoscope.gif "Phenakistoscope")
