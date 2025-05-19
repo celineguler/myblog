@@ -57,8 +57,8 @@ permalink: /gallery/
 <br>
 <br>
 
-![next](/blog/images/Laser_speckle.jpg "Laser speckle (Gaussian)")
 
+![trump](/blog/images/trump.jpg "Trump Assasination Attempt")
 <br>
 <br>
 <br>
@@ -87,7 +87,8 @@ permalink: /gallery/
 <br>
 <br>
 
-![trump](/blog/images/trump.jpg "Trump Assasination Attempt")
+![next](/blog/images/Laser_speckle.jpg "Laser speckle (Gaussian)")
+
 
 <br>
 <br>
@@ -117,19 +118,18 @@ permalink: /gallery/
 <br>
 <br>
 
-![chaos](/blog/images/chaos.png "Chaos")
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ![dont](/blog/images/dont.png "Don't Go In There")
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
