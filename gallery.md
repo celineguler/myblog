@@ -58,7 +58,7 @@ permalink: /gallery/
 <br>
 
 
-![trump](/blog/images/trump.jpg "Trump Assasination Attempt")
+
 <br>
 <br>
 <br>
@@ -72,7 +72,7 @@ permalink: /gallery/
 <br>
 <br>
 
-![nextt](/blog/images/maxwell.jpg "Maxwell Equations")
+
 
 <br>
 <br>
