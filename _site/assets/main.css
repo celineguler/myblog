@@ -50,6 +50,12 @@ img {
   max-width: 80%;  /* Optional: keep image size responsive */
 }
 
+.center-img {
+  display: block;
+  margin: 0 auto;
+  max-width: 80%;
+}
+
 /**
  * Images
  */
