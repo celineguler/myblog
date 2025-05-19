@@ -44,18 +44,7 @@ permalink: /gallery/
 
 ![hole](/blog/images/black.png "M87 by Event Horizon Telescope Project")
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 ![trump](/blog/images/trump.jpg "Trump Assasination Attempt")
