@@ -14,9 +14,25 @@ permalink: /gallery/
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ![eacc](/blog/images/eacc.png "Accelerate or Die")
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
