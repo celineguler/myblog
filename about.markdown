@@ -7,9 +7,7 @@ permalink: /about/
 __________________________________________________________________________________________________________
 <br>
 
-I write short blogs on concepts that are intriguing to me such as physics, AI, evolution, Africa (the Continent), chess etc. to clear my mind and learn better.
-
-I also keep my sources here a little ragged.
+I write so I learn better. Also keep my sources here a little ragged.
 
 ___________________________________________________________________________________________________________
 
