@@ -44,10 +44,10 @@ main {
 }
 
 img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 80%;  /* Optional: keep image size responsive */
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  max-width: 80% !important;
 }
 
 .center-img {
