@@ -6,7 +6,7 @@ permalink: /about/
 
 __________________________________________________________________________________________________________
 
-I write so I learn better. Also keep my sources here a little ragged.
+I write to improve my learning. Also keep my sources here a little ragged.
 
 ___________________________________________________________________________________________________________
 
