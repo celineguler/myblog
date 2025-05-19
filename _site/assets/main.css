@@ -43,19 +43,14 @@ main {
   display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
 }
 
-img {
-  display: block !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  max-width: 80% !important;
-}
 
-.center-img {
-  display: block !important;
-  margin: 0 auto !important;
-  max-width: 80% !important;
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+  padding: 40px;
 }
-
 /**
  * Images
  */
