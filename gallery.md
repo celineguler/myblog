@@ -4,7 +4,7 @@ title: gallery
 permalink: /gallery/
 ---
 
-<div style="text-align: center;">
+<div class="gallery-center">
 
 <br><br><br>
 
