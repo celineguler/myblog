@@ -43,4 +43,4 @@ permalink: /gallery/
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-![phena](/blog/images(phenakistoscope.gif "Phenakistoscope")
+![phena](/blog/images/phenakistoscope.gif "Phenakistoscope")
