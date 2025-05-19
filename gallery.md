@@ -58,21 +58,23 @@ permalink: /gallery/
 <br>
 
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+![trump](/blog/images/trump.jpg "Trump Assasination Attempt")
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![nexty](/blog/images/maxwell.jpg "Maxwell Equations")
 
 <br>
 <br>
