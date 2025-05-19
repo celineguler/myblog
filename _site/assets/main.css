@@ -313,6 +313,12 @@ table td {
   margin-bottom: 15px;
 }
 
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .contact-list,
 .social-media-list {
   list-style: none;
