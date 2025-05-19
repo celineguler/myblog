@@ -1,5 +1,5 @@
 ---
 layout: page
-title: gallery
+title: --· ·- ·-·· ·-·· · ·-· -·--
 permalink: /gallery/
 ---
