@@ -24,9 +24,7 @@ title: "Complexity is overrated"
 
   <br>
 
-  There must be a rate that relates the the human brain's capacity and information they're getting exposed to.
-
-  As of today, humans doesn't have the capasity to process the information that is generated. It is an __*overload*__.
+  There must be a rate that relates the the human brain's capacity and information they're getting exposed to. As of today, humans doesn't have the capasity to process the information that is constantly generated. It is an __*overload*__.
 
   The information generated doesn't always fit in a model. It's noice. And there's plenty of noice sources out there — making things more complicated than it should be. Like X.
 
