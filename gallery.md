@@ -12,7 +12,7 @@ permalink: /gallery/
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-![alan](/blog/images/Alan_Turing.jpg "Alan Turing")
+![alan](/blog/images/Alan_Turing.jpg "Alan Turing"){:.center-img}
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
