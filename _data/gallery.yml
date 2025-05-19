@@ -1,9 +1,7 @@
 
 
 
-- title:
-  url: /blog/images/Alan_Turing.jpg
-  alt: Alan Turing
+
 
 - url: /blog/images/scream.jpg
 
@@ -19,6 +17,10 @@
 - title: 
   url: /blog/images/trump.jpg
   alt: Trump Assassination Attempt
+
+- title:
+  url: /blog/images/Alan_Turing.jpg
+  alt: Alan Turing
 
 - title: 
   url: /blog/images/maxwell.jpg
@@ -100,8 +102,5 @@
 - url: /blog/images/vietnam.jpg
 
 - url: /blog/images/campbells.png
-
-- url: /blog/images/jackson.jpg
-
 
 
