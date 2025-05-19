@@ -24,7 +24,7 @@ title: "Complexity is overrated"
 
   <br>
 
-  There must be rate of capasity of human brain and the information they're getting exposed to. As of today, humans doesn't have the capasity to process the information that is generated. It is an *overload*.
+  There must be a ratio between the human brain's capacity and information they're getting exposed to. As of today, humans doesn't have the capasity to process the information that is generated. It is an *overload*.
 
   The information generated doesn't always fit in a model. It's noice. And there's plenty of noice sources out there — making things more complicated than it should be. Like X.
 
@@ -33,7 +33,7 @@ title: "Complexity is overrated"
 
   So what as we process further information? We have been processing the nature for the last 10,000 years since the Neolithic Revolution and this is where we at today. AI has the capasity to do this, in what, a week?
 
-  Surely I couldn't find a corresponding comperisson for AI vs. Human discovery capasity because the literature today is seemigly very pessimistic. This article for example claims AI has a lack of creativity. You mean the capability of human brain to combine information as a drive of survival instinct?
+  Surely I couldn't find a corresponding comparison for AI vs. Human discovery capasity because the literature today is seemigly very pessimistic. This article for example claims AI has a lack of creativity. You mean the capability of human brain to combine information as a drive of survival instinct?
 
   AI can do that. But it requires a well-defined motivation that will overshadow the primitive instinct of survival so AI won't bash us.
 
