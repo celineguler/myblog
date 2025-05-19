@@ -37,28 +37,8 @@ Quantum Field Theory arised because quantum mechanics failed to explain: __Relat
 
 To describe particles appearing, disappearing, or interacting, we need something that can exist everywhere in space and time—__a field__. To understand the further ideas of QFT, like particles as excitations of fields and relativistic spacetime symmetries, let's understand these field manner in QFT.
 
-When a classical field is quantized (e.g., in quantum field theory), the infinite degrees of freedom translate into an infinite number of quantum states or modes, often corresponding to particles or quanta of the field. So there it is, *__quantizing classical fields__* is the central idea of *__quantum field theory__*.
+When a classical field is quantized (e.g., in quantum field theory), the infinite degrees of freedom translate into an infinite number of quantum states or modes, often corresponding to particles or quanta of the field. *__Quantizing classical fields__* is the central idea of *__quantum field theory__*.
 
-So the question arises: *How to quantize a classical field?*
-
-<br>
-
-#### __QUANTIZING CLASSICAL FIELDS__
-
-In classical field theory, scalar fields *ϕ*(*__r__*, *t*) and vector field *__A__*(*__r__*, *t*) are functions of space and time and motions are described by Euler-Lagrange equations.
-
-Quantizing these fields starts with __Canonical formalism__. For a scalar field *ϕ*(*__r__*, *t*), the conjugate momentum is:
-
-$$
-\large \pi (r, t) = \frac{\partial L}{\partial (\partial_t \phi)}
-$$
-
-
-
-Now we replace the classical field *ϕ*(*__r__*, *t*) and its conjugate momentum with 𝜋(*__r__*, *t*) with quantum operators 
-
-
-j
 
 
 
