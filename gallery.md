@@ -9,7 +9,7 @@ permalink: /gallery/
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 40px;
+  gap: 140px;
   padding: 40px;
 }
 
