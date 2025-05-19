@@ -8,4 +8,4 @@ permalink: /gallery/
 
 
 
-[!impala](/blog/images/impala.jpg)
+![impala](/blog/images/impala.jpg "1967 Chevrolet Impala")
