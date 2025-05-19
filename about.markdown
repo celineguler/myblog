@@ -4,9 +4,9 @@ title: mydatabase
 permalink: /about/
 ---
 
-__________________________________________________________________________________________________________
+<br>
 
-I write to improve my learning. Also keep my sources here a little ragged.
+I write about things intriguing to me to improve my learning. Also keep my sources here a little ragged.
 
 ___________________________________________________________________________________________________________
 
