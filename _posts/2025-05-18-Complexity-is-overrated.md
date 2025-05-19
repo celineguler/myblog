@@ -24,11 +24,9 @@ title: "Complexity is overrated"
 
   <br>
 
-  There must be rate of capasity of human brain and the information they're getting exposed to. As of today, humans doesn't have the capasity to process the information that it generated. It is an overload.
+  There must be rate of capasity of human brain and the information they're getting exposed to. As of today, humans doesn't have the capasity to process the information that is generated. It is an *overload*.
 
   The information generated doesn't always fit in a model. It's noice. And there's plenty of noice sources out there. Making things more complicated than it should be. Like X.
-
-  Isn't that why AI born? To deal with the information someone can't. So be it. Let AI deal with the information.
 
 
 
