@@ -9,11 +9,11 @@ title: "Complexity is overrated"
   </script>
 
 
-  I love physics because it genuienly satisfies my brain. Physics cured my depression.
+  I love physics because it genuienly satisfies my brain. Physics has cured my depression.
 
   I gained physics literacy in the last 3 years of my physics education and in short it is all about simplifying. It's about explaining everything in the purest form. It's about proving universe is actually not that complex.
 
-  It indeed is not. I would answer the concept with highest complexity as emotions. Human emotions.
+  It indeed is not. I reckon emotions is a much more complex concept.
 
   Emotions besides being bunch of chemical feedback mechanisms, it's also the tool that allows our consciousness to communicate with the nature. In the *most complex way possible.*
 
@@ -26,7 +26,7 @@ title: "Complexity is overrated"
 
   There must be rate of capasity of human brain and the information they're getting exposed to. As of today, humans doesn't have the capasity to process the information that it generated. It is an overload.
 
-  The information generated doesn't always fit in a model. It's noice. And there's plenty of noice sources out there. Making things more complicated than it should be.
+  The information generated doesn't always fit in a model. It's noice. And there's plenty of noice sources out there. Making things more complicated than it should be. Like X.
 
   Isn't that why AI born? To deal with the information someone can't. So be it. Let AI deal with the information.
 
