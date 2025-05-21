@@ -36,7 +36,7 @@ title: "Complexity is overrated"
 
   That's why AI is born right? To process information that we simply can't. AI is considerably the greatest value and tool we have today. And it seems pretty unlimited.
 
-  So what as we process further information? We have been processing the nature for the last 10.000 years since the Neolithic Revolution and this is where we at today. AI has the capasity to do this, in what, a week?
+  So what as we process further information? We have been processing the nature for the last 10.000 years since the Neolithic Revolution and this is where we at today. AI has the capasity to do this, in a what, a week?
 
   Surely I couldn't find a corresponding comparison for AI vs. Human discovery capasity because the literature today is seemigly very pessimistic. [This][this] article for example claims AI has a lack of creativity. You mean the capability of human brain to combine information as a drive of survival instinct?
 

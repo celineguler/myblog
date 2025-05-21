@@ -13,7 +13,6 @@ Martin Shkreli has faced jail because of raising the price of a lifesaving drug 
 
 <br>
 
-
 ![pill](/blog/images/shkreli2.png)
 
 
