@@ -28,8 +28,11 @@ title: "Complexity is overrated"
 
   The information generated doesn't always fit in a model. It's noice. And there's plenty of noice sources out there — making things more complicated than it should be. Like X.
 
-  ![expose](/blog/images/expose.jpg)
+  <br>
 
+  ![expose](/blog/images/infor.jpg)
+
+  <br>
 
   That's why AI is born right? To process information that we simply can't. AI is considerably the greatest value and tool we have today. And it seems pretty unlimited.
 
