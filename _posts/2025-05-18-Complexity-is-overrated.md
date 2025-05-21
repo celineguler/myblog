@@ -9,7 +9,7 @@ title: "Complexity is overrated"
   </script>
 
 
-  I love physics because it genuienly satisfies my brain. Physics has cured my depression.
+  I love physics because it genuienly satisfies my brain. It literally has cured my depression.
 
   I gained physics literacy in the last 3 years of my physics education and in short it is all about simplifying. It's about explaining everything in the purest form. It's about proving universe is actually not that complex.
 
