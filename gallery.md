@@ -12,20 +12,20 @@ permalink: /gallery/
   margin: 2 !important;
 }
 
-/* Masonry-style gallery layout */
+/* Gallery layout using CSS Grid */
 .gallery {
-  column-count: 3;
-  column-gap: 20px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
   padding: 20px;
   width: 100vw;
   box-sizing: border-box;
 }
 
 .image-card {
-  break-inside: avoid;
-  margin-bottom: 20px;
-  display: inline-block;
-  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .image-card img {
@@ -33,6 +33,7 @@ permalink: /gallery/
   height: auto;
   border-radius: 8px;
   display: block;
+  object-fit: cover;
 }
 
 .image-card p {
@@ -42,22 +43,22 @@ permalink: /gallery/
   color: #555;
 }
 
-/* Responsive columns */
+/* Responsive grid columns */
 @media (max-width: 1200px) {
   .gallery {
-    column-count: 3;
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 
 @media (max-width: 800px) {
   .gallery {
-    column-count: 2;
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 
 @media (max-width: 500px) {
   .gallery {
-    column-count: 1;
+    grid-template-columns: 1fr;
   }
 }
 </style>
