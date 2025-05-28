@@ -6,9 +6,6 @@ permalink: /gallery/
 
 <style>
 /* Remove default padding/margin from page wrapper */
-.gallery-container {
-  padding: 0 5px;
-}
 
 
 /* Masonry-style gallery layout */
