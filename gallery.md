@@ -7,7 +7,7 @@ permalink: /gallery/
 <style>
 /* Remove default padding/margin from page wrapper */
 .page, .wrapper, .content {
-  max-width: 1 !important;
+  max-width: none !important;
   padding: 1 !important;
   margin: 1 !important;
 }
