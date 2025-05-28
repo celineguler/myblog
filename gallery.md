@@ -7,9 +7,9 @@ permalink: /gallery/
 <style>
 /* Remove default padding/margin from page wrapper */
 .page, .wrapper, .content {
-  max-width: none !important;
-  padding: 2 !important;
-  margin: 2 !important;
+  max-width: 1 !important;
+  padding: 1 !important;
+  margin: 1 !important;
 }
 
 /* Masonry-style gallery layout */
