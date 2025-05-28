@@ -15,7 +15,7 @@ permalink: /gallery/
 /* Masonry-style gallery layout */
 .gallery {
   column-count: 3;
-  column-gap: 20px;
+  column-gap: 17px;
   padding: 18px;
   width: 100vw;
   box-sizing: border-box;
