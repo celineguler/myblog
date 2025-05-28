@@ -13,7 +13,7 @@ permalink: /gallery/
   column-count: 3;
   column-gap: 20px;
   padding: 20px;
-  width: 100vw;
+  width: %100;
   box-sizing: border-box;
 }
 
