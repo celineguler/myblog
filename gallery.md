@@ -12,8 +12,11 @@ permalink: /gallery/
 .gallery {
   column-count: 3;
   column-gap: 20px;
-  padding: 20px;
-  width: %100;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 100%;
   box-sizing: border-box;
 }
 
