@@ -5,10 +5,20 @@ permalink: /gallery/
 ---
 
 <style>
+/* Remove default padding/margin from page wrapper */
+.page, .wrapper, .content {
+  max-width: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* Masonry-style gallery layout */
 .gallery {
-  column-count: 3;
+  column-count: 4;
   column-gap: 20px;
-  padding: 40px;
+  padding: 20px;
+  width: 100vw;
+  box-sizing: border-box;
 }
 
 .image-card {
@@ -30,6 +40,25 @@ permalink: /gallery/
   margin-top: 8px;
   font-size: 14px;
   color: #555;
+}
+
+/* Responsive columns */
+@media (max-width: 1200px) {
+  .gallery {
+    column-count: 3;
+  }
+}
+
+@media (max-width: 800px) {
+  .gallery {
+    column-count: 2;
+  }
+}
+
+@media (max-width: 500px) {
+  .gallery {
+    column-count: 1;
+  }
 }
 </style>
 
