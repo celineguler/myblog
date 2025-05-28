@@ -6,11 +6,10 @@ permalink: /gallery/
 
 <style>
 /* Remove default padding/margin from page wrapper */
-.page, .wrapper, .content {
-  max-width: none !important;
-  padding: 0 !important;
-  margin: 2 !important;
+.gallery-container {
+  padding: 0 5px;
 }
+
 
 /* Masonry-style gallery layout */
 .gallery {
