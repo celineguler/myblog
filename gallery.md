@@ -5,31 +5,27 @@ permalink: /gallery/
 ---
 
 <style>
-/* Remove strict max-width, but keep a soft margin */
+/* Remove default padding/margin from page wrapper */
 .page, .wrapper, .content {
-  max-width: 100% !important;
-  margin: 0 auto;
-  padding: 0;
+  max-width: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
 }
 
-/* Add side margins to gallery */
-.gallery-container {
-  padding: 0 40px;
-}
-
-/* Grid layout: 3 per row */
+/* Masonry-style gallery layout */
 .gallery {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 30px;
-  padding: 40px 0;
+  column-count: 3;
+  column-gap: 20px;
+  padding: 20px;
+  width: 100vw;
+  box-sizing: border-box;
 }
 
-/* Each image card */
 .image-card {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  break-inside: avoid;
+  margin-bottom: 20px;
+  display: inline-block;
+  width: 100%;
 }
 
 .image-card img {
@@ -40,35 +36,39 @@ permalink: /gallery/
 }
 
 .image-card p {
+  text-align: center;
   margin-top: 8px;
   font-size: 14px;
   color: #555;
-  text-align: center;
 }
 
-/* Responsive layout */
-@media (max-width: 1000px) {
+/* Responsive columns */
+@media (max-width: 1200px) {
   .gallery {
-    grid-template-columns: repeat(2, 1fr);
+    column-count: 3;
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   .gallery {
-    grid-template-columns: repeat(1, 1fr);
+    column-count: 2;
+  }
+}
+
+@media (max-width: 500px) {
+  .gallery {
+    column-count: 1;
   }
 }
 </style>
 
-<div class="gallery-container">
-  <div class="gallery">
-    {% for image in site.data.gallery %}
-      <div class="image-card">
-        <img src="{{ image.url }}" alt="{{ image.alt | default: 'gallery image' }}">
-        {% if image.title %}
-          <p>{{ image.title }}</p>
-        {% endif %}
-      </div>
-    {% endfor %}
-  </div>
+<div class="gallery">
+  {% for image in site.data.gallery %}
+    <div class="image-card">
+      <img src="{{ image.url }}" alt="{{ image.alt | default: 'gallery image' }}">
+      {% if image.title %}
+        <p>{{ image.title }}</p>
+      {% endif %}
+    </div>
+  {% endfor %}
 </div>
