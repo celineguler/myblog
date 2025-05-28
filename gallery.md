@@ -6,24 +6,30 @@ permalink: /gallery/
 
 <style>
 .gallery {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 30px;
+  column-count: 3;
+  column-gap: 20px;
   padding: 40px;
 }
 
 .image-card {
-  flex: 0 1 calc(30% - 20px); /* 3 per row with spacing */
-  box-sizing: border-box;
-  text-align: center;
+  break-inside: avoid;
+  margin-bottom: 20px;
+  display: inline-block;
+  width: 100%;
 }
 
 .image-card img {
   width: 100%;
   height: auto;
-  border-radius: 10px;
+  border-radius: 8px;
   display: block;
+}
+
+.image-card p {
+  text-align: center;
+  margin-top: 8px;
+  font-size: 14px;
+  color: #555;
 }
 </style>
 
