@@ -5,26 +5,31 @@ permalink: /gallery/
 ---
 
 <style>
-/* Remove global padding but keep a little side margin */
+/* Remove strict max-width, but keep a soft margin */
 .page, .wrapper, .content {
-  max-width: none !important;
-  padding: 0 !important;
-  margin: 0 auto !important;
+  max-width: 100% !important;
+  margin: 0 auto;
+  padding: 0;
 }
 
+/* Add side margins to gallery */
+.gallery-container {
+  padding: 0 40px;
+}
+
+/* Grid layout: 3 per row */
 .gallery {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   gap: 30px;
-  padding: 40px 60px; /* top-bottom: 40px, left-right: 60px */
-  box-sizing: border-box;
+  padding: 40px 0;
 }
 
+/* Each image card */
 .image-card {
-  flex: 0 1 calc(33.333% - 20px); /* 3 per row with gap adjustment */
-  box-sizing: border-box;
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .image-card img {
@@ -38,21 +43,32 @@ permalink: /gallery/
   margin-top: 8px;
   font-size: 14px;
   color: #555;
+  text-align: center;
 }
 
-/* Responsive tweaks */
+/* Responsive layout */
 @media (max-width: 1000px) {
-  .image-card {
-    flex: 0 1 calc(50% - 20px); /* 2 per row */
+  .gallery {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 
 @media (max-width: 600px) {
-  .image-card {
-    flex: 0 1 100%; /* 1 per row */
+  .gallery {
+    grid-template-columns: repeat(1, 1fr);
   }
 }
 </style>
 
-<div class="gallery">
-  {% for image in site.data.gallery %}
+<div class="gallery-container">
+  <div class="gallery">
+    {% for image in site.data.gallery %}
+      <div class="image-card">
+        <img src="{{ image.url }}" alt="{{ image.alt | default: 'gallery image' }}">
+        {% if image.title %}
+          <p>{{ image.title }}</p>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+</div>
