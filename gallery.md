@@ -5,27 +5,26 @@ permalink: /gallery/
 ---
 
 <style>
-/* Remove default padding/margin from page wrapper */
+/* Remove global padding but keep a little side margin */
 .page, .wrapper, .content {
   max-width: none !important;
   padding: 0 !important;
-  margin: 0 !important;
+  margin: 0 auto !important;
 }
 
-/* Masonry-style gallery layout */
 .gallery {
-  column-count: 4;
-  column-gap: 20px;
-  padding: 20px;
-  width: 100vw;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  padding: 40px 60px; /* top-bottom: 40px, left-right: 60px */
   box-sizing: border-box;
 }
 
 .image-card {
-  break-inside: avoid;
-  margin-bottom: 20px;
-  display: inline-block;
-  width: 100%;
+  flex: 0 1 calc(33.333% - 20px); /* 3 per row with gap adjustment */
+  box-sizing: border-box;
+  text-align: center;
 }
 
 .image-card img {
@@ -36,39 +35,24 @@ permalink: /gallery/
 }
 
 .image-card p {
-  text-align: center;
   margin-top: 8px;
   font-size: 14px;
   color: #555;
 }
 
-/* Responsive columns */
-@media (max-width: 1200px) {
-  .gallery {
-    column-count: 3;
+/* Responsive tweaks */
+@media (max-width: 1000px) {
+  .image-card {
+    flex: 0 1 calc(50% - 20px); /* 2 per row */
   }
 }
 
-@media (max-width: 800px) {
-  .gallery {
-    column-count: 2;
-  }
-}
-
-@media (max-width: 500px) {
-  .gallery {
-    column-count: 1;
+@media (max-width: 600px) {
+  .image-card {
+    flex: 0 1 100%; /* 1 per row */
   }
 }
 </style>
 
 <div class="gallery">
   {% for image in site.data.gallery %}
-    <div class="image-card">
-      <img src="{{ image.url }}" alt="{{ image.alt | default: 'gallery image' }}">
-      {% if image.title %}
-        <p>{{ image.title }}</p>
-      {% endif %}
-    </div>
-  {% endfor %}
-</div>
