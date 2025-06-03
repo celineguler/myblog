@@ -6,17 +6,10 @@ permalink: /gallery/
 
 <style>
 /* Full reset for full-page layout */
-html, body {
+body {
   margin: 0;
   padding: 0;
   width: 100%;
-}
-
-.page, .wrapper, .content {
-  max-width: none !important;
-  width: 100% !important;
-  padding: 0 !important;
-  margin: 0 !important;
 }
 
 /* Gallery layout with symmetric padding */
