@@ -5,31 +5,35 @@ permalink: /gallery/
 ---
 
 <style>
-/* General layout reset */
-body {
+/* Reset layout margins/paddings, but preserve inner spacing */
+html, body {
   margin: 0;
   padding: 0;
   width: 100%;
 }
 
-/* This wraps header, footer, and title. It is constrained. */
-.page-container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 20px;
+/* Maintain header and title padding as intended */
+.page {
+  max-width: 100%;
+  padding: 40px; /* Adjust if needed for header/title spacing */
   box-sizing: border-box;
 }
 
-/* The gallery will be full-width and independent */
+/* Optional: Ensure .wrapper and .content don’t override layout */
+.wrapper, .content {
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+/* Gallery layout */
 .gallery {
   column-count: 3;
   column-gap: 17px;
-  padding: 20px 40px; /* vertical 20px, horizontal 40px */
+  padding: 20px 40px;
   width: 100%;
   box-sizing: border-box;
 }
 
-/* Gallery image styling */
 .image-card {
   break-inside: avoid;
   margin-bottom: 20px;
@@ -51,7 +55,7 @@ body {
   color: #555;
 }
 
-/* Responsive columns */
+/* Responsive gallery column counts */
 @media (max-width: 1200px) {
   .gallery {
     column-count: 3;
@@ -73,12 +77,8 @@ body {
 }
 </style>
 
-<!-- Constrained layout: title, header, footer -->
-<div class="page-container">
-  <h1>{{ page.title }}</h1>
-</div>
+<!-- The gallery title is handled by the layout: page (likely in your theme's layout file) -->
 
-<!-- Full-width gallery below -->
 <div class="gallery">
   {% for image in site.data.gallery %}
     <div class="image-card">
