@@ -5,20 +5,27 @@ permalink: /gallery/
 ---
 
 <style>
-/* Reset body margin/padding to take full width but with symmetric breathing room */
-body {
+/* Full reset for full-page layout */
+html, body {
   margin: 0;
   padding: 0;
   width: 100%;
 }
 
-/* Masonry-style gallery with symmetric padding */
+.page, .wrapper, .content {
+  max-width: none !important;
+  width: 100% !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* Gallery layout with symmetric padding */
 .gallery {
   column-count: 3;
   column-gap: 17px;
-  padding: 20px 40px; /* Top-bottom: 20px, Left-right: 40px */
-  box-sizing: border-box;
+  padding: 20px 40px; /* vertical 20px, horizontal 40px */
   width: 100%;
+  box-sizing: border-box;
 }
 
 .image-card {
