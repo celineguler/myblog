@@ -22,7 +22,7 @@
 
 - url: /blog/images/911.png
 
-- url: /blog/images/pigs.jpg
+#- url: /blog/images/pigs.jpg
 
 - url: /blog/images/blade.jpg
 
@@ -38,7 +38,7 @@
 
 - url: /blog/images/timetrump.jpg
 
-- url: /blog/images/titan.jpg
+#- url: /blog/images/titan.jpg
 
 - url: /blog/images/hitlr.jpg
 
@@ -114,7 +114,7 @@
 
 - url: /blog/images/obama.png
 
-- url: /blog/images/zuck.jpg
+#- url: /blog/images/zuck.jpg
 
 - url: /blog/images/greta.jpg
 
@@ -144,15 +144,13 @@
 
 - url: /blog/images/jfk.png
 
-- url: /blog/images/kennedy.jpg
-
 - url: /blog/images/beethoven.jpg
 
 - url: /blog/images/lgbt.jpg
 
 - url: /blog/images/tonya.jpg
 
-- url: /blog/images/ataturk.jpg
+#- url: /blog/images/ataturk.jpg
 
 - url: /blog/images/jong.jpg
 
