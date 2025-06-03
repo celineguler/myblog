@@ -5,14 +5,22 @@ permalink: /gallery/
 ---
 
 <style>
-/* Full reset for full-page layout */
+/* General layout reset */
 body {
   margin: 0;
   padding: 0;
   width: 100%;
 }
 
-/* Gallery layout with symmetric padding */
+/* This wraps header, footer, and title. It is constrained. */
+.page-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+/* The gallery will be full-width and independent */
 .gallery {
   column-count: 3;
   column-gap: 17px;
@@ -21,6 +29,7 @@ body {
   box-sizing: border-box;
 }
 
+/* Gallery image styling */
 .image-card {
   break-inside: avoid;
   margin-bottom: 20px;
@@ -64,6 +73,12 @@ body {
 }
 </style>
 
+<!-- Constrained layout: title, header, footer -->
+<div class="page-container">
+  <h1>{{ page.title }}</h1>
+</div>
+
+<!-- Full-width gallery below -->
 <div class="gallery">
   {% for image in site.data.gallery %}
     <div class="image-card">
