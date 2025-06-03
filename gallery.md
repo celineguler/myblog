@@ -89,3 +89,10 @@ html, body {
     </div>
   {% endfor %}
 </div>
+
+<!-- Constrained footer -->
+<div class="page-container">
+  <footer>
+    <p>&copy; {{ site.time | date: '%Y' }} Your Site Name</p>
+  </footer>
+</div>
