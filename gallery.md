@@ -28,7 +28,7 @@ html, body {
 /* Gallery layout */
 .gallery {
   column-count: 3;
-  column-gap: 26px;
+  column-gap: 40px;
   padding: 20px 40px;
   width: 100%;
   box-sizing: border-box;
@@ -36,7 +36,7 @@ html, body {
 
 .image-card {
   break-inside: avoid;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
   display: inline-block;
   width: 100%;
 }
