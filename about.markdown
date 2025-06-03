@@ -25,12 +25,6 @@ Tight-binding:
 
 
 
-differential equations: [Shepley][3]
-
-
-
-
-
 
 
 
