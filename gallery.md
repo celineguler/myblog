@@ -36,7 +36,7 @@ html, body {
 
 .image-card {
   break-inside: avoid;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   display: inline-block;
   width: 100%;
 }
