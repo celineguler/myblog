@@ -28,7 +28,7 @@ html, body {
 /* Gallery layout */
 .gallery {
   column-count: 3;
-  column-gap: 30px;
+  column-gap: 26px;
   padding: 20px 40px;
   width: 100%;
   box-sizing: border-box;
