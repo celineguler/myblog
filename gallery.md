@@ -5,31 +5,25 @@ permalink: /gallery/
 ---
 
 <style>
-/* Reset layout margins/paddings, but preserve inner spacing */
+/* Full reset for full-page layout */
 html, body {
   margin: 0;
   padding: 0;
   width: 100%;
 }
 
-/* Maintain header and title padding as intended */
-.page {
-  max-width: 100%;
-  padding: 40px; /* Adjust if needed for header/title spacing */
-  box-sizing: border-box;
+.page, .wrapper, .content {
+  max-width: none !important;
+  width: 100% !important;
+  padding: 0 !important;
+  margin: 0 !important;
 }
 
-/* Optional: Ensure .wrapper and .content don’t override layout */
-.wrapper, .content {
-  max-width: 100%;
-  box-sizing: border-box;
-}
-
-/* Gallery layout */
+/* Gallery layout with symmetric padding */
 .gallery {
   column-count: 3;
   column-gap: 17px;
-  padding: 20px 40px;
+  padding: 20px 40px; /* vertical 20px, horizontal 40px */
   width: 100%;
   box-sizing: border-box;
 }
@@ -55,7 +49,7 @@ html, body {
   color: #555;
 }
 
-/* Responsive gallery column counts */
+/* Responsive columns */
 @media (max-width: 1200px) {
   .gallery {
     column-count: 3;
@@ -76,8 +70,6 @@ html, body {
   }
 }
 </style>
-
-<!-- The gallery title is handled by the layout: page (likely in your theme's layout file) -->
 
 <div class="gallery">
   {% for image in site.data.gallery %}
