@@ -6,7 +6,7 @@
 
 - url: /blog/images/marie.jpg
 
-- url: /blog/images/trump.jpg
+- url: /blog/images/trumpp.jpg
 
 - url: /blog/images/Alan_Turing.jpg
 
@@ -126,17 +126,21 @@
 
 - url: /blog/images/budism.jpg
 
-- url: /blog/images/kiss.jpg
+#- url: /blog/images/kiss.jpg
 
 - url: /blog/images/lovelace.jpg
 
-- url: /blog/images/dana.png
+#- url: /blog/images/dana.png
 
 - url: /blog/images/solvayconf.jpg 
 
 - url: /blog/images/apple.jpg
 
 - url: /blog/images/haber.png
+
+- url: /blog/images/jfk.png
+
+- url: /blog/images/kennedy.jpg
 
 - url: /blog/images/beethoven.jpg
 
