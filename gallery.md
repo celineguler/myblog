@@ -5,7 +5,7 @@ permalink: /gallery/
 ---
 
 <style>
-/* Ensure page uses full width */
+/* Full reset for full-page layout */
 html, body {
   margin: 0;
   padding: 0;
@@ -19,12 +19,12 @@ html, body {
   margin: 0 !important;
 }
 
-/* Full-width masonry-style gallery */
+/* Gallery layout with symmetric padding */
 .gallery {
   column-count: 3;
   column-gap: 17px;
-  padding: 20px;
-  width: 100vw;
+  padding: 20px 40px; /* vertical 20px, horizontal 40px */
+  width: 100%;
   box-sizing: border-box;
 }
 
@@ -59,12 +59,14 @@ html, body {
 @media (max-width: 800px) {
   .gallery {
     column-count: 2;
+    padding: 20px 30px;
   }
 }
 
 @media (max-width: 500px) {
   .gallery {
     column-count: 1;
+    padding: 20px 20px;
   }
 }
 </style>
