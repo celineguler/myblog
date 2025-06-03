@@ -1,6 +1,5 @@
 ---
 layout: page
-title: gallery
 permalink: /gallery/
 ---
 
@@ -15,7 +14,7 @@ html, body {
 /* Maintain header and title padding as intended */
 .page {
   max-width: 100%;
-  padding: 40px; /* Adjust if needed for header/title spacing */
+  padding: 100px; /* Adjust if needed for header/title spacing */
   box-sizing: border-box;
 }
 
