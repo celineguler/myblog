@@ -14,7 +14,7 @@ html, body {
 /* Maintain header and title padding as intended */
 .page {
   max-width: 100%;
-  padding: 100px; /* Adjust if needed for header/title spacing */
+  padding: 10px; /* Adjust if needed for header/title spacing */
   box-sizing: border-box;
 }
 
