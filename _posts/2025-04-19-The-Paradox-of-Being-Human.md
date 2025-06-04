@@ -11,7 +11,7 @@ title: "greed is good"
 
 Martin Shkreli has faced jail because of raising the price of a lifesaving drug Daraprim from $13.50 to $750 per pill — over 5,000% overnight in 2015. I heard this Shkreli case is called a __rent-seeking__.
 
-![pill](/blog/images/shkreli2.png)
+![pill](/blog/images/martin2.png)
 
 
 Imagine there's a company that could make money by selling a product.
