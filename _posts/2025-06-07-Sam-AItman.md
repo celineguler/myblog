@@ -12,12 +12,12 @@ title: "Sam A𝙸tman"
 
 The mission of the AI revolution in our gay Jesus' hands seems a bit overwhelming.
 
-Sam AItman openly responded OpenAI is not for sale against Elon Musk's claims about his willing to buy the company, and today all this backfired bromance between him and DJT is also overshadowing [the ultimate][this] masterpiece.
+Sam AItman openly responded OpenAI is not for sale against Elon Musk's claim about his willingness to buy the company, and today all this backfired bromance between him and DJT is also overshadowing [the ultimate][this] masterpiece.
 
 
-OpenAI had the lack of hardware to run their AGI/ASI and now they are coming up with their own hardware because the company has no direct or potential commercial partnership with any leading harware companies, most likely after the roast by Jensen Huang with that $7 trillion investment requirement in [UAE in 2024][huang].
+OpenAI lacked of hardware to run their AGI/ASI and now they are coming up with their own hardware because the company has no direct or potential commercial partnership with any leading hardware companies, most likely after the roast by Jensen Huang with that $7 trillion investment requirement in [UAE in 2024][huang].
 
-[Jony Ive][jony], the designer of iPad, iMac and iPhone, also received a $6.5 billion deal from OpenAI. Which has kind of alerted the independency of OpenAI against other hardwares is a substantial goal of the company.
+[Jony Ive][jony], the designer of iPad, iMac and iPhone, also received a $6.5 billion deal from OpenAI. Which has kind of alerted the hardware independence is becoming a substantial goal for the company.
 
 <br>
 
@@ -38,7 +38,7 @@ _“A __new category of personal computing device__ — a __third wave__ of comp
 
 <br>
 
-Besides the other backfired bromance between Huang and AItman, they both declared that the next multi-trillion-dollar industry is [AGENTIC AI][ai]. Inclined to take note.
+Besides the other backfired bromance between Huang and AItman, they both declared that the next multi-trillion-dollar industry is [AGENTIC AI][ai] — worthy taking note of.
 
 
 
