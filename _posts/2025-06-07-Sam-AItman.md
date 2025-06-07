@@ -10,7 +10,7 @@ title: "Sam A𝙸tman"
 
 
 
-The mission of the AI revolution in our gay Jesus' hands seems a bit overwhelming.
+The mission of the A𝙸 revolution in our gay Jesus' hands seems a bit overwhelming.
 
 Sam AItman openly responded OpenAI is not for sale against Elon Musk's claim about his willingness to buy the company, and today all this backfired bromance between him and DJT is also overshadowing [the ultimate][this] masterpiece.
 
