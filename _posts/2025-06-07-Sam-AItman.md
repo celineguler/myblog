@@ -38,7 +38,7 @@ _“A __new category of personal computing device__ — a __third wave__ of comp
 
 <br>
 
-Besides the other backfired bromance between Huang and AItman, they both declared that the next multi-trillion-dollar industry is [AGENTIC AI][ai] — worthy taking note of.
+Besides the other backfired bromance between Huang and AItman, they both declared that the next multi-trillion-dollar industry is [AGENTIC A𝙸][ai] — worthy taking note of.
 
 
 
