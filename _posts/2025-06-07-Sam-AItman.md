@@ -21,7 +21,7 @@ OpenAI had the lack of hardware to run their AGI/ASI and now they are coming up 
 
 <br>
 
-Now, what can AI-native devices can look like?
+Now, what can AI-native devices look like?
 
  • Minimal, surely.
 
