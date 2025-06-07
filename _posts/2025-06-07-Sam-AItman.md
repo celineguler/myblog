@@ -27,9 +27,9 @@ Now, what can AI-native devices look like?
 
  • Screenless
 
- • Wearable (doubtful, Jony is not into it.)
+ • Wearable (doubtful)
 
- • Pocketable, mentioned already
+ • Pocketable, mentioned already.
 
 
 They accordingly reported to Financial Times,
