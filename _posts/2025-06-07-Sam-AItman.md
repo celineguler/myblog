@@ -17,7 +17,7 @@ Sam AItman openly responded OpenAI is not for sale against Elon Musk's claims ab
 
 OpenAI had the lack of hardware to run their AGI/ASI and now they are coming up with their own hardware because the company has no direct or potential commercial partnership with any leading harware companies, most likely after the roast by Jensen Huang with that $7 trillion investment requirement in [UAE in 2024][huang].
 
-[Jony Ive][jony], the designer of iPad, iMac and iPhone, received a $6.5 billion deal from OpenAI. Which has kind of alerted the independency of OpenAI against other hardwares is a substantial goal of the company.
+[Jony Ive][jony], the designer of iPad, iMac and iPhone, also received a $6.5 billion deal from OpenAI. Which has kind of alerted the independency of OpenAI against other hardwares is a substantial goal of the company.
 
 <br>
 
