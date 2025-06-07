@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sam A𝐈tman"
+title: "Sam A𝙸tman"
 ---
 
   <!-- MathJax Script -->
