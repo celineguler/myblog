@@ -15,13 +15,13 @@ The mission of the A𝙸 revolution in our gay Jesus' hands seems a bit overwhel
 Sam AItman openly responded OpenAI is not for sale against Elon Musk's claim about his willingness to buy the company, and today all this backfired bromance between him and DJT is also overshadowing [the ultimate][this] masterpiece.
 
 
-OpenAI lacked of hardware to run their AGI/ASI and now they are coming up with their own hardware because the company has no direct or potential commercial partnership with any leading hardware companies, most likely after the roast by Jensen Huang with that $7 trillion investment requirement in [UAE in 2024][huang].
+OpenA𝙸 lacked of hardware to run their AGI/ASI and now they are coming up with their own hardware because the company has no direct or potential commercial partnership with any leading hardware companies, most likely after the roast by Jensen Huang with that $7 trillion investment requirement in [UAE in 2024][huang].
 
 [Jony Ive][jony], the designer of iPad, iMac and iPhone, also received a $6.5 billion deal from OpenAI. Which has kind of alerted the hardware independence is becoming a substantial goal for the company.
 
 <br>
 
-Now, what can AI-native devices look like?
+Now, what can A𝙸-native devices look like?
 
  • Minimal, surely.
 
