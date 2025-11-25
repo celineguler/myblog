@@ -4,14 +4,9 @@ title: "Support Vector Machines"
 ---
 
 
-What are support vector machines?
-It is a supervised learning framework.
+It is a supervised learning framework. What are support vectors? They are a subset of training points in the decision function. What SVM basically does is seperating data optimally. It is an optimization problem.
 
-First of all, what are support vectors? They are a subset of training points in the decision function. They are called support vectors.
-
-What does it mean that different Kernel functions can be specified for the decision function?
-
-**What is a Kernel?**
+We will answer: *What does it mean that different Kernel functions can be specified for the decision function?* and, ***What is a Kernel?***
 
 Note that we follow the https://scikit-learn.org/stable/modules/svm.html# page for content. We will add AIMA 18.6 and 18.9 as well.
 
