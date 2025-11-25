@@ -32,7 +32,8 @@ Note that we follow the https://scikit-learn.org/stable/modules/svm.html# page f
 Support vector machines finds an optimal seperation of the data. Either linear or non-linearly. Obviously, nonlinearly it is harder.
 
 
- **margin = min(P, K)**
+       margin = min(P, K)
+
 **where P and K are the distances to the separation line of data points belonging to two different classes.**
 **SVM trying to maximize the margin around the hyperplane. It means it tries to optimize the distance from the data points (support vectors) around the hyperplane.**
 ***It is a maximization problem.* We can use Lagrangian multipliers (always!) when there is a maximization problem and some possible constraints.**
