@@ -28,7 +28,7 @@ Note that we follow the https://scikit-learn.org/stable/modules/svm.html# page f
 
 
 
-### 1.4.1. Classification
+# **1.4.1. Classification**
 ![5](/blog/img/shot_1763824580.png)
 
 **SVC, NuSVC, LinearSVC...**
@@ -42,13 +42,13 @@ Support vector machines finds an optimal seperation of the data. Either linear o
 **SVM trying to maximize the margin around the hyperplane. It means it tries to optimize the distance from the data points (support vectors) around the hyperplane.**
 ***It is a maximization problem.* We can use Lagrangian multipliers (always!) when there is a maximization problem and some possible constraints.**
 
-#### 2D-case
+## **2D-case**
 Hyperplane is defined by (a,b,c) coefficient where,
 (1) ax+by-c>=0
 (2) ax+by-c=< 0
 The (1) for class 1 and (2) for class 2 data points. This is the equation of the seperation line. Now you can change your notation, defining:
 
-##### Notation
+### **Notation**
 ![7](/blog/img/shot_1764030396.png)
 the weight vector and the position vector:
 ![8](/blog/img/shot_1764030437.png)
@@ -78,7 +78,7 @@ If you say all points, you are thinking of **Linear regression** or **Neural net
 If you are smart enough to conclude we don't need the points that probably won't influence the hyperplane, and we need only diffuculut points close the boundary, 
 you are thinking of ***Support Vector Machines***.
 
-#### Support vectors are the data points of the training set that would influence or change the position of the dividing hyperplane if removed!!!
+#### **Support vectors are the data points of the training set that would influence or change the position of the dividing hyperplane if removed!!!**
 Note that, support vectors are actual vectors indeed. Mostly the magnitude of these vectors are discussed, as it is the actual distance of the support vector 
 data point from the seperation line, but since we have an origin (0,0) and a coordinate system, these data points are actually vectors.
 ![22](/blog/img/shot_1764027490.png)
@@ -100,11 +100,11 @@ You can find the proof: https://en.wikipedia.org/wiki/Hyperplane_separation_theo
 
 Also check out: https://arxiv.org/pdf/1107.1358 ***"On the Furthest Hyperplane Problem and Maximal Margin Clustering"***
 
-### PROBLEM: The problem of finding an optimal the hyperplane is an optimization problem. We need Lagrange Multipliers.
+### **PROBLEM: The problem of finding an optimal the hyperplane is an optimization problem. We need Lagrange Multipliers.**
 
 
 
-# LAGRANGE MULTIPLIERS
+# **LAGRANGE MULTIPLIERS**
 ![55](/blog/img/shot_1764024683.png)
 If you have a minimization or a maximization problem and some constraints in your system, you need Lagrange Multipliers.
 
@@ -117,14 +117,14 @@ Here is the Lagrangian of the max-margin optimization problem.
 
 (Is it accurate for the 2D-case or..?)
 
-#### Primal and Dual Problems of SVM
+#### **Primal and Dual Problems of SVM**
 Every constrained optimization problem has a paired problem called its dual problem, constructed from the Lagrangian of the original problem.
 ![1111](/blog/img/shot_1764030161.png)
 
 
 
 
-#### IMPORTANT!!!
+#### **IMPORTANT!!!**
 
 Kernel function is NOT the hyperplane or decision surface. Hyperplane is the decision boundary, the seperation line.
 
@@ -139,7 +139,7 @@ transpose(w).x is the dot product and it is basically sum over w.x vectors. Or d
 
 We try to optimize the margin. Where margin = 2 / ||w|| .
 
-### Larger the margin, better the SVM!!!
+### **Larger the margin, better the SVM!!!**
 smaller ||w||, larger the margin, better the SVM. Therefore the optimization goal is:
 
 ![1111111111](/blog/img/shot_1763929359.png)
@@ -147,7 +147,7 @@ smaller ||w||, larger the margin, better the SVM. Therefore the optimization goa
 
 
 
-#### Kernel... Kernel is just a function. A similarity function that measured the similarity between two points in a high dimensional space.
+#### **Kernel... Kernel is just a function. A similarity function that measured the similarity between two points in a high dimensional space.**
 
 What does high-dimensional feature space refer to? If your data has two features, it lives in 2D space. If 3 features, then 3D space and if 100 features then
 100-dimensional space. All of the data points or samples must have the same number of features (dimensions)!!! Otherwise the algorithm will fail..
@@ -172,7 +172,7 @@ Do not mix up the kernel (statistics) which is a different definition and basica
 
 
 
-### 1.4.1.1. Multi-class classification
+## **1.4.1.1. Multi-class classification**
 Multi-class classification refers to when your label count is > 2 basically.
 
 y = [0,1] => binary Classification
@@ -197,7 +197,7 @@ Check out One-vs-Rest and One-vs-One strategies as well.
 
 
 
-### 1.4.1.2. Scores and probabilities
+## **1.4.1.2. Scores and probabilities**
 
 For each class (or label), the datapoint is assigned to a score (or a probability). For binary case it is a single score for each sample, for multiple classes the samples
 is assigned to scores for each class. Looking something like:
@@ -205,12 +205,12 @@ is assigned to scores for each class. Looking something like:
 
 
 
-### 1.4.1.3. Unbalanced problems
+## **1.4.1.3. Unbalanced problems**
 
 
-##### SVMs decision function. WTF is that?
+##### **SVMs decision function. WTF is that?**
 
-## 1.4.2. Regression
+# **1.4.2. Regression**
 
 Support vector classification can be used to solve regression problems. As it is called Support Vector Regression.
 First things first, what the fuck is a support vector?
