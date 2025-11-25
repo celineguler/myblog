@@ -21,7 +21,8 @@ Note that we follow the https://scikit-learn.org/stable/modules/svm.html# page f
 
 
 
-
+<br>
+<br>
 
 ### **1.4.1. Classification**
 ![5](/blog/img/shot_1763824580.png)
@@ -142,7 +143,7 @@ smaller ||w||, larger the margin, better the SVM. Therefore the optimization goa
 ![1111111111](/blog/img/shot_1763929359.png)
 
 
-
+<br>
 
 ##### **Kernel... Kernel is just a function. A similarity function that measured the similarity between two points in a high dimensional space.**
 
@@ -173,7 +174,7 @@ https://en.wikipedia.org/wiki/Kernel_method
 
 Do not mix up the kernel (statistics) which is a different definition and basically refers to kernel as the unnormalized form of a distribution.
 
-
+<br>
 
 #### **1.4.1.1. Multi-class classification**
 Multi-class classification refers to when your label count is > 2 basically.
@@ -201,6 +202,7 @@ Decision function returns an array, and distance from the "hyperline". It's shap
 Check out One-vs-Rest and One-vs-One strategies as well.
 
 
+<br>
 
 #### **1.4.1.2. Scores and probabilities**
 
@@ -208,12 +210,14 @@ For each class (or label), the datapoint is assigned to a score (or a probabilit
 is assigned to scores for each class. Looking something like:
 
 
-
+<br>
 
 #### **1.4.1.3. Unbalanced problems**
 
 
 ##### **SVMs decision function. WTF is that?**
+
+<br>
 
 ### **1.4.2. Regression**
 
