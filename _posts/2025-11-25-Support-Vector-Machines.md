@@ -226,7 +226,7 @@ I will plug this example right here from svm.py code:
 ![666](/blog/img/shot_1763915897.png)
 Support vector(s) are returned by a classifier object. What is a classifier object?
 
->>> clf2.support_vectors_
+       >>>> clf2.support_vectors_
 
 array([[ 0.,  0.],
        [-1., -1.],
