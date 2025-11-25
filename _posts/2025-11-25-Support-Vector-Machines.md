@@ -28,7 +28,7 @@ Note that we follow the https://scikit-learn.org/stable/modules/svm.html# page f
 
 
 
-# **1.4.1. Classification**
+### **1.4.1. Classification**
 ![5](/blog/img/shot_1763824580.png)
 
 **SVC, NuSVC, LinearSVC...**
@@ -42,13 +42,13 @@ Support vector machines finds an optimal seperation of the data. Either linear o
 **SVM trying to maximize the margin around the hyperplane. It means it tries to optimize the distance from the data points (support vectors) around the hyperplane.**
 ***It is a maximization problem.* We can use Lagrangian multipliers (always!) when there is a maximization problem and some possible constraints.**
 
-## **2D-case**
+### **2D-case**
 Hyperplane is defined by (a,b,c) coefficient where,
 (1) ax+by-c>=0
 (2) ax+by-c=< 0
 The (1) for class 1 and (2) for class 2 data points. This is the equation of the seperation line. Now you can change your notation, defining:
 
-### **Notation**
+#### **Notation**
 ![7](/blog/img/shot_1764030396.png)
 the weight vector and the position vector:
 ![8](/blog/img/shot_1764030437.png)
@@ -100,11 +100,11 @@ You can find the proof: https://en.wikipedia.org/wiki/Hyperplane_separation_theo
 
 Also check out: https://arxiv.org/pdf/1107.1358 ***"On the Furthest Hyperplane Problem and Maximal Margin Clustering"***
 
-### **PROBLEM: The problem of finding an optimal the hyperplane is an optimization problem. We need Lagrange Multipliers.**
+#### **PROBLEM: The problem of finding an optimal the hyperplane is an optimization problem. We need Lagrange Multipliers.**
 
 
 
-# **LAGRANGE MULTIPLIERS**
+## **LAGRANGE MULTIPLIERS**
 ![55](/blog/img/shot_1764024683.png)
 If you have a minimization or a maximization problem and some constraints in your system, you need Lagrange Multipliers.
 
@@ -139,7 +139,7 @@ transpose(w).x is the dot product and it is basically sum over w.x vectors. Or d
 
 We try to optimize the margin. Where margin = 2 / ||w|| .
 
-### **Larger the margin, better the SVM!!!**
+#### **Larger the margin, better the SVM!!!**
 smaller ||w||, larger the margin, better the SVM. Therefore the optimization goal is:
 
 ![1111111111](/blog/img/shot_1763929359.png)
@@ -147,22 +147,28 @@ smaller ||w||, larger the margin, better the SVM. Therefore the optimization goa
 
 
 
-#### **Kernel... Kernel is just a function. A similarity function that measured the similarity between two points in a high dimensional space.**
+##### **Kernel... Kernel is just a function. A similarity function that measured the similarity between two points in a high dimensional space.**
 
 What does high-dimensional feature space refer to? If your data has two features, it lives in 2D space. If 3 features, then 3D space and if 100 features then
 100-dimensional space. All of the data points or samples must have the same number of features (dimensions)!!! Otherwise the algorithm will fail..
 
 ![222](/blog/img/shot_1763853284.png)
+
 In scikit learn, you can model these kernel like following:
 
-clf = svm.SVC(kernel="linear", C=C)
-clf = svm.SVC(kernel="rbf", gamma=, C=C)
-clf = svm.SVC(kernel="poly", degree=, gamma=, C=C)
-then you can fit them.
-clf.fit(X: your_samples_array, y: your_classes_array)
+
+       clf = svm.SVC(kernel="linear", C=C)
+       clf = svm.SVC(kernel="rbf", gamma=, C=C)
+       clf = svm.SVC(kernel="poly", degree=, gamma=, C=C)
+       then you can fit them.
+       clf.fit(X: your_samples_array, y: your_classes_array)
+
+
 ![333](/blog/img/shot_1763854216.png)
 
-also check: https://en.wikipedia.org/wiki/Radial_basis_function_kernel
+also check:
+
+https://en.wikipedia.org/wiki/Radial_basis_function_kernel
 
 https://en.wikipedia.org/wiki/Similarity_measure
 
@@ -172,7 +178,7 @@ Do not mix up the kernel (statistics) which is a different definition and basica
 
 
 
-## **1.4.1.1. Multi-class classification**
+#### **1.4.1.1. Multi-class classification**
 Multi-class classification refers to when your label count is > 2 basically.
 
 y = [0,1] => binary Classification
@@ -182,10 +188,12 @@ y = [0,1,2] => Multi-class classification already.
 SVM was designed for binary classification. SVM is originally designed by Vladimir Vapnik in 1990s for binary classification, +1 and -1.
 
 ![444](/blog/img/shot_1763854845.png)
+
 **This is SVM optimization problem. Leading us to understand why is it originally a binary classifier and not Multi-class classifier.**
 Multi-class clf. approach:    https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/
 
 For multi-classification problems, we split the multi-class classification dataset into multiple binary classification datasets and fit a binary classification model on each.
+
 ![555](/blog/img/shot_1763855018.png)
 
 
@@ -197,7 +205,7 @@ Check out One-vs-Rest and One-vs-One strategies as well.
 
 
 
-## **1.4.1.2. Scores and probabilities**
+#### **1.4.1.2. Scores and probabilities**
 
 For each class (or label), the datapoint is assigned to a score (or a probability). For binary case it is a single score for each sample, for multiple classes the samples
 is assigned to scores for each class. Looking something like:
@@ -205,12 +213,12 @@ is assigned to scores for each class. Looking something like:
 
 
 
-## **1.4.1.3. Unbalanced problems**
+#### **1.4.1.3. Unbalanced problems**
 
 
 ##### **SVMs decision function. WTF is that?**
 
-# **1.4.2. Regression**
+### **1.4.2. Regression**
 
 Support vector classification can be used to solve regression problems. As it is called Support Vector Regression.
 First things first, what the fuck is a support vector?
@@ -293,7 +301,3 @@ Source:
 
 
 
-
-
-
-</div>
