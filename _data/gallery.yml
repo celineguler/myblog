@@ -82,9 +82,9 @@
 
 - url: /blog/images/redpanda.jpg
 
-- url: /blog/images/nasa.png
+- url: /blog/images/nasaa.png
 
-- url: /blog/images/gandhi.png
+- url: /blog/images/dnaa.gif
 
 - url: /blog/images/mammals.png
 
@@ -148,8 +148,6 @@
 
 - url: /blog/images/greta.jpg
 
-- url: /blog/images/titanic.jpg
-
 - url: /blog/images/illum.png
  
 - url: /blog/images/quantumcomputer.jpg
@@ -184,8 +182,6 @@
 
 - url: /blog/images/dana.png
 
-- url: /blog/images/DNA.gif
-
 - url: /blog/images/colombia.png
 
 - url: /blog/images/jong.jpg
@@ -194,7 +190,7 @@
 
 - url: /blog/images/moon.jpg
 
-- url: /blog/images/bush.png
+# - url: /blog/images/bush.png
 
 - url: /blog/images/statueoflib.jpg
 
