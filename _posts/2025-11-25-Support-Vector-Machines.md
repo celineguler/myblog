@@ -3,10 +3,6 @@ layout: post
 title: "Support Vector Machines"
 ---
 
-<link rel="stylesheet" href="file:///C:/Users/Selin/notes_style/style.css">
-
-<div class="note">
-
 
 Support Vector Machines
 What are support vector machines?
