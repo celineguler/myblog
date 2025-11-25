@@ -3,7 +3,7 @@ layout: post
 title: "Support Vector Machines"
 ---
 
-<link rel="stylesheet" href="/assets/css/notes_style.css">
+<link rel="stylesheet" href="file:///C:/Users/Selin/notes_style/style.css">
 
 <div class="note">
 
@@ -21,9 +21,9 @@ What does it mean that different Kernel functions can be specified for the decis
 Note that we follow the https://scikit-learn.org/stable/modules/svm.html# page for content. We will add AIMA 18.6 and 18.9 as well.
 <br><br>
 
-<img src="img/shot_1763858316.png" class="screenshot">
+<img src="blog/img/shot_1763858316.png" class="screenshot">
 
-<img src="img/shot_1763858516.png" class="screenshot">
+<img src="blog/img/shot_1763858516.png" class="screenshot">
 <br>
 
 
@@ -34,10 +34,10 @@ Note that we follow the https://scikit-learn.org/stable/modules/svm.html# page f
 
 <br>
 <h2>1.4.1. Classification</h2>
-<img src="img/shot_1763824580.png" class="screenshot">
+<img src="blog/img/shot_1763824580.png" class="screenshot">
 
 <h4>SVC, NuSVC, LinearSVC...</h4>
-<img src="img/shot_1763922269.png" class="screenshot">
+<img src="blog/img/shot_1763922269.png" class="screenshot">
 
 Support vector machines finds an optimal seperation of the data. Either linear or non-linearly. Obviously, nonlinearly it is harder.<br>
 <b>
@@ -54,18 +54,18 @@ Hyperplane is defined by (a,b,c) coefficient where,
 The (1) for class 1 and (2) for class 2 data points. This is the equation of the seperation line. Now you can change your notation, defining:
 <br>
 <h3>Notation</h3>
-<img src="img/shot_1764030396.png" class="screenshot">
+<img src="blog/img/shot_1764030396.png" class="screenshot">
 the weight vector and the position vector:
-<img src="img/shot_1764030437.png" class="screenshot">
+<img src="blog/img/shot_1764030437.png" class="screenshot">
 and get:
-<img src="img/shot_1764030683.png" class="screenshot">
+<img src="blog/img/shot_1764030683.png" class="screenshot">
 notation for the hyperplane (if you are confused, theta=w, x=xi and theta_0 is c).
 <br>Here the w is the weight vector. c is the shift from the origin. You may ask, if w elements are nonzero, then xi is a support vector?
 <br>
 Check: https://kuleshov-group.github.io/aml-book/contents/lecture13-svm-dual.html#the-dual-of-the-svm-problem
 <br>
 <b>No.</b> We actually check the contribution to the weight by checking if lagrange multiplier of xi is 0 or nonzero. Within:
-<img src="img/shot_1764030915.png" class="screenshot">
+<img src="blog/img/shot_1764030915.png" class="screenshot">
 
 xi: ith training point<br>
 yi: ith label<br>
@@ -86,13 +86,13 @@ you are thinking of <b>Support Vector Machines</b>.
 <h3>Support vectors are the data points of the training set that would influence or change the position of the dividing hyperplane if removed!!!</h3>
 Note that, support vectors are actual vectors indeed. Mostly the magnitude of these vectors are discussed, as it is the actual distance of the support vector 
 data point from the seperation line, but since we have an origin (0,0) and a coordinate system, these data points are actually vectors.
-<img src="img/shot_1764027490.png" class="screenshot">
+<img src="blog/img/shot_1764027490.png" class="screenshot">
 The d is the 1/2 of "street width" (the margin).
 <br>
 Note that, support vectors have nonzero weights, and by maximazing the margin we try to <b>reduce the number of the weights</b>. Important to note, not reduce weights, but the number of the weights!!!
 <br>
 Each non-zero weight αᵢ corresponds to one support vector. Maximizing margin naturally tries to minimize the number of non-zero αᵢ.
-<img src="img/shot_1764028335.png" class="screenshot">
+<img src="blog/img/shot_1764028335.png" class="screenshot">
 
 <br>
 <h4>Q1: Can a support vector become non-support during optimization? (Meal: Can the nonzero weight of a support vector reduce to zero during optimization?)<br>
@@ -100,7 +100,7 @@ Q2: What if a support vector’s αᵢ decreases but not to zero? Does it affect
 Discuss. Test your understanding. Both answers are yes.
 
 
-<img src="img/shot_1763922764.png" class="screenshot">
+<img src="blog/img/shot_1763922764.png" class="screenshot">
 You can find the proof: https://en.wikipedia.org/wiki/Hyperplane_separation_theorem
 <br>
 Also check out: https://arxiv.org/pdf/1107.1358 <b><i>"On the Furthest Hyperplane Problem and Maximal Margin Clustering"</i></b>
@@ -110,21 +110,21 @@ Also check out: https://arxiv.org/pdf/1107.1358 <b><i>"On the Furthest Hyperplan
 
 <br><br><br><br>
 <h2 style="text-align: center;">LAGRANGE MULTIPLIERS</h2>
-<img src="img/shot_1764024683.png" class="screenshot">
+<img src="blog/img/shot_1764024683.png" class="screenshot">
 If you have a minimization or a maximization problem and some constraints in your system, you need Lagrange Multipliers.
 <br>
 As you have the gradient of your function and gradient of your constraints:
-<img src="img/shot_1764024868.png" class="screenshot">
+<img src="blog/img/shot_1764024868.png" class="screenshot">
 
 <br><br>
 Here is the Lagrangian of the max-margin optimization problem.
-<img src="img/shot_1764028909.png" class="screenshot">
+<img src="blog/img/shot_1764028909.png" class="screenshot">
 
 (Is it accurate for the 2D-case or..?)
 
 <h3>Primal and Dual Problems of SVM</h3>
 Every constrained optimization problem has a paired problem called its <b>dual problem</b>, constructed from the Lagrangian of the original problem.
-<img src="img/shot_1764030161.png" class="screenshot">
+<img src="blog/img/shot_1764030161.png" class="screenshot">
 
 <br>
 <br><br><br>
@@ -138,7 +138,7 @@ Kernel function is a similarity measure that allows the SVM to compute inner pro
 <br>
 <br><br>
 The following is the hyperplane:
-<img src="img/shot_1763928961.png" class="screenshot">
+<img src="blog/img/shot_1763928961.png" class="screenshot">
 It determines the decision boundary. x is the samples or data points vector. w is the normal line to the seperation line. b is the shift from the origin.
 transpose(w).x is the dot product and it is basically sum over w.x vectors. Or dot products of w and x vectors. What does it refer to?
 <br>
@@ -147,7 +147,7 @@ We try to optimize the margin. Where margin = 2 / ||w|| .
 <h3>Larger the margin, better the SVM!!!</h3>
 smaller ||w||, larger the margin, better the SVM. Therefore the optimization goal is:
 <br>
-<img src="img/shot_1763929359.png" class="screenshot">
+<img src="blog/img/shot_1763929359.png" class="screenshot">
 
 
 
@@ -157,7 +157,7 @@ smaller ||w||, larger the margin, better the SVM. Therefore the optimization goa
 What does high-dimensional feature space refer to? If your data has two features, it lives in 2D space. If 3 features, then 3D space and if 100 features then
 100-dimensional space. All of the data points or samples must have the same number of features (dimensions)!!! Otherwise the algorithm will fail..
 <br><br>
-<img src="img/shot_1763853284.png" class="screenshot">
+<img src="blog/img/shot_1763853284.png" class="screenshot">
 In scikit learn, you can model these kernel like following:
 <br>
 clf = svm.SVC(kernel="linear", C=C)<br>
@@ -165,7 +165,7 @@ clf = svm.SVC(kernel="rbf", gamma=, C=C)<br>
 clf = svm.SVC(kernel="poly", degree=, gamma=, C=C)<br>
 then you can fit them.<br>
 clf.fit(X: your_samples_array, y: your_classes_array)
-<img src="img/shot_1763854216.png" class="screenshot">
+<img src="blog/img/shot_1763854216.png" class="screenshot">
 
 also check: https://en.wikipedia.org/wiki/Radial_basis_function_kernel
 <br>
@@ -186,12 +186,12 @@ y = [0,1,2] => Multi-class classification already.
 <br>
 SVM was designed for binary classification. SVM is originally designed by Vladimir Vapnik in 1990s for binary classification, +1 and -1.
 <br>
-<img src="img/shot_1763854845.png" class="screenshot">
+<img src="blog/img/shot_1763854845.png" class="screenshot">
 <b>This is SVM optimization problem. Leading us to understand why is it originally a binary classifier and not Multi-class classifier.</b><br>
 Multi-class clf. approach:    https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/
 <br><br>
 For multi-classification problems, we split the multi-class classification dataset into multiple binary classification datasets and fit a binary classification model on each.
-<img src="img/shot_1763855018.png" class="screenshot">
+<img src="blog/img/shot_1763855018.png" class="screenshot">
 
 <br>
 one-versus-one is applied. What is ovo method? It reshapes the decision_function. to n_classes * (n_classes - 1) / 2.
@@ -220,7 +220,7 @@ is assigned to scores for each class. Looking something like:
 Support vector classification can be used to solve regression problems. As it is called <b>Support Vector Regression</b>.
 <br>First things first, what the fuck is a support vector?
 <br>I will plug this example right here from svm.py code:
-<img src="img/shot_1763915897.png" class="screenshot">
+<img src="blog/img/shot_1763915897.png" class="screenshot">
 Support vector(s) are returned by a classifier object. What is a classifier object?
 <br>
 >>> clf2.support_vectors_
@@ -234,9 +234,9 @@ also this is the support vector of clf2. Let's understand what it refers to.
 <br>
 <b>These two classifiers who are using the same sample set and label set, returning different support vectors refer to their different decision boundaries!!!</b>
 <br>
-<img src="img/shot_1763916481.png" class="screenshot">
+<img src="blog/img/shot_1763916481.png" class="screenshot">
 Therefore support vectors refer to the closest points (from sample set) to the decision boundary of the classifier. They are the points that satisfy:
-<img src="img/shot_1763916549.png" class="screenshot">
+<img src="blog/img/shot_1763916549.png" class="screenshot">
 When a new sample (a data point) is provided to the SVM, it is only compared to the support vectors, not all data points.
 <br>
 Support vectors are the most difficult data points to classify.
