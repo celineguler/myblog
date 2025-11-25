@@ -64,10 +64,11 @@ yi: ith label
 
 if λi is 0 for a xi, then xi is not a support vector. 
 
+<br>
 
-There a lot of solutions for (a,b,c).
+There a lot of solutions for **(a,b,c)**.
 
-Which points should influence the optimality?
+**Which points should influence the optimality?**
 
 If you say all points, you are thinking of **Linear regression** or **Neural nets** probably.
 
