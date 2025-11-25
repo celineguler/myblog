@@ -46,6 +46,8 @@
 
 - url: /blog/images/hitlr.jpg
 
+- url: /blog/images/firstplane.jpg
+
 - url: /blog/images/californication.jpg
 
 - url: /blog/images/evolution.jpg
@@ -53,6 +55,8 @@
 - url: /blog/images/bonaparte.jpg
 
 - url: /blog/images/atomic.jpg
+
+- url: /blog/images/africa.png
 
 - url: /blog/images/marilyn.jpg
 
@@ -65,8 +69,6 @@
 - url: /blog/images/jesus.jpg
 
 - url: /blog/images/wars.gif
-
-- url: /blog/images/mussolini.png
 
 - url: /blog/images/walt.jpg
 
@@ -82,9 +84,7 @@
 
 - url: /blog/images/nasa.png
 
-- url: /blog/images/firstplane.jpg
-
-- url: /blog/images/chernobyl.png
+- url: /blog/images/gandhi.png
 
 - url: /blog/images/mammals.png
 
@@ -92,13 +92,13 @@
 
 - url: /blog/images/armstrong.jpg
 
-- url: /blog/images/hiroshima.png
-
 - url: /blog/images/hitlers.png
 
 - url: /blog/images/campbells.png
 
 - url: /blog/images/jobs.png
+
+- url: /blog/images/chernobyl.png
 
 - url: /blog/images/pyramids.png
 
@@ -116,7 +116,9 @@
 
 - url: /blog/images/communist.jpg
 
-#- url: /blog/images/gay.png
+- url: /blog/images/hiroshima.png
+
+# - url: /blog/images/gay.png
 
 - url: /blog/images/galileo.jpg
 
@@ -158,7 +160,7 @@
 
 - url: /blog/images/budism.jpg
 
-#- url: /blog/images/kiss.jpg
+- url: /blog/images/kiss.jpg
 
 - url: /blog/images/lovelace.jpg
 
@@ -180,7 +182,9 @@
 
 - url: /blog/images/tonya.jpg
 
-- url: /blog/images/ataturkum.jpg
+- url: /blog/images/dana.png
+
+- url: /blog/images/DNA.gif
 
 - url: /blog/images/colombia.png
 
@@ -189,6 +193,8 @@
 - url: /blog/images/tolstoy.jpg
 
 - url: /blog/images/moon.jpg
+
+- url: /blog/images/bush.png
 
 - url: /blog/images/statueoflib.jpg
 
